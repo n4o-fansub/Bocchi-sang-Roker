@@ -29,7 +29,6 @@ if episode_meta is None:
     print(f"[!] Episode {current_episode} not found in properties.yaml")
     sys.exit(1)
 
-print(episode_meta)
 print(f"[?] Processing episode {current_episode}...")
 print(f"[?] Using basename: {basename}")
 chapters_data: dict[str, Chapter] = {}

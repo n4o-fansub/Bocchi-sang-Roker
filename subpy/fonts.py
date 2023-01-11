@@ -326,7 +326,6 @@ def validate_fonts(
                 continue
 
             if font is None:
-                print(state)
                 report.report(state, Line(text, nline), "font")
                 continue
 
