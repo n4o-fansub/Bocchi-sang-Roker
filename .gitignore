@@ -1,0 +1,31 @@
+## Video stuff
+*.mkv
+*.mp4
+*.aac
+*.opus
+*.flac
+*.m4a
+*.mka
+*.mks
+*.ffindex
+*.lwi
+
+## Python related
+__pycache__
+.venv/
+venv/
+env/
+
+## Others
+_old/
+
+## Fansub related
+mocha/
+*.zip
+*.7z
+*.rar
+# no kfx script for you bitch
+**/*_kfx.py
+#!subs*/**/*.py
+final/
+*.merged.ass

@@ -1,0 +1,156 @@
+# Special formatter:
+# - {EPISODE} -- 2 digits padded episode number
+
+basename: bocchi
+subsfolder: 'subs{EPISODE}'
+basetitle: '[‽] Bocchi sang Roker!'
+subs:
+  dialogues: '{subsfolder}/{basename}{EPISODE}.dialogue*.ass' # Dialogue!
+  typesetting: '{subsfolder}/{basename}{EPISODE}.ts*.ass' # Typesetting!
+  songs:
+    op: 'common/op/{basename}OP.ass' # [01-07, 09-11] seisyun complex/Adolescence complex
+    ed1: 'common/ed1/{basename}ED1.ass' # [01-03] Distortion!!
+    ed2: 'common/ed2/{basename}ED2.styled.ass' # [04-07] Karakara
+    ed3: 'common/ed3/{basename}ED3b.styled.ass' # [09-11] What is wrong with
+    ed3b: 'common/ed3/{basename}ED3.styled.ass' # [08] What is wrong with (credit roll style)
+    ed4: 'common/ed4/{basename}ED4.ass' # [12] Rockn' Roll, Morning Light Falls on You (AKFG cover)
+    insert1: 'common/insert/{basename}INS1.ass' # [05] Guitar, Loneliness and Blue Planet
+    insert1b: 'common/insert/{basename}INS1b.ass' # [08] Guitar, Loneliness and Blue Planet (cringe version)
+    insert2: 'common/insert/{basename}INS2.ass' # [08] That band
+    insert3: 'common/insert/{basename}INS3.ass' # [12] Never forget
+    insert4: 'common/insert/{basename}INS4.ass' # [12] If I could be a constellation
+
+syncs:
+  '01':
+    op: '-' # means immediate merge, no sync
+    ed1: '-'
+  '02':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed1:
+      chapter: 'Lagu Penutup'
+  '03':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed1:
+      chapter: 'Lagu Penutup'
+  '04':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed2:
+      chapter: 'Lagu Penutup'
+  '05':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed2:
+      chapter: 'Lagu Penutup'
+  '06':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed2:
+      chapter: 'Lagu Penutup'
+  '07':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed2:
+      chapter: 'Lagu Penutup'
+  '08':
+    ed3b:
+      chapter: 'Lagu Penutup'
+  '09':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed3:
+      chapter: 'Lagu Penutup'
+  '10':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed3:
+      chapter: 'Lagu Penutup'
+  '11':
+    op:
+      chapter: 'Lagu Pembuka'
+    ed3:
+      chapter: 'Lagu Penutup'
+  '12':
+    ed4:
+      chapter: 'Lagu Penutup'
+
+merge:
+  '01':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed1
+  '02':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed1
+  '03':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed1
+  '04':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed2
+  '05':
+    - dialogues
+    - typesetting
+    - songs.insert1
+    - songs.op
+    - songs.ed2
+  '06':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed2
+  '07':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed2
+  '08':
+    - dialogues
+    - typesetting
+    - songs.insert1b
+    - songs.insert2
+    - songs.ed3b
+  '09':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed3
+  '10':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed3
+  '11':
+    - dialogues
+    - typesetting
+    - songs.op
+    - songs.ed3
+  '12':
+    - dialogues
+    - typesetting
+    - songs.insert3
+    - songs.insert4
+    - songs.ed4
+
+titles:
+  '01': 'Bocchi Berguling Sendirian'
+  '02': 'Sampai Esok'
+  '03': 'Aku akan Segera ke Sana'
+  '04': 'Lompatan (Para) Gadis'
+  '05': 'Ikan yang Tak Bisa Terbang'
+  '06': 'Delapan Panorama Indah'
+  '07': 'Menuju Rumahmu'
+  '08': 'Bocchi sang Roker!'
+  '09': 'Rayuan Enoshima'
+  '10': 'Sehabis Gulita'
+  '11': 'Duodesimal Mentari Terbenam'
+  '12': 'Sang Pagi Menyinarimu'
