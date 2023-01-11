@@ -1,0 +1,67 @@
+name: Check and Build
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - uses: syphar/restore-virtualenv@v1
+        id: cache-virtualenv
+        with:
+          requirement_files: requirements.txt  # this is optional
+
+      # the package installation will only be executed when the
+      # requirements-files have changed.
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+        
+      - name: Run Episode
+        run: |
+          for i in {1..1}; do
+            python3 main.py $i
+          done
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: subtitles-build
+          path: |
+            final/*.mks
+            final/*.ass
+
+  build:
+    runs-on: ubuntu-latest
+    needs: check
+    if: "!contains(github.event.head_commit.message, '[build]')"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: subtitles-build
+          path: |
+            final/*.mks
+            final/*.ass
+
+      - name: List files
+        run: |
+          ls -alh
