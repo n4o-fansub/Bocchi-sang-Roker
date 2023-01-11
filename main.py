@@ -1,13 +1,13 @@
 import argparse
-from pathlib import Path
 import sys
+from pathlib import Path
 
 from ass_parser import AssFile, read_ass
 from pymkv import MKVFile, MKVTrack
-from subpy.chapters import Chapter, get_chapters_from_ass, generate_chapter_file
-from subpy.fonts import find_fonts, validate_fonts, Line
-from subpy.merger import merge_ass_and_sync, parse_sync_timestamp
 
+from subpy.chapters import Chapter, generate_chapter_file, get_chapters_from_ass
+from subpy.fonts import Line, find_fonts, validate_fonts
+from subpy.merger import merge_ass_and_sync, parse_sync_timestamp
 from subpy.properties import SyncPoint, read_and_parse_properties
 from subpy.utils import incr_layer
 
