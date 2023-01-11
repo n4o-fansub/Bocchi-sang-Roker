@@ -51,9 +51,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: subtitles-build
-          path: |
-            final/*.mks
-            final/*.ass
+          path: final
 
   build:
     runs-on: ubuntu-22.04
@@ -68,9 +66,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: subtitles-build
-          path: |
-            final/*.mks
-            final/*.ass
+          path: final
 
       - name: List files
         run: |
@@ -80,11 +76,7 @@ jobs:
       - name: Write files
         run: |
           echo "*.mks filter=lfs diff=lfs merge=lfs -text" >> final/.gitattributes
-          cat <<EOT >> ./final/README.md
-          # [‽] Bocchi sang Roker! - Subtitle File
-          Silakan unduh file `*.mks` dan mux ke video favorit anda!<br />
-          Atau, silakan download file takarir diatas, lalu mux dengan video anda dan unduh font dari branch `master`.<br />
-          EOT
+          cp README.sub.md final/README.md
 
       - name: Deploy to Archive
         uses: s0/git-publish-subdir-action@develop
