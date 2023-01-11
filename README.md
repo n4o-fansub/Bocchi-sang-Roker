@@ -1,3 +1,9 @@
 # [‽] Bocchi sang Roker! - Subtitle File
-Silakan unduh file  dan mux ke video favorit anda!<br />
-Atau, silakan download file takarir diatas, lalu mux dengan video anda dan unduh font dari branch .<br />
+
+Branch ini hanya menyediakan skrip akhir dan bukan skrip terpisah-pisah dan tidak akan selalu terupdate.<br />
+Dibuat untuk memudahkan pengunduhan saja!
+
+Silakan unduh fail `.mks` yang sudah ada isi takarir, font, dan juga chapters.<br />
+Atau anda dapat mengunduh fail takarir `*.merged.ass`, unduh font dari branch https://github.com/n4o-fansub/Bocchi-sang-Roker/tree/master lalu mux ke video anda!
+
+Silakan dinikmati!
