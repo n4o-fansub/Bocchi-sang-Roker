@@ -11,10 +11,10 @@ Audio File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premux [0
 Video File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premux [04C4A009].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 53
-Active Line: 57
-Video Position: 32546
+Video Zoom Percent: 0.500000
+Scroll Position: 156
+Active Line: 160
+Video Position: 33305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,12 +95,76 @@ Dialogue: 0,0:22:36.13,0:22:36.17,Lagu ED,,0,0,0,shake,{\fsp-1\c&HFFFFFF&\4c&H3C
 Dialogue: 0,0:22:36.17,0:22:36.21,Lagu ED,,0,0,0,shake,{\fsp-1\c&HFFFFFF&\4c&H3CA6F1&\an1\shad0\bord12.96\blur0.5\pos(79.34,1008.08)\3c&HFFFFFF&}To create a solid pulse
 Dialogue: 0,0:22:36.21,0:22:36.25,Lagu ED,,0,0,0,shake,{\fsp-1\c&HFFFFFF&\4c&H3CA6F1&\an1\shad0\bord12.96\blur0.5\pos(78.34,1008.52)\3c&HFFFFFF&}To create a solid pulse
 Dialogue: 2,0:22:33.37,0:22:36.25,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H3CA6F1&\an1\blur0.5\pos(80,1010)}To create a solid pulse
-Dialogue: 0,0:22:36.25,0:22:38.80,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HF2C07C&\an9\blur0.5}Someone, please remove the distortion on my heart
-Dialogue: 0,0:22:38.80,0:22:41.76,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HF2C07C&\an9\blur0.5}And take a look inside me
+Comment: 0,0:22:36.25,0:22:38.80,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HF2C07C&\bord15\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:36.25,0:22:36.50,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord17.44\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:36.50,0:22:36.75,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord13.8\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:36.75,0:22:37.00,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord14.72\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:37.00,0:22:37.25,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord11.08\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:37.25,0:22:37.50,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord13.48\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:37.50,0:22:37.75,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord13.84\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:37.75,0:22:38.00,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord13.28\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:38.00,0:22:38.25,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord17.4\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:38.25,0:22:38.50,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord17.4\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:38.50,0:22:38.75,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord11.72\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:38.75,0:22:38.79,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord11.32\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Dialogue: 4,0:22:36.25,0:22:38.80,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HF2C07C&\an9\blur0.5}Someone, please remove the distortion on my heart
+Dialogue: 0,0:22:38.80,0:22:38.88,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\an9\pos(1840,70)\bord11.32\shad0\blur0.5\3c&HFFFFFF&}And take a look inside me
+Dialogue: 0,0:22:38.88,0:22:39.21,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\an9\pos(1840,70)\bord14.4\shad0\blur0.5\3c&HFFFFFF&}And take a look inside me
+Dialogue: 0,0:22:39.21,0:22:39.59,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\an9\pos(1840,70)\bord15.28\shad0\blur0.5\3c&HFFFFFF&}And take a look inside me
+Dialogue: 0,0:22:39.59,0:22:40.05,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\an9\pos(1840,70)\bord11.08\shad0\blur0.5\3c&HFFFFFF&}And take a look inside me
+Dialogue: 0,0:22:40.05,0:22:40.17,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\an9\pos(1840,70)\bord11.48\shad0\blur0.5\3c&HFFFFFF&}And take a look inside me
+Dialogue: 0,0:22:40.17,0:22:40.34,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\an9\pos(1840,70)\bord13.48\shad0\blur0.5\3c&HFFFFFF&}And take a look inside me
+Dialogue: 0,0:22:40.34,0:22:41.76,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\an9\pos(1840,70)\bord15\shad0\blur0.5\3c&HFFFFFF&}And take a look inside me
+Dialogue: 3,0:22:38.80,0:22:41.76,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HF2C07C&\an9\blur0.5}And take a look inside me
+Dialogue: 0,0:22:41.76,0:22:41.84,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(79.8,1010.93)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:41.84,0:22:41.92,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.67,1009.97)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:41.92,0:22:42.01,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(79.54,1009.95)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.01,0:22:42.09,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.36,1010.65)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.09,0:22:42.17,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(79.09,1010.53)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.17,0:22:42.26,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.11,1009.05)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.26,0:22:42.34,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.47,1010.41)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.34,0:22:42.38,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.81,1009.34)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.38,0:22:42.46,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HFFFFFF&\an1\pos(80,1010)\blur0.5\bord13.2\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.46,0:22:42.97,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HFFFFFF&\an1\pos(80,1010)\blur0.5\bord11.48\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:42.97,0:22:43.01,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.3,1010.45)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.01,0:22:43.09,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.89,1009.45)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.09,0:22:43.17,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(79.34,1009.65)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.17,0:22:43.26,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.49,1010.56)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.26,0:22:43.34,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(79.18,1009.48)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.34,0:22:43.42,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(79.11,1009.01)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.42,0:22:43.51,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.53,1010.13)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.51,0:22:43.59,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.27,1009.44)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.59,0:22:43.67,Lagu ED,,0,0,0,shake,{\fsp-1\4c&HFFFFFF&\an1\pos(80.44,1009.18)\blur0.5\bord12.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.67,0:22:43.76,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HFFFFFF&\an1\pos(80,1010)\blur0.5\bord13.64\shad0\3c&HFFFFFF&}Nobody can get inside my heart
+Dialogue: 0,0:22:43.76,0:22:44.51,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HFFFFFF&\an1\pos(80,1010)\blur0.5\bord11.72\shad0\3c&HFFFFFF&}Nobody can get inside my heart
 Dialogue: 0,0:22:41.76,0:22:44.51,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}Nobody can get inside my heart
-Dialogue: 0,0:22:44.51,0:22:46.97,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}But it's the kind of night
+Dialogue: 0,0:22:44.51,0:22:44.59,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.91,1010.31)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:44.59,0:22:44.68,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.1,1009.96)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:44.68,0:22:44.76,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.92,1010.5)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:44.76,0:22:44.84,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.71,1010.6)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:44.84,0:22:44.93,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.86,1009.57)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:44.93,0:22:45.01,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.32,1009.11)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:45.01,0:22:45.09,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.55,1010.59)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:45.09,0:22:45.18,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.29,1010.01)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:45.18,0:22:45.22,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.77,1010.66)\blur0.5\bord15.9\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:45.22,0:22:45.30,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord16.44\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:45.30,0:22:45.84,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord12.36\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:45.84,0:22:45.93,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.78,1009.12)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:45.93,0:22:46.01,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.79,1010.03)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.01,0:22:46.09,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.61,1009.79)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.09,0:22:46.14,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.15,1010.23)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.14,0:22:46.22,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.87,1009.24)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.22,0:22:46.30,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.96,1010.27)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.30,0:22:46.39,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.18,1010.69)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.39,0:22:46.43,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.76,1010.68)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.43,0:22:46.51,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord15.13\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.51,0:22:46.97,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord16.98\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 4,0:22:44.51,0:22:46.97,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}But it's the kind of night
+Dialogue: 0,0:22:46.97,0:22:47.05,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord15\shad0\3c&HFFFFFF&}when I hope someone will
 Dialogue: 0,0:22:46.97,0:22:47.05,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}when I hope someone will
+Dialogue: 0,0:22:47.05,0:22:49.22,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HC59AF2&\an1\pos(80,1010)\blur0.5\bord15\shad0\3c&HFFFFFF&}when I hope someone will
 Dialogue: 0,0:22:47.05,0:22:49.22,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HC59AF2&\an1\blur0.5}when I hope someone will
+Dialogue: 0,0:22:49.22,0:22:49.26,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HC59AF2&\an1\clip(m 336 963.43 l 408 1037.71 -28.57 1034.29 -29.71 936)\pos(80,1010)\blur0.5\bord15\shad0\3c&HFFFFFF&}when I hope someone will
 Dialogue: 0,0:22:49.22,0:22:49.26,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HC59AF2&\an1\clip(m 336 963.43 l 408 1037.71 -28.57 1034.29 -29.71 936)\blur0.5}when I hope someone will
 Dialogue: 1,0:22:49.76,0:22:49.81,Lagu ED,,0,0,0,,{\an1\shad0\bord15\fsp-1\pos(50,1035)\3c&HFFFFFF&\c&HFFFFFF&\iclip(m 272 948 b 288.67 979 330 1037 360 1066.67 l -33.33 1052 -33.33 950.67)}Distortion, it's motion
 Dialogue: 1,0:22:49.81,0:22:51.77,Lagu ED,,0,0,0,,{\an1\shad0\bord15\fsp-1\pos(50,1035)\3c&HFFFFFF&\c&HFFFFFF&}Distortion, it's motion
@@ -118,8 +182,14 @@ Dialogue: 2,0:22:59.40,0:23:00.78,Lagu ED,,0,0,0,,{\an1\c&H334C75&\4c&HC59AF2&\f
 Dialogue: 2,0:23:00.78,0:23:02.78,Lagu ED,,0,0,0,,{\an1\c&H334C75&\4c&HC59AF2&\fsp-1\pos(50,1035)\blur0.5}Distortion is always like that
 Dialogue: 2,0:23:02.78,0:23:07.24,Lagu ED,,0,0,0,,{\an1\c&H334C75&\4c&HC59AF2&\fsp-1\pos(50,1035)\blur0.5}My heart takes off, outpacing my left brain
 Dialogue: 2,0:23:07.24,0:23:08.91,Lagu ED,,0,0,0,,{\an1\c&H334C75&\4c&HC59AF2&\pos(50,1035)\fsp-1\blur0.5}Toward where you are
-Dialogue: 0,0:23:09.08,0:23:14.41,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(1297.96,145)\blur0.5}An escort to the next note
-Dialogue: 0,0:23:11.66,0:23:14.41,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(617.6,896)\blur0.5}Distortion on my day-to-day anguish
+Dialogue: 0,0:23:09.08,0:23:09.16,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(1297.96,168.5)\an5\blur0.5\fscy100.94\bord12\shad0\fscx100.94\3c&HFFFFFF&\3a&H28&}An escort to the next note
+Dialogue: 0,0:23:09.08,0:23:09.16,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(1297.96,168.5)\an5\blur0.5\fscy100.94\fscx100.94}An escort to the next note
+Dialogue: 0,0:23:09.16,0:23:14.41,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(1297.96,168.5)\an5\blur0.5\fscx98\fscy98}An escort to the next note
+Dialogue: 0,0:23:09.16,0:23:14.41,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(1297.96,168.5)\an5\blur0.5\fscx98\fscy98}An escort to the next note
+Dialogue: 0,0:23:11.66,0:23:11.74,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\bord12\shad0\pos(617.6,918.5)\an5\blur0.5\fscx103\fscy103\3c&HFFFFFF&\3a&H28&}Distortion on my day-to-day anguish
+Dialogue: 0,0:23:11.66,0:23:11.74,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(617.6,918.5)\an5\blur0.5\fscx103\fscy103}Distortion on my day-to-day anguish
+Dialogue: 0,0:23:11.74,0:23:14.41,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(617.6,918.5)\an5\bord12\shad0\blur0.5\3c&HFFFFFF&\3a&H28&}Distortion on my day-to-day anguish
+Dialogue: 0,0:23:11.74,0:23:14.41,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HEFBB93&\pos(617.6,918.5)\an5\blur0.5}Distortion on my day-to-day anguish
 Dialogue: 0,0:23:14.58,0:23:19.84,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H61B3F6&\pos(673.96,143.4)\blur0.5}The chord I play when I'm alone at night
 Dialogue: 0,0:23:17.04,0:23:17.13,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H61B3F6&\pos(1249.2,891.2)\clip(964.57,744,1525.71,932.57)\blur0.5}Is it the same for you?
 Dialogue: 0,0:23:17.13,0:23:19.84,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H61B3F6&\pos(1249.2,891.2)\blur0.5}Is it the same for you?
