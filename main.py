@@ -33,13 +33,16 @@ print(f"[?] Processing episode {current_episode}...")
 print(f"[?] Using basename: {basename}")
 chapters_data: dict[str, Chapter] = {}
 base_ass: AssFile | None = None
+base_ass_path: Path | None = None
 fonts_folder: set[Path] = set()
+total_scripts = 0
 for fmt, paths in episode_meta.scripts.items():
     if len(paths) < 1:
         continue
     read_paths = paths[:]
     if base_ass is None:
         print(f"[+] Using {read_paths[0].name} as base ASS file!")
+        base_ass_path = read_paths[0]
         base_ass = read_ass(read_paths[0])
         font_folder = paths[0].parent / "fonts"
         fonts_folder.add(font_folder)
@@ -48,6 +51,7 @@ for fmt, paths in episode_meta.scripts.items():
                 incr_layer(line, 50)
         chapters_data |= get_chapters_from_ass(base_ass)
         read_paths.pop(0)
+        total_scripts += 1
 
     for path in read_paths:
         print(f"[+] Merging {fmt}: {path.name}")
@@ -67,10 +71,22 @@ for fmt, paths in episode_meta.scripts.items():
             print(f'    [+] Syncing to chapter "{sync_time.chapter}" ({chapter_point.milisecond})')
             sync_act = chapter_point.milisecond
         merge_ass_and_sync(base_ass, merge_ass, sync_act, bump_layer)
+        total_scripts += 1
 
 if base_ass is None:
     print("[!] Somehow we got an empty episode case?")
     sys.exit(1)
+if base_ass_path is None:
+    print("[!] Somehow we got an empty episode case?")
+    sys.exit(1)
+
+base_ass.script_info["Title"] = f"[‽] Bocchi sang Roker! - {current_episode}"
+base_ass.script_info["Original Translation"] = "Suaminya Kita Ikuyo"
+base_ass.script_info["Original Editing"] = "Suaminya Kita Ikuyo dan Suaminya Nijika-chan"
+base_ass.script_info["Original Timing"] = "Suaminya Kita Ikuyo"
+base_ass.script_info["Synch Point"] = base_ass_path.stem  # type: ignore
+base_ass.script_info["Script Updated By"] = "SubPy/1.0 Script Merger"
+base_ass.script_info["Update Details"] = f"Merged {total_scripts} scripts with SubPy/1.0 Script Merger"
 
 print("[+] Writing merged files!")
 final_folder = CURRENT_DIR / "final"

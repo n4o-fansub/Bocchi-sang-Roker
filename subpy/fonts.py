@@ -105,7 +105,7 @@ def parse_tags(s: str, state: State, line_style: State, styles: dict[str, State]
 
 
 def parse_text(text: str) -> str:
-    return TEXT_WHITESPACE_PATTERN.sub(" ", text)
+    return re.sub(TEXT_WHITESPACE_PATTERN, " ", text)
 
 
 def parse_line(line: str, line_style: State, styles: dict[str, State]) -> Generator[tuple[State, str], None, None]:
