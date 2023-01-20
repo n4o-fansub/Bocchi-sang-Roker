@@ -1,26 +1,494 @@
 ﻿[Script Info]
 Title: [‽] Bocchi sang Roker! - 02
-ScriptType: v4.00+
-WrapStyle: 0
-ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.709
-PlayResX: 1920
-PlayResY: 1080
 Original Translation: Suaminya Kita Ikuyo
 Original Editing: Suaminya Kita Ikuyo dan Suaminya Nijika-chan
 Original Timing: Suaminya Kita Ikuyo
-Synch Point: bocchi02.ts
+Synch Point: bocchi02.dialogue
 Script Updated By: SubPy/v1.1.0 Script Merger
-Update Details: Merged 3 scripts with SubPy/v1.1.0 Script Merger
+Update Details: Merged 4 scripts with SubPy/v1.1.0 Script Merger
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,1.5,2,135,135,75,1
+Style: Overlap,Gandhi Sans,74,&H00FFFFFF,&H00000000,&H00651018,&H96000000,-1,0,0,0,100,100,0,0,1,4,1.5,2,135,135,75,1
 Style: riasan ampas,Arial,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Lagu OP,KG Second Chances Solid,48,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,4,2,40,40,40,1
 Style: Lagu ED,WIX-CookHand Std R,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,3,8,80,80,70,1
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 50,0:00:27.36,0:00:28.70,Main,Hitori,0,0,0,,20 menit ....
+Dialogue: 50,0:00:28.70,0:00:30.01,Main,,0,0,0,,20 menit lagi ....
+Dialogue: 50,0:00:30.24,0:00:31.59,Main,Hitori,0,0,0,,20 menit ....
+Dialogue: 50,0:00:31.59,0:00:32.94,Main,,0,0,0,,20 menit lagi ....
+Dialogue: 50,0:00:32.94,0:00:34.01,Main,Hitori,0,0,0,,20 menit lagi.
+Dialogue: 50,0:02:11.01,0:02:12.82,Main,Hitori,0,0,0,,{\i1}Kemarin, ada pesan dari Nijika.
+Dialogue: 50,0:02:13.22,0:02:16.60,Main,Nijika,0,0,0,,{\i1}Entar kita ngobrolin buat\Nband ke depannya, yuk!
+Dialogue: 50,0:02:16.60,0:02:18.32,Main,Nijika,0,0,0,,{\i1}Besok bisa ke Starry, kan?
+Dialogue: 50,0:02:18.65,0:02:21.71,Main,Hitori,0,0,0,,{\i1}Terus, rasa bahagiaku muncul karena\Ndapat pesan LINE selain dari keluarga
+Dialogue: 50,0:02:21.71,0:02:23.66,Main,Hitori,0,0,0,,{\i1}membuatku sampai sejauh ini ....
+Dialogue: 50,0:02:24.53,0:02:26.69,Main,Hitori,0,0,0,,{\i1}Tapi, kalau gadis kampungan\Nsepertiku masuk ke tempat itu,
+Dialogue: 50,0:02:26.69,0:02:30.17,Main,Hitori,0,0,0,,{\i1}"Dia siapa, sih?"\Ndengan tatapan dingin.
+Dialogue: 50,0:02:30.17,0:02:34.17,Main,Hitori,0,0,0,,{\i1}Sebelumnya, aku bisa\Nmasuk karena ada Nijika.
+Dialogue: 50,0:02:36.06,0:02:38.05,Main,Hitori,0,0,0,,{\i1}Kira-kira udah ada orang belum, ya?
+Dialogue: 50,0:02:41.07,0:02:43.81,Main,Hitori,0,0,0,,{\i1}Aku enggak mau masuk sendirian.
+Dialogue: 50,0:02:44.72,0:02:45.74,Main,Hitori,0,0,0,,{\i1}Lima menit.
+Dialogue: 50,0:02:46.36,0:02:48.89,Main,Hitori,0,0,0,,{\i1}Habis nunggu lima menit,\Naku langsung masuk, deh!
+Dialogue: 50,0:02:49.47,0:02:51.57,Main,Hitori,0,0,0,,{\i1}Gak. 10 menitan, deh ....
+Dialogue: 50,0:02:51.57,0:02:52.59,Main,Hitori,0,0,0,,{\i1}15 menit!
+Dialogue: 50,0:02:52.59,0:02:54.32,Main,Hitori,0,0,0,,{\i1}Habis 15 menit,\Naku akan langsung masuk!
+Dialogue: 50,0:02:56.92,0:02:58.68,Main,Nijika,0,0,0,,Dia ngapain, sih?
+Dialogue: 50,0:02:58.68,0:02:59.13,Main,Nijika,0,0,0,,Bo—
+Dialogue: 50,0:02:59.13,0:02:59.99,Main,Ryo,0,0,0,,Tunggu.
+Dialogue: 50,0:03:00.48,0:03:02.03,Main,Ryo,0,0,0,,Aku ingin melihatnya lebih lama.
+Dialogue: 50,0:03:02.03,0:03:04.12,Main,Nijika,0,0,0,,Jangan jadiin bahan tontonan, woi.
+Dialogue: 50,0:03:06.15,0:03:06.70,Main,Nijika,0,0,0,,Sip!
+Dialogue: 50,0:03:06.70,0:03:11.57,Main,Nijika,0,0,0,,Dengan ini, rapat perdana\NKessoku Band resmi digelar!
+Dialogue: 50,0:03:11.57,0:03:12.40,Main,Nijika,0,0,0,,Mana tepuk tangannya?!
+Dialogue: 50,0:03:12.40,0:03:14.98,Main,Nijika,0,0,0,,Prok, prok, prok, prok!
+Dialogue: 50,0:03:14.98,0:03:16.71,Main,Nijika,0,0,0,,Oke, jadi ....
+Dialogue: 50,0:03:17.94,0:03:21.83,Main,Nijika,0,0,0,,Oh, karena kita belum kenal,\Njadi aku bingung mau mulai dari mana!
+Dialogue: 50,0:03:21.83,0:03:23.47,Main,Hitori,0,0,0,,{\i1}Blak-blakan banget, ancrit!
+Dialogue: 51,0:03:23.79,0:03:26.65,Main,Ryo,0,0,0,,Karena itu, aku membawa barang ini.
+Dialogue: 50,0:03:26.65,0:03:27.98,Main,Nijika,0,0,0,,Sekuuut!
+Dialogue: 50,0:03:27.98,0:03:30.98,Main,Hitori,0,0,0,,{\i1}Kok aku ada firasat bahaya, ya?
+Dialogue: 50,0:03:31.21,0:03:31.84,Main,Nijika,0,0,0,,Set!
+Dialogue: 50,0:03:31.84,0:03:34.91,Main,Nijika,0,0,0,,Apa yang bakalan muncul, nih?
+Dialogue: 50,0:03:34.91,0:03:37.27,Main,Ryo,0,0,0,,Dung-dugudung-dung ....
+Dialogue: 50,0:03:37.85,0:03:39.32,Main,Nijika,0,0,0,,Obrolan sekolah!
+Dialogue: 50,0:03:39.60,0:03:41.38,Main,Nijika,0,0,0,,Kalau disingkat jadi Olan-kolah!
+Dialogue: 50,0:03:41.38,0:03:42.32,Main,Ryo,0,0,0,,Ya, silakan!
+Dialogue: 50,0:03:44.16,0:03:45.29,Main,Hitori,0,0,0,,Eng ....
+Dialogue: 50,0:03:45.29,0:03:49.00,Main,,0,0,0,,Ah ... omong-omong,\Nkalian satu sekolah, kan?
+Dialogue: 50,0:03:49.00,0:03:50.80,Main,Nijika,0,0,0,,Yap! SMA Shima!
+Dialogue: 50,0:03:50.80,0:03:52.96,Main,Ryo,0,0,0,,Kami masuk ke sana\Nkarena dekat dari rumah.
+Dialogue: 50,0:03:52.96,0:03:55.59,Main,Hitori,0,0,0,,Jadi kalian tinggal\Ndi Shimo-Kitazawa, ya?
+Dialogue: 50,0:03:55.59,0:03:58.25,Main,Nijika,0,0,0,,Lah? Bocchi dari SMA Shuka, kan?
+Dialogue: 50,0:03:58.25,0:04:00.21,Main,Nijika,0,0,0,,Emang rumahmu enggak\Ndi sekitaran sini?
+Dialogue: 50,0:04:00.21,0:04:01.22,Main,Hitori,0,0,0,,Ah, enggak.
+Dialogue: 50,0:04:01.22,0:04:03.91,Main,,0,0,0,,Aku di luar prefektur,\Ndua jam bolak-balik.
+Dialogue: 50,0:04:03.91,0:04:04.68,Main,Ryo,0,0,0,,Dua jam?!
+Dialogue: 50,0:04:04.68,0:04:05.43,Main,Nijika,0,0,0,,'Napa?!
+Dialogue: 50,0:04:05.84,0:04:09.84,Main,Hitori,0,0,0,,{\an8}Aku ingin masuk SMA di mana\Ntidak ada orang yang tahu masa laluku.
+Dialogue: 50,0:04:09.84,0:04:11.60,Main,Nijika,0,0,0,,{\an8}Sip! Olah-kolahnya udahan dulu!
+Dialogue: 50,0:04:11.60,0:04:13.49,Main,Hitori,0,0,0,,Ma-Maaf ....
+Dialogue: 50,0:04:13.49,0:04:16.55,Main,Hitori,0,0,0,,Aku sering menyendiri saat di sekolah,
+Dialogue: 50,0:04:16.55,0:04:20.52,Main,Hitori,0,0,0,,jadi tidak punya cerita seru\Nsatu pun untuk di-dibahas ....
+Dialogue: 50,0:04:20.52,0:04:21.61,Main,Nijika,0,0,0,,Tenang, tenang!
+Dialogue: 50,0:04:21.61,0:04:24.15,Main,Nijika,0,0,0,,R-Ryo juga enggak punya\Nbanyak teman, kok.
+Dialogue: 50,0:04:24.15,0:04:26.17,Main,Ryo,0,0,0,,Iya, temanku cuman Nijika.
+Dialogue: 50,0:04:26.17,0:04:27.49,Main,Hitori,0,0,0,,{\i1}De-Degup ....
+Dialogue: 50,0:04:28.31,0:04:32.18,Main,Hitori,0,0,0,,{\i1}Ternyata, Ryo sama sepertiku.
+Dialogue: 50,0:04:32.68,0:04:35.79,Main,Nijika,0,0,0,,Di hari libur, dia suka\Njalan-jalan sendiri,
+Dialogue: 50,0:04:35.79,0:04:37.96,Main,Nijika,0,0,0,,dan mengunjungi toko baju bekas ....
+Dialogue: 50,0:04:37.96,0:04:39.04,Main,Hitori,0,0,0,,{\i1}Tidak, aku salah.
+Dialogue: 50,0:04:39.72,0:04:42.55,Main,Hitori,0,0,0,,{\i1}Ryo itu tipe penyendiri!
+Dialogue: 50,0:04:44.72,0:04:47.43,Main,Hitori,0,0,0,,{\i1}Kecemasan sosial sepertiku\Ntakkan sanggup ke toko baju sendirian!
+Dialogue: 50,0:04:47.86,0:04:55.15,Main,Hitori,0,0,0,,{\i1}Jarak antara sendiri dan penyendiri\Nterlalu jauh untuk ditempuh!
+Dialogue: 50,0:04:55.47,0:04:58.03,Main,Hitori,0,0,0,,{\i1}Aku nyaris saja masuk perangkap.
+Dialogue: 50,0:04:58.03,0:05:00.07,Main,Nijika,0,0,0,,Bocchi, coba kita nikmati\Nobrolannya dulu, yuk!
+Dialogue: 50,0:05:02.94,0:05:05.57,Main,Nijika,0,0,0,,Selanjutnya, obrolan musik favorit!
+Dialogue: 50,0:05:05.57,0:05:07.03,Main,Nijika,0,0,0,,Kalau disingkat ....
+Dialogue: 50,0:05:07.03,0:05:08.24,Main,Ryo,0,0,0,,Omufavo!
+Dialogue: 50,0:05:08.24,0:05:09.66,Main,Hitori,0,0,0,,O-Omufavo ....
+Dialogue: 50,0:05:10.03,0:05:14.20,Main,Nijika,0,0,0,,Aku suka musik sejenis\NPunk Jepang, seperti {\i1}mellow core{\i0}.
+Dialogue: 50,0:05:14.20,0:05:16.54,Main,Ryo,0,0,0,,Kalau aku suka musik\Nsejenis {\i1}techno kayo{\i0}.
+Dialogue: 50,0:05:16.54,0:05:19.71,Main,Ryo,0,0,0,,Belakangan ini, aku sering mengecek\Nperingkat lagu Arab Saudi—
+Dialogue: 50,0:05:18.26,0:05:19.71,Overlap,Nijika,0,0,0,,{\an8}Jangan ngibul, heh!
+Dialogue: 50,0:05:19.71,0:05:20.80,Main,Ryo,0,0,0,,Beneran, tahu!
+Dialogue: 50,0:05:20.80,0:05:21.84,Main,Nijika,0,0,0,,Kalau Bocchi?
+Dialogue: 50,0:05:21.84,0:05:23.96,Main,Hitori,0,0,0,,Ah, anu ....
+Dialogue: 50,0:05:23.96,0:05:28.94,Main,Hitori,0,0,0,,Aku suka semua lagu yang tidak\Nmemicu {\i1}kompleks masa muda{\i0}.
+Dialogue: 50,0:05:28.94,0:05:31.54,Main,Nijika,0,0,0,,Hm? {\i1}Kompleks masa muda{\i0}?
+Dialogue: 50,0:05:31.54,0:05:33.10,Main,Guitar Man,0,0,0,,Aku hadir!
+Dialogue: 50,0:05:33.35,0:05:36.48,Main,Guitar Man,0,0,0,,Lagu yang memicu {\i1}kompleks\Nmasa muda{\i0} Hitori yaitu ...
+Dialogue: 50,0:05:36.48,0:05:38.96,Main,Guitar Man,0,0,0,,... lagu ceria yang\Nmengangkat tema seperti
+Dialogue: 50,0:05:38.96,0:05:44.02,Main,Guitar Man,0,0,0,,musim panas, laut biru,\Nkembang api, juga cinta monyet.
+Dialogue: 50,0:05:44.02,0:05:48.99,Main,Guitar Man,0,0,0,,Pokoknya, segala hal yang jauh di luar\Npengalaman hidup sekolahnya Hitori.
+Dialogue: 50,0:05:48.99,0:05:51.97,Main,Hitori,0,0,0,,{\i1}Liriknya membuat hatiku makin suram.
+Dialogue: 50,0:05:49.80,0:05:51.30,Overlap,Nijika,0,0,0,,{\an8}Oi ....
+Dialogue: 50,0:05:53.21,0:05:54.79,Overlap,,0,0,0,,{\an8}Bocchi?
+Dialogue: 50,0:05:51.97,0:05:52.68,Main,Guitar Man,0,0,0,,Sebaliknya,
+Dialogue: 50,0:05:52.68,0:05:56.95,Main,Guitar Man,0,0,0,,kamu suka band yang lagunya tentang\Nkesuraman semasa sekolah, kan?
+Dialogue: 50,0:05:55.53,0:05:56.95,Overlap,Nijika,0,0,0,,{\an8}Oi!
+Dialogue: 50,0:05:56.95,0:05:58.32,Main,Hitori,0,0,0,,Betul banget!
+Dialogue: 50,0:05:58.32,0:06:03.36,Main,Hitori,0,0,0,,Tapi, saat aku tahu kalau band yang\Nkusuka sangat populer di SMA ...
+Dialogue: 50,0:06:03.36,0:06:07.47,Main,Hitori,0,0,0,,... sesaat aku mendadak merasa\Ntidak mengenali mereka!
+Dialogue: 50,0:06:06.13,0:06:08.70,Overlap,Nijika,0,0,0,,{\an8}Oi, Bocchi ....
+Dialogue: 50,0:06:08.70,0:06:11.02,Overlap,,0,0,0,,{\an8}Jangan asyik di duniamu sendiri, dong!
+Dialogue: 50,0:06:10.45,0:06:13.83,Main,Hitori,0,0,0,,Rok sebagai musik begitu bergema\Ndi hati para kaum minoritas.
+Dialogue: 50,0:06:13.83,0:06:16.08,Main,Hitori,0,0,0,,Rok tak berarti bila dinyanyikan\Noleh para pemenang kehidupan.
+Dialogue: 50,0:06:16.08,0:06:18.18,Main,Nijika,0,0,0,,Kita kuatkan tali silaturahmi, dong!
+Dialogue: 50,0:06:18.18,0:06:19.76,Main,Ryo,0,0,0,,Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 50,0:06:20.64,0:06:21.73,Main,Nijika,0,0,0,,Eng ....
+Dialogue: 50,0:06:22.22,0:06:24.24,Main,Nijika,0,0,0,,Konser perdana kita\Nhanya instrumental saja.
+Dialogue: 50,0:06:24.24,0:06:26.20,Main,Nijika,0,0,0,,Tapi, konser berikutnya\Naku ingin ada vokalis.
+Dialogue: 50,0:06:26.20,0:06:27.90,Main,Hitori,0,0,0,,Oh, begitu, ya?
+Dialogue: 50,0:06:27.90,0:06:31.41,Main,Nijika,0,0,0,,Sebenarnya, gitaris yang\Nminggat itu jadi vokalis kita.
+Dialogue: 50,0:06:31.78,0:06:33.88,Main,Nijika,0,0,0,,Kira-kira dia ke mana, ya?
+Dialogue: 50,0:06:35.32,0:06:37.41,Main,Hitori,0,0,0,,{\i1}Gitaris yang minggat ....
+Dialogue: 50,0:06:38.48,0:06:41.34,Main,Hitori,0,0,0,,{\i1}Mungkin dia punya\Nkecemasan sosial sepertiku.{No, Bocchi. You're wrong. -kresendo}
+Dialogue: 50,0:06:42.42,0:06:43.86,Main,Hitori,0,0,0,,{\i1}Gak! Gak mungkin!
+Dialogue: 50,0:06:43.86,0:06:46.92,Main,Hitori,0,0,0,,{\i1}Kalau punya kecemasan sosial,\Ndia mana bisa kabur!
+Dialogue: 50,0:06:46.92,0:06:49.86,Main,Nijika,0,0,0,,Kita harus cari vokalis baru, nih ....
+Dialogue: 50,0:06:49.86,0:06:52.08,Main,Nijika,0,0,0,,Nyanyianku jelek, sih.
+Dialogue: 50,0:06:52.08,0:06:53.47,Main,Nijika,0,0,0,,Kalau Bocchi—
+Dialogue: 50,0:06:55.28,0:06:56.72,Main,Nijika,0,0,0,,Iya juga.
+Dialogue: 50,0:06:56.72,0:06:59.06,Main,Hitori,0,0,0,,A-Anu, kalau Ryo bagimana?
+Dialogue: 50,0:07:00.73,0:07:02.26,Main,Ryo,0,0,0,,Kalau aku jadi muka depan,
+Dialogue: 50,0:07:02.26,0:07:05.30,Main,Ryo,0,0,0,,nanti aku jadi pusat perhatian\Ndan menghancurkan band ini.
+Dialogue: 50,0:07:05.30,0:07:07.44,Main,Nijika,0,0,0,,Bisa-bisanya kamu nyablak\Ndengan pede begitu.
+Dialogue: 50,0:07:07.73,0:07:09.04,Main,Hitori,0,0,0,,{\i1}Aku jadi iri ....
+Dialogue: 50,0:07:09.04,0:07:11.13,Main,Hitori,0,0,0,,{\i1}Coba aja aku bisa sepede itu.
+Dialogue: 50,0:07:11.13,0:07:12.21,Main,Nijika,0,0,0,,Oh iya!
+Dialogue: 50,0:07:12.21,0:07:14.72,Main,Nijika,0,0,0,,Kalau mencari vokalis,\Nkita harus membuat lagu!
+Dialogue: 50,0:07:14.72,0:07:16.15,Main,Nijika,0,0,0,,Ryo bisa menggubah lagunya,
+Dialogue: 50,0:07:16.15,0:07:19.50,Main,Nijika,0,0,0,,karena diksinya aneh-aneh,\Nkamu yang tulis lirik, ya, Bocchi!
+Dialogue: 50,0:07:20.50,0:07:21.33,Main,Hitori,0,0,0,,{\i1}Kok aku?!
+Dialogue: 50,0:07:21.33,0:07:23.04,Main,Nijika,0,0,0,,Gimana?\NIde bagus, bukan?
+Dialogue: 50,0:07:23.04,0:07:27.24,Main,Hitori,0,0,0,,{\i1}Waktu yang kuhabiskan di perpus sekolah\Nselama 9 tahun pas jam istirahat itu ...
+Dialogue: 50,0:07:27.24,0:07:29.30,Main,Hitori,0,0,0,,{\i1}... persiapan untuk momen seperti ini?
+Dialogue: 50,0:07:29.30,0:07:30.86,Main,Ryo,0,0,0,,Kalau kamu ngapain, Nijika?
+Dialogue: 50,0:07:33.17,0:07:33.86,Main,Nijika,0,0,0,,Nyoh!
+Dialogue: 50,0:07:35.63,0:07:38.10,Main,Nijika,0,0,0,,Lanjut ke obrolan kuota!
+Dialogue: 50,0:07:38.10,0:07:39.60,Main,Ryo,0,0,0,,Dia ingin menghindar, ya?
+Dialogue: 50,0:07:40.02,0:07:43.09,Main,Hitori,0,0,0,,A-Anu ... kuota itu apa?
+Dialogue: 50,0:07:43.09,0:07:46.15,Main,Nijika,0,0,0,,Konser kita yang kemarin itu\Nnamanya "{\i1}Booking Live{\i0}".
+Dialogue: 50,0:07:46.43,0:07:49.44,Main,Nijika,0,0,0,,Di mana rumah konser memberikan\Nkuota tiket kepada para band
+Dialogue: 50,0:07:49.44,0:07:51.65,Main,Nijika,0,0,0,,supaya banyak orang\Nyang datang menonton.
+Dialogue: 50,0:07:51.65,0:07:52.85,Main,Club-kun,0,0,0,,Kuotanya 10 tiket!
+Dialogue: 50,0:07:59.31,0:08:00.71,Main,Nijika,0,0,0,,Setiap tiket yang terjual lebih\Ndari kuota yang disediakan,
+Dialogue: 50,0:08:00.71,0:08:03.59,Main,,0,0,0,,hasilnya dibagi dua dengan band tersebut.
+Dialogue: 50,0:08:08.40,0:08:10.56,Main,Nijika,0,0,0,,Tapi kalau band-nya\Ngagal memenuhi kuota,
+Dialogue: 50,0:08:10.56,0:08:13.76,Main,Nijika,0,0,0,,mereka harus membayar\Nsisanya dengan uang sendiri.
+Dialogue: 50,0:08:13.76,0:08:16.18,Main,Ryo,0,0,0,,Jadi, sebelum kamu terkenal,\Nkamu harus menguras uang.
+Dialogue: 50,0:08:16.18,0:08:17.72,Main,Hitori,0,0,0,,{\i1}Blak-blakan banget, ancrit!
+Dialogue: 50,0:08:17.72,0:08:21.49,Main,Nijika,0,0,0,,Beberapa temanku ada yang\Ndatang ke konser kemarin,
+Dialogue: 50,0:08:21.49,0:08:23.58,Main,Nijika,0,0,0,,jadi kuota kita berhasil terpenuhi, tapi ....
+Dialogue: 50,0:08:23.58,0:08:25.91,Main,Ryo,0,0,0,,Mana mungkin mereka akan\Ndatang lagi setelah konser itu.
+Dialogue: 50,0:08:25.91,0:08:27.73,Main,Nijika,0,0,0,,Tuh, tahu sendiri ....
+Dialogue: 50,0:08:27.73,0:08:31.11,Main,Nijika,0,0,0,,Karena Ryo enggak punya teman,\Njadi dia tidak bisa diandalkan ....
+Dialogue: 50,0:08:31.11,0:08:32.85,Main,Nijika,0,0,0,,Kalau Bocchi—
+Dialogue: 50,0:08:33.30,0:08:35.36,Main,Nijika,0,0,0,,Oh, maaf!\NYang tadi lupakan saja, ya!
+Dialogue: 50,0:08:35.36,0:08:37.12,Main,Nijika,0,0,0,,Jangan berikan tatapan\Nikan mati seperti itu, dong!
+Dialogue: 50,0:08:37.72,0:08:40.84,Main,Hitori,0,0,0,,{\i1}Padahal kalau teman imajinasi,\Naku punya banyak, sih ....
+Dialogue: 50,0:08:40.84,0:08:42.48,Main,Guitar Man,0,0,0,,Hitori gokil!
+Dialogue: 50,0:08:42.48,0:08:44.37,Main,Mai-kun,0,0,0,,Salah seorang harta nasional!
+Dialogue: 50,0:08:44.37,0:08:48.60,Main,Nijika,0,0,0,,Oleh karena itu, karena kita butuh\Npuluhan ribu yen sebelum konser berikutnya,
+Dialogue: 50,0:08:48.60,0:08:52.12,Main,Nijika,0,0,0,,mari kita cari kerja sampingan\Nuntuk kuota dan biaya peralatan!
+Dialogue: 50,0:08:53.72,0:08:54.38,Main,Hitori,0,0,0,,Oke.
+Dialogue: 50,0:08:54.91,0:08:55.88,Main,Hitori,0,0,0,,Bekerja?!
+Dialogue: 50,0:08:56.31,0:08:57.76,Main,Nijika,0,0,0,,Suara lantangmu keluar juga.
+Dialogue: 50,0:08:58.05,0:08:59.70,Main,Hitori,0,0,0,,Gak mau!
+Dialogue: 50,0:08:59.70,0:09:01.28,Main,Hitori,0,0,0,,Aku gak mau kerja! Seram!
+Dialogue: 50,0:09:01.28,0:09:02.77,Main,Hitori,0,0,0,,Masyarakat terlalu seram!
+Dialogue: 50,0:09:06.34,0:09:07.23,Main,Nijika,0,0,0,,Celengan?
+Dialogue: 50,0:09:08.04,0:09:12.90,Main,Hitori,0,0,0,,I-Ibuku menabung\Nuntuk pernikahanku ....
+Dialogue: 50,0:09:12.90,0:09:14.40,Main,Hitori,0,0,0,,Tolong pakai ini.
+Dialogue: 50,0:09:14.40,0:09:16.10,Main,Hitori,0,0,0,,Jangan sampai bekerja ....
+Dialogue: 50,0:09:16.10,0:09:18.67,Main,Nijika,0,0,0,,Jangan memperlakukan\Nkami kayak perampok, heh!
+Dialogue: 50,0:09:16.52,0:09:19.39,Overlap,Ryo,0,0,0,,{\an8}Makasih, kalau begitu saya terima—
+Dialogue: 50,0:09:18.67,0:09:19.96,Main,Nijika,0,0,0,,Jangan diambil!
+Dialogue: 50,0:09:19.96,0:09:22.54,Main,Nijika,0,0,0,,Kami tidak mungkin\Nmemakai uang sepenting ini!
+Dialogue: 50,0:09:24.51,0:09:25.20,Main,Hitori,0,0,0,,Tapi ....
+Dialogue: 50,0:09:25.20,0:09:26.72,Main,Hitori,0,0,0,,{\i1}Aku gak mau bekerja!
+Dialogue: 50,0:09:26.72,0:09:28.04,Main,Hitori,0,0,0,,{\i1}Soalnya ....
+Dialogue: 50,0:09:29.86,0:09:31.09,Main,Hitori,0,0,0,,Se-Selamat datang.
+Dialogue: 50,0:09:31.09,0:09:33.55,Main,,0,0,0,,Pe-Perlu saya hangatkan makanannya?
+Dialogue: 50,0:09:31.73,0:09:33.55,Main,Hitori,0,0,0,,{\an8\i1}Pasti bakalan begitu.
+Dialogue: 50,0:09:35.36,0:09:36.60,Main,Hitori,0,0,0,,{\fs55\pos(960,772.33)}Se-Selamat datang.
+Dialogue: 50,0:09:36.60,0:09:38.93,Main,,0,0,0,,{\fs55\pos(960,772.33)}Pe-Perlu saya hangatkan makanannya?
+Dialogue: 50,0:09:37.62,0:09:38.93,Main,Hitori,0,0,0,,{\an8\i1}Habis itu ....
+Dialogue: 50,0:09:39.43,0:09:42.19,Main,Prosecutor,0,0,0,,{\an8}Atas tuduhan telah\Nmenakuti pengunjung toko,
+Dialogue: 50,0:09:42.19,0:09:43.77,Main,Prosecutor,0,0,0,,{\an8}kami tuntut dia hukuman mati!
+Dialogue: 50,0:09:44.00,0:09:46.28,Main,Judge,0,0,0,,Baiklah, keputusannya ....
+Dialogue: 50,0:09:46.28,0:09:47.29,Main,Judge,0,0,0,,Hukuman mati!
+Dialogue: 50,0:09:47.69,0:09:50.19,Main,Hitori,0,0,0,,{\i1}Sudah pasti bakalan begini!
+Dialogue: 50,0:09:50.72,0:09:51.53,Main,Nijika,0,0,0,,... cchi.
+Dialogue: 50,0:09:51.53,0:09:52.77,Main,Nijika,0,0,0,,Bocchi.
+Dialogue: 50,0:09:52.77,0:09:53.96,Main,Nijika,0,0,0,,Bocchi!
+Dialogue: 50,0:09:55.24,0:09:58.04,Main,Nijika,0,0,0,,Kamu tadi enggak dengar obrolan, kan?
+Dialogue: 50,0:09:58.04,0:09:59.30,Main,Hitori,0,0,0,,Ma-Maaf!
+Dialogue: 50,0:09:59.30,0:10:01.07,Main,Hitori,0,0,0,,Eng, kamu membicarakan apa?
+Dialogue: 50,0:10:01.80,0:10:04.03,Main,Ryo,0,0,0,,Kamu juga harus kerja\Ndi sini bersama kami.
+Dialogue: 50,0:10:04.03,0:10:05.11,Main,Hitori,0,0,0,,Di sini?
+Dialogue: 50,0:10:05.88,0:10:07.08,Main,Hitori,0,0,0,,Apa?!
+Dialogue: 50,0:10:07.08,0:10:09.84,Main,Nijika,0,0,0,,Ada aku dan Ryo juga, kok!\NKamu enggak usah takut!
+Dialogue: 50,0:10:09.84,0:10:12.75,Main,Ryo,0,0,0,,Tempat ini nyaman\Ndan harmonis untuk bekerja.
+Dialogue: 50,0:10:13.70,0:10:15.30,Main,Nijika,0,0,0,,Kita bisa menyajikan minuman,
+Dialogue: 50,0:10:15.30,0:10:17.76,Main,Nijika,0,0,0,,bersih-bersih, dan melihat beragam band!
+Dialogue: 50,0:10:15.30,0:10:17.76,Main,Hitori,0,0,0,,{\an8\i1}Aku gak mau kerja ....\NAku gak mau kerja!
+Dialogue: 50,0:10:17.76,0:10:19.76,Main,Nijika,0,0,0,,Gimana? Apa kamu mau?
+Dialogue: 50,0:10:22.63,0:10:24.35,Main,Hitori,0,0,0,,{\i1}Tolaklah, wahai diriku!
+Dialogue: 50,0:10:24.35,0:10:25.10,Main,Hitori,0,0,0,,{\i1}Tolaklah!
+Dialogue: 50,0:10:25.32,0:10:27.98,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:29.09,0:10:30.27,Main,Hitori,0,0,0,,Aku akan berusaha.
+Dialogue: 50,0:10:30.27,0:10:31.81,Main,Nijika,0,0,0,,Bener, nih?\NMakasih, ya!
+Dialogue: 50,0:10:32.07,0:10:33.31,Main,Hitori,0,0,0,,{\i1}Maaf, diriku ....
+Dialogue: 50,0:10:32.07,0:10:35.17,Overlap,Nijika,0,0,0,,{\an8}Kalau tempat kerjanya\Nmeriah, pasti seru, kan?
+Dialogue: 50,0:10:33.31,0:10:36.07,Main,Hitori,0,0,0,,{\i1}Kalau punya keberanian menolak,\Nbukan fobia sosial namanya.
+Dialogue: 50,0:10:36.68,0:10:39.63,Main,Nijika,0,0,0,,Urusan anggaran band,\Nbiar aku yang kelola.
+Dialogue: 50,0:10:40.15,0:10:43.40,Main,Hitori,0,0,0,,Anu, bukankah lebih baik Ryo\Nyang menyimpannya?
+Dialogue: 50,0:10:43.40,0:10:44.58,Main,Nijika,0,0,0,,Apa maksudnya itu?!
+Dialogue: 50,0:10:45.27,0:10:47.00,Main,Nijika,0,0,0,,Begini, ya, Bocchi ....
+Dialogue: 50,0:10:47.00,0:10:50.14,Main,Nijika,0,0,0,,Meski tampangnya begitu,\NRyo itu boros banget, lo.
+Dialogue: 50,0:10:51.04,0:10:54.10,Main,Nijika,0,0,0,,Dia dari keluarga kaya\Ndan dikasih banyak uang saku,
+Dialogue: 50,0:10:54.10,0:10:56.71,Main,Nijika,0,0,0,,tapi dihabiskan dalam sekejap,\Nmakanya selalu bokek!
+Dialogue: 50,0:10:57.88,0:10:58.65,Main,Ryo,0,0,0,,Aku jadi malu ....
+Dialogue: 50,0:10:58.65,0:11:01.22,Main,Nijika,0,0,0,,Tadi itu aku gak muji, lo.
+Dialogue: 50,0:11:01.66,0:11:05.24,Main,Nijika,0,0,0,,Sip! Ayo berusaha keras agar bisa\N konser lagi dalam waktu dekat!
+Dialogue: 50,0:11:05.24,0:11:08.23,Main,Nijika,0,0,0,,Lalu, kita akan memulai debut besar di SMA!
+Dialogue: 50,0:11:08.74,0:11:10.36,Main,Nijika,0,0,0,,Kerjanya mulai minggu depan, ya!
+Dialogue: 50,0:11:10.36,0:11:12.56,Main,Nijika,0,0,0,,Langsung saja ke sini sepulang sekolah.
+Dialogue: 50,0:11:12.56,0:11:14.44,Main,Ryo,0,0,0,,Bocchi, dadah.
+Dialogue: 50,0:11:14.44,0:11:16.41,Main,Hitori,0,0,0,,I-Iya ....
+Dialogue: 50,0:11:17.27,0:11:21.44,Main,Hitori,0,0,0,,{\i1}Terus, hari pertama kerjanya besok.
+Dialogue: 50,0:11:22.85,0:11:25.09,Main,Hitori,0,0,0,,{\i1}Aku sudah di sini selama 30 menit.
+Dialogue: 50,0:11:25.09,0:11:27.47,Main,Hitori,0,0,0,,{\i1}Pasti bakalan masuk angin, kan?
+Dialogue: 50,0:11:27.47,0:11:29.32,Main,Hitori,0,0,0,,{\i1}Maaf, maaf.
+Dialogue: 50,0:11:29.32,0:11:31.67,Main,Hitori,0,0,0,,{\i1}Aku siap berusaha keras\Nasal jangan bekerja.
+Dialogue: 50,0:11:32.73,0:11:36.09,Main,Futari,0,0,0,,Ibu! Mbak'e tenggelam!
+Dialogue: 50,0:11:40.20,0:11:43.36,Main,Hitori,0,0,0,,{\i1}Masuk angin! Masuk angin! \NMasuk angin! Masuk angin!
+Dialogue: 50,0:11:43.36,0:11:48.10,Main,Hitori,0,0,0,,{\i1}Masuk angin!
+Dialogue: 50,0:11:54.42,0:11:56.61,Main,Hitori,0,0,0,,{\i1}Terkutuklah tubuhku yang sehat ini!
+Dialogue: 50,0:11:57.28,0:12:00.02,Main,Hitori,0,0,0,,{\i1}Kalau sudah begini,\Nterpaksa harus pura-pura—
+Dialogue: 50,0:12:04.27,0:12:05.49,Main,Hitori,0,0,0,,{\i1}Nijika?
+Dialogue: 50,0:12:05.49,0:12:06.51,Main,Nijika,0,0,0,,{\i1}Pagi!
+Dialogue: 50,0:12:06.51,0:12:08.21,Main,Nijika,0,0,0,,{\i1}Hari ini hari pertama kerja, kan?
+Dialogue: 50,0:12:08.21,0:12:10.35,Main,Nijika,0,0,0,,{\i1}Aku tahu kamu gugup,\Nnanti bakalan dibantu, kok.
+Dialogue: 50,0:12:10.35,0:12:11.41,Main,Nijika,0,0,0,,{\i1}Kita berusaha yang terbaik, ya!
+Dialogue: 50,0:12:12.61,0:12:17.79,Main,Hitori,0,0,0,,{\i1}Kata-katanya sungguh hangat untuk\N diriku yang menolak bekerja.
+Dialogue: 50,0:12:23.51,0:12:26.80,Main,Hitori,0,0,0,,{\i1}Kamu sudah menyadarkanku akan\N kesalahan bodoh yang kuperbuat.
+Dialogue: 50,0:12:26.80,0:12:31.73,Main,Hitori,0,0,0,,{\i1}Terima kasih sudah mengingatkanku\N untuk menjadi manusia teladan.
+Dialogue: 50,0:12:33.64,0:12:35.08,Main,Nijika,0,0,0,,Dia ini ngomong apa, sih?
+Dialogue: 50,0:12:38.49,0:12:39.78,Main,Hitori,0,0,0,,{\i1}Sampai juga.
+Dialogue: 50,0:12:42.02,0:12:43.16,Main,Hitori,0,0,0,,{\i1}Semangat, Bocchi!
+Dialogue: 50,0:12:43.25,0:12:44.28,Main,Hitori,0,0,0,,{\i1}Semangat, Bocchi!
+Dialogue: 50,0:12:44.28,0:12:45.23,Main,Hitori,0,0,0,,{\i1}Semangat, Bocchi!
+Dialogue: 50,0:12:45.32,0:12:46.50,Main,Hitori,0,0,0,,{\i1}Semangat, Bocchi!
+Dialogue: 50,0:12:46.50,0:12:48.74,Main,Seika,0,0,0,,Penjualan tiketnya baru\Ndimulai pukul 17.00, lo.
+Dialogue: 50,0:12:50.39,0:12:51.91,Main,Seika,0,0,0,,Kami masih perlu bersiap-siap.
+Dialogue: 50,0:12:51.91,0:12:53.62,Main,Hitori,0,0,0,,{\i1}Dia staf di sini?!
+Dialogue: 50,0:12:53.62,0:12:54.94,Main,Hitori,0,0,0,,{\i1}Dia mencurigaiku.
+Dialogue: 50,0:12:54.94,0:12:56.65,Main,Hitori,0,0,0,,{\i1}Kesalahpahaman ini harus kuluruskan!
+Dialogue: 50,0:12:58.82,0:13:02.17,Main,Hitori,0,0,0,,Te-Te-Te-Tenang dulu ....
+Dialogue: 50,0:13:02.17,0:13:04.13,Main,Seika,0,0,0,,Kamulah yang harus tenang.
+Dialogue: 50,0:13:04.73,0:13:06.53,Main,Seika,0,0,0,,Jadi kamu si anak baru\Nuntuk kerja paruh waktu, ya?
+Dialogue: 50,0:13:06.53,0:13:08.15,Main,Seika,0,0,0,,Bilang dari awal, dong.
+Dialogue: 50,0:13:08.15,0:13:09.60,Main,Hitori,0,0,0,,Ma-Ma-Maaf!
+Dialogue: 50,0:13:09.82,0:13:12.60,Main,Seika,0,0,0,,Salam kenal, ya.\NAku manajer di sini.
+Dialogue: 50,0:13:12.96,0:13:15.20,Main,Hitori,0,0,0,,Sa-Salam kenal juga.
+Dialogue: 50,0:13:15.20,0:13:17.35,Main,Hitori,0,0,0,,{\i1}Mbak manajer agak nyeremin.
+Dialogue: 50,0:13:17.35,0:13:18.94,Main,Hitori,0,0,0,,{\i1}Dia tipe yang kubenci.
+Dialogue: 50,0:13:18.94,0:13:20.25,Main,Hitori,0,0,0,,{\i1}Nijika, cepat datangnya, dong!
+Dialogue: 50,0:13:20.25,0:13:24.80,Main,Seika,0,0,0,,Lo? Kamu anak yang\Nmemainkan gitar di dalam kotak.
+Dialogue: 50,0:13:24.80,0:13:26.49,Main,Seika,0,0,0,,Seingatku ....
+Dialogue: 50,0:13:26.49,0:13:28.07,Main,,0,0,0,,Mangga Indramayu?
+Dialogue: 50,0:13:28.07,0:13:30.21,Main,Hitori,0,0,0,,{\i1}Nama julukan baru?
+Dialogue: 50,0:13:30.21,0:13:31.88,Main,Hitori,0,0,0,,{\i1}Mbak Manajer,\Naku padamu, deh!
+Dialogue: 50,0:13:31.88,0:13:34.54,Main,Hitori,0,0,0,,A-Aku Mangga Indramayu!
+Dialogue: 50,0:13:34.54,0:13:36.92,Main,Nijika,0,0,0,,Itu bukan namanya, tahu!
+Dialogue: 50,0:13:36.92,0:13:40.12,Main,Nijika,0,0,0,,Teteh jangan asal kasih\Njulukan aneh, dong!
+Dialogue: 50,0:13:40.12,0:13:41.20,Main,Hitori,0,0,0,,Teteh?!
+Dialogue: 50,0:13:41.20,0:13:42.88,Main,Hitori,0,0,0,,Tetehnya Nijika?
+Dialogue: 50,0:13:42.88,0:13:44.52,Main,Nijika,0,0,0,,Aku sudah bilang sebelumnya, lo.
+Dialogue: 50,0:13:44.52,0:13:46.49,Main,Nijika,0,0,0,,Itu, lo, waktu pertama\Nkamu datang ke Starry.
+Dialogue: 50,0:13:47.35,0:13:51.08,Main,Nijika,0,0,0,,Hari ini, kita akan tampil\Ndi rumah konser Starry.
+Dialogue: 50,0:13:51.08,0:13:54.10,Main,Nijika,0,0,0,,Tetehku jadi manajer di sana.
+Dialogue: 50,0:13:54.10,0:13:57.60,Main,Nijika,0,0,0,,Selain itu, keluarga kami\Ntinggal di apartemen di atasnya.
+Dialogue: 50,0:13:58.15,0:14:00.61,Main,Hitori,0,0,0,,{\i1}Jantungku berdebar kencang\Nsampai enggak kedengaran.
+Dialogue: 50,0:14:00.61,0:14:02.57,Main,Hitori,0,0,0,,Be-Be-Begitu, ya?
+Dialogue: 50,0:14:02.57,0:14:06.21,Main,Nijika,0,0,0,,Begitulah ceritanya,\Njadi kamu gak usah grogi.
+Dialogue: 50,0:14:06.21,0:14:07.69,Main,Nijika,0,0,0,,Iya, kan, Teh?
+Dialogue: 50,0:14:07.69,0:14:09.28,Main,Seika,0,0,0,,Panggil aku "Manajer" di sini.
+Dialogue: 50,0:14:09.76,0:14:12.18,Main,Seika,0,0,0,,Terus, bedakan pekerjaan\Ndan hubungan pribadi.
+Dialogue: 51,0:14:12.64,0:14:15.48,Main,Nijika,0,0,0,,Duh, jangan nakut-\Nnakutin begitu, dong!
+Dialogue: 50,0:14:16.14,0:14:19.29,Main,Nijika,0,0,0,,Baiklah, ayo mulai dari\Nmerapikan meja-mejanya.
+Dialogue: 50,0:14:19.29,0:14:21.81,Main,Nijika,0,0,0,,Kalau selesai, nanti mejanya dilap ....
+Dialogue: 50,0:14:22.34,0:14:24.24,Main,Nijika,0,0,0,,Lah? Bocchi ke mana?
+Dialogue: 50,0:14:26.09,0:14:30.45,Main,Hitori,0,0,0,,Maaf. Aku butuh napas\Ndi tempat gelap dan sempit.
+Dialogue: 50,0:14:30.45,0:14:31.72,Main,Nijika,0,0,0,,Butuh napasnya cepat banget?!
+Dialogue: 50,0:14:32.65,0:14:36.49,Main,Nijika,0,0,0,,Kalau begitu, kamu ingat-ingat\Ndulu menu minumannya sini.
+Dialogue: 50,0:14:37.44,0:14:39.68,Main,Nijika,0,0,0,,Air tonik di sini,
+Dialogue: 50,0:14:39.68,0:14:42.00,Main,Nijika,0,0,0,,dan birnya di dispenser ini.
+Dialogue: 50,0:14:42.00,0:14:43.94,Main,Nijika,0,0,0,,Koktail ada di rak belakang.
+Dialogue: 50,0:14:44.56,0:14:45.91,Main,Hitori,0,0,0,,{\i1}E-Enggak bisa kuingat!
+Dialogue: 50,0:14:45.91,0:14:46.59,Main,Hitori,0,0,0,,{\i1}Cepat banget!
+Dialogue: 50,0:14:46.59,0:14:49.65,Main,Hitori,0,0,0,,{\i1}A-A-A-Aku ...\Nha-ha-ha-harus ....
+Dialogue: 50,0:14:51.21,0:14:54.36,Main,Hitori,0,0,0,,{\i1}Aku harus menanamkan ingatan ini\Nke dalam tubuhku lewat lagu!
+Dialogue: 50,0:14:54.36,0:14:55.99,Main,Nijika,0,0,0,,Eh?! Dari mana kamu keluarin itu?!
+Dialogue: 50,0:14:55.99,0:14:59.13,Main,Hitori,0,0,0,,{\an8}Koktail ada di rak paling kanan!
+Dialogue: 50,0:14:58.30,0:14:59.56,Main,Nijika,0,0,0,,Seram banget!
+Dialogue: 50,0:14:59.13,0:15:01.01,Main,Hitori,0,0,0,,{\an8}Tequila!
+Dialogue: 50,0:14:59.13,0:15:01.01,Overlap,PA,0,0,0,,Kelihatannya seru banget, ya?
+Dialogue: 50,0:14:59.56,0:15:01.84,Main,Nijika,0,0,0,,Aku senang kamu mengingat minumannya,
+Dialogue: 50,0:15:01.01,0:15:02.50,Main,Hitori,0,0,0,,{\an8}Vodka!
+Dialogue: 50,0:15:01.84,0:15:04.00,Main,Nijika,0,0,0,,tapi gitarnya bisa nanti saja?
+Dialogue: 50,0:15:02.50,0:15:03.40,Main,Hitori,0,0,0,,{\an8}Kahlua!
+Dialogue: 50,0:15:03.40,0:15:04.50,Main,Hitori,0,0,0,,{\an8}Rum!
+Dialogue: 50,0:15:04.85,0:15:09.22,Main,Seika,0,0,0,,Lo? Padahal dia terlihat payah\Nsaat konser, tapi ....
+Dialogue: 50,0:15:04.85,0:15:07.30,Main,Nijika,0,0,0,,{\an8}Hei, kamu dengar?
+Dialogue: 50,0:15:07.30,0:15:09.22,Main,Nijika,0,0,0,,{\an8}Kamu dengar enggak, sih?!
+Dialogue: 50,0:15:09.22,0:15:10.94,Main,PA,0,0,0,,Dia jago juga, ya.
+Dialogue: 50,0:15:09.22,0:15:12.88,Main,Nijika,0,0,0,,{\an8}Kamu beneran membuatku takut!
+Dialogue: 50,0:15:11.96,0:15:15.63,Main,Seika,0,0,0,,{\i1}Nijika berusahan menghentikannya,\Nmakanya enggak sadar ....
+Dialogue: 50,0:15:12.88,0:15:15.63,Main,Nijika,0,0,0,,{\an8}Ku-Kumohon! Kembalilah!
+Dialogue: 50,0:15:15.63,0:15:18.22,Main,Seika,0,0,0,,{\i1}Musik ini sepertinya pernah\Nkudengar di suatu tempat.
+Dialogue: 50,0:15:15.63,0:15:17.12,Main,Nijika,0,0,0,,{\an8}Hitori!
+Dialogue: 50,0:15:17.22,0:15:18.22,Main,Nijika,0,0,0,,{\an8}Hitori!
+Dialogue: 50,0:15:19.35,0:15:20.81,Main,Seika,0,0,0,,Mulai kerja sana!
+Dialogue: 50,0:15:20.81,0:15:21.96,Main,Nijika,0,0,0,,Kenapa malah aku?!
+Dialogue: 50,0:15:22.52,0:15:26.94,Main,Nijika,0,0,0,,Untuk layanan minuman, cukup tuangkan\Ndan serahkan minuman yang dipesan.
+Dialogue: 50,0:15:26.94,0:15:27.92,Main,Hitori,0,0,0,,Ba-Baik.
+Dialogue: 50,0:15:27.92,0:15:30.86,Main,Nijika,0,0,0,,Bisa bayar 500 yen di atas harga tiketnya
+Dialogue: 50,0:15:30.86,0:15:32.95,Main,Nijika,0,0,0,,untuk mendapat tiket minuman ini.
+Dialogue: 50,0:15:32.95,0:15:35.38,Main,Hitori,0,0,0,,{\i1}500 yen per gelas?
+Dialogue: 50,0:15:35.38,0:15:38.22,Main,Hitori,0,0,0,,{\i1}Lagian, kenapa pakai sistem tiket minuman?
+Dialogue: 50,0:15:38.22,0:15:41.08,Main,Nijika,0,0,0,,Jangan bengong seolah itu asing banget.
+Dialogue: 50,0:15:41.56,0:15:45.08,Main,Nijika,0,0,0,,Sebenarnya, rumah konser\Njuga dianggap restoran.
+Dialogue: 50,0:15:45.53,0:15:47.35,Main,Nijika,0,0,0,,Aku kurang tahu, sih ....
+Dialogue: 50,0:15:47.35,0:15:51.84,Main,Nijika,0,0,0,,Tapi, katanya sulit mendapatkan izin usaha\Nkalau isinya cuma tempat konser.
+Dialogue: 50,0:15:51.84,0:15:53.64,Main,Hitori,0,0,0,,Be-Begitu, ya!
+Dialogue: 50,0:15:53.64,0:15:58.76,Main,Nijika,0,0,0,,Makanya kami menyajikan minuman\N dan beroperasi seperti restoran.
+Dialogue: 50,0:15:59.52,0:16:01.22,Main,Nijika,0,0,0,,Eh, kamu dengar, kan?
+Dialogue: 50,0:16:01.22,0:16:06.90,Main,Hitori,0,0,0,,{\i1}Ta-Tak kusangka rintangan debut kerja\N di restoran telah kulewati begitu cepat!
+Dialogue: 50,0:16:06.90,0:16:10.30,Main,Hitori,0,0,0,,{\i1}A-Aku ... sudah tumbuh pesat?!
+Dialogue: 50,0:16:11.12,0:16:14.82,Main,Nijika,0,0,0,,Ah, pelanggan sudah datang!
+Dialogue: 50,0:16:14.82,0:16:17.28,Main,Nijika,0,0,0,,Bocchi, sebentar lagi kita akan sibuk!
+Dialogue: 50,0:16:17.28,0:16:17.94,Main,Hitori,0,0,0,,Hah?
+Dialogue: 50,0:16:19.33,0:16:22.04,Main,Hitori,0,0,0,,{\i1}Sek, langsung melayani pelanggan?!
+Dialogue: 50,0:16:22.04,0:16:23.65,Main,Hitori,0,0,0,,{\i1}Aku harus bilang apa?!
+Dialogue: 50,0:16:23.65,0:16:26.29,Main,Hitori,0,0,0,,{\i1}"Terima kasih atas royalti\Nyang diberikan hari ini ...."
+Dialogue: 50,0:16:26.29,0:16:27.28,Main,Hitori,0,0,0,,{\i1}Bukan!
+Dialogue: 50,0:16:27.28,0:16:29.68,Main,Hitori,0,0,0,,{\i1}Ka-Kasih aku latihan lagi, dong!
+Dialogue: 50,0:16:29.68,0:16:31.80,Main,Hitori,0,0,0,,{\i1}Ti-Tidak! Tunggu dulu!
+Dialogue: 50,0:16:33.37,0:16:34.80,Main,Nijika,0,0,0,,Malah ditutup!
+Dialogue: 50,0:16:35.57,0:16:37.30,Main,Customer A,0,0,0,,Permisi! Beli satu kola!
+Dialogue: 50,0:16:37.30,0:16:38.49,Main,Nijika,0,0,0,,Baik!
+Dialogue: 50,0:16:38.49,0:16:39.60,Main,Nijika,0,0,0,,Bocchi, kolanya satu!
+Dialogue: 50,0:16:39.92,0:16:40.82,Main,Hitori,0,0,0,,Baik!
+Dialogue: 50,0:16:42.28,0:16:43.65,Main,Customer B,0,0,0,,Aku beli minuman jahe.
+Dialogue: 50,0:16:43.65,0:16:44.31,Main,Hitori,0,0,0,,Baik!
+Dialogue: 50,0:16:45.81,0:16:48.28,Main,Nijika,0,0,0,,Bocchi, kamu enggak sopan\Ndi depan pelanggan!
+Dialogue: 50,0:16:48.28,0:16:50.45,Main,Hitori,0,0,0,,A-A-Aku belum siap!
+Dialogue: 50,0:16:50.45,0:16:53.98,Main,Ryo,0,0,0,,{\i1}Suasana kelam rumah\Nkonsernya sudah lenyap.
+Dialogue: 50,0:16:54.62,0:16:57.00,Main,Nijika,0,0,0,,Satu teh oolong dan {\i1}highball{\i0}!
+Dialogue: 50,0:16:57.00,0:16:58.16,Main,Customer C,0,0,0,,Toiletnya di mana, ya?
+Dialogue: 50,0:16:58.76,0:17:00.79,Main,Nijika,0,0,0,,Lurus saja ke sebelah kanan, di pintu kiri!
+Dialogue: 50,0:17:00.79,0:17:03.72,Main,Hitori,0,0,0,,{\i1}Pada akhirnya,\Naku sama sekali belum tumbuh.
+Dialogue: 50,0:17:03.72,0:17:05.29,Main,Nijika,0,0,0,,Bocchi, lihat!
+Dialogue: 50,0:17:06.04,0:17:07.76,Main,Crowd,0,0,0,,Mereka tiba.
+Dialogue: 50,0:17:08.79,0:17:11.74,Main,Tsuyoshi,0,0,0,,Hei, salam kenal!\NKami Alexandism!
+Dialogue: 50,0:17:12.72,0:17:15.36,Main,Nijika,0,0,0,,Band itu lumayan bagus, kan?
+Dialogue: 50,0:17:16.50,0:17:18.60,Main,Nijika,0,0,0,,Kamu sudah boleh rileks, kok.
+Dialogue: 50,0:17:18.60,0:17:20.76,Main,Nijika,0,0,0,,Kalau konsernya mulai,\Nkita akan senggang.
+Dialogue: 50,0:17:20.76,0:17:21.40,Main,hitori,0,0,0,,Iya.
+Dialogue: 50,0:17:21.40,0:17:22.31,Main,Ryo,0,0,0,,Kerja bagus.
+Dialogue: 50,0:17:22.31,0:17:23.25,Main,Nijika,0,0,0,,Yo, makasih!
+Dialogue: 50,0:17:23.25,0:17:24.60,Main,Nijika,0,0,0,,Lo? Penjualan tiketnya?
+Dialogue: 50,0:17:24.60,0:17:26.88,Main,Ryo,0,0,0,,Manajer menggantikanku.
+Dialogue: 50,0:17:26.88,0:17:29.12,Main,Ryo,0,0,0,,Semua band hari ini sangat populer,
+Dialogue: 50,0:17:29.12,0:17:31.02,Main,Ryo,0,0,0,,jadi aku disuruh menonton dan menggali ilmu.
+Dialogue: 50,0:17:31.02,0:17:33.11,Main,Nijika,0,0,0,,Tetehku memang begitu ....
+Dialogue: 50,0:17:33.11,0:17:36.36,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:36.36,0:17:38.23,Main,Nijika,0,0,0,,... dere. Begitulah.
+Dialogue: 50,0:17:38.23,0:17:39.30,Main,Ryo,0,0,0,,Tsun-nya kebanyakan.
+Dialogue: 50,0:17:39.88,0:17:41.44,Main,Hitori,0,0,0,,Ma-Ma-Maaf.
+Dialogue: 50,0:17:41.44,0:17:43.43,Main,Hitori,0,0,0,,Bukan cuma aku gagal membantu,
+Dialogue: 50,0:17:43.43,0:17:45.71,Main,Hitori,0,0,0,,aku juga enggak bisa menatap\Nmata dengan pelanggan.
+Dialogue: 50,0:17:45.71,0:17:47.07,Main,Ryo,0,0,0,,Mau pakai ini?
+Dialogue: 50,0:17:47.73,0:17:49.23,Main,Ryo,0,0,0,,Ini bukan mangga, sih.
+Dialogue: 50,0:17:49.23,0:17:50.59,Main,Nijika,0,0,0,,Enggak usah.
+Dialogue: 50,0:17:52.62,0:17:53.67,Main,Nijika,0,0,0,,Tenang saja!
+Dialogue: 50,0:17:53.91,0:17:56.51,Main,Nijika,0,0,0,,Ini hari pertamamu.\NNanti juga bakal terbiasa, kok!
+Dialogue: 50,0:17:57.93,0:18:03.85,Main,Hitori,0,0,0,,Ke-Kenapa kamu sebaik itu\Npada kutu air sepertiku?
+Dialogue: 50,0:18:06.74,0:18:08.15,Main,Nijika,0,0,0,,Asal kamu tahu ....
+Dialogue: 50,0:18:08.43,0:18:10.88,Main,Nijika,0,0,0,,Aku sangat menyukai rumah konser ini.
+Dialogue: 50,0:18:10.88,0:18:14.41,Main,Nijika,0,0,0,,Tapi, tempat staf rumah konser\Nberinteraksi dengan penonton
+Dialogue: 50,0:18:14.41,0:18:17.40,Main,,0,0,0,,hanya di sini dan resepsionis saja,
+Dialogue: 50,0:18:17.40,0:18:21.83,Main,Nijika,0,0,0,,makanya aku selalu ingin berusaha\Nmembuat orang lain juga menyukainya.
+Dialogue: 50,0:18:22.29,0:18:24.21,Main,Hitori,0,0,0,,Ma-Ma-Ma-Maaf.
+Dialogue: 50,0:18:24.21,0:18:26.36,Main,Hitori,0,0,0,,Aku tak becus kerja di tempat\Nseberharga ini bagimu.
+Dialogue: 50,0:18:26.36,0:18:27.75,Main,Nijika,0,0,0,,Yah, bukan ....
+Dialogue: 50,0:18:27.75,0:18:29.56,Main,Nijika,0,0,0,,Bukan itu maksudku.
+Dialogue: 50,0:18:29.56,0:18:33.75,Main,Nijika,0,0,0,,Aku ingin kamu juga menyukai\Nrumah konser ini, Bocchi.
+Dialogue: 50,0:18:35.74,0:18:37.62,Main,Nijika,0,0,0,,Menikmati kerja di sini,
+Dialogue: 50,0:18:37.62,0:18:39.45,Main,Nijika,0,0,0,,dan menikmati penampilan band-nya.
+Dialogue: 50,0:18:39.89,0:18:40.68,Main,Nijika,0,0,0,,Bersama-sama.
+Dialogue: 50,0:18:44.87,0:18:49.17,Main,Nijika,0,0,0,,Yah, nanti aku juga ingin kamu bisa berbicara\N sambil tersenyum di depan pelanggan, sih.
+Dialogue: 50,0:18:49.17,0:18:50.30,Main,Crowd,0,0,0,,{\an8}Tsuyoshi!
+Dialogue: 50,0:18:50.30,0:18:51.19,Main,Tsuyoshi,0,0,0,,{\an8}Ayo mulai!
+Dialogue: 50,0:18:51.76,0:18:53.11,Main,Nijika,0,0,0,,Bocchi, bentar lagi dimulai, tuh!
+Dialogue: 50,0:19:02.14,0:19:04.44,Main,Hitori,0,0,0,,{\i1}Seisi tempatnya menyatu.
+Dialogue: 50,0:19:04.44,0:19:07.12,Main,Hitori,0,0,0,,{\i1}Penonton dan pemain band-nya\Nterlihat menikmatinya.
+Dialogue: 50,0:19:08.07,0:19:10.84,Main,Hitori,0,0,0,,{\i1}Dibandingkan saat aku konser ....
+Dialogue: 50,0:19:11.88,0:19:15.46,Main,Hitori,0,0,0,,{\i1}Penonton membayar 2.000 yen\Nuntuk melihat itu, kan?
+Dialogue: 50,0:19:16.46,0:19:18.37,Main,Hitori,0,0,0,,{\i1}Kalau aku tetap begini,
+Dialogue: 50,0:19:18.37,0:19:23.64,Main,Hitori,0,0,0,,{\i1}selanjutnya juga akan jadi\Nkonser tanpa semangat, kan?
+Dialogue: 50,0:19:25.81,0:19:29.01,Main,Hitori,0,0,0,,{\i1}Aku ingin berusaha berubah,\Nmeski perlahan-lahan,
+Dialogue: 50,0:19:29.01,0:19:31.10,Main,Hitori,0,0,0,,{\i1}dan menikmatinya dengan yang lain.
+Dialogue: 50,0:19:31.10,0:19:32.40,Main,Customer D,0,0,0,,Permisi!
+Dialogue: 50,0:19:32.40,0:19:33.74,Main,Customer D,0,0,0,,Jus jeruk.
+Dialogue: 50,0:19:33.74,0:19:34.93,Main,Hitori,0,0,0,,Ba-Baik.
+Dialogue: 50,0:19:47.50,0:19:50.21,Main,Hitori,0,0,0,,{\i1}Tatap mata pelanggan sambil tersenyum.
+Dialogue: 50,0:19:50.21,0:19:51.71,Main,,0,0,0,,{\i1}Berinteraksi langsung.
+Dialogue: 50,0:19:53.27,0:19:54.46,Main,Hitori,0,0,0,,{\i1}Tersenyum!
+Dialogue: 50,0:19:55.44,0:19:57.78,Main,Hitori,0,0,0,,{\i1}Tatap mata pelanggan!
+Dialogue: 50,0:19:57.78,0:19:58.96,Main,Hitori,0,0,0,,{\i1}Berinteraksi!
+Dialogue: 50,0:20:00.16,0:20:01.97,Main,Hitori,0,0,0,,Si-Silakan.
+Dialogue: 50,0:20:02.28,0:20:04.60,Main,Nijika,0,0,0,,Bocchi!\NMatamu! Matamu!
+Dialogue: 50,0:20:04.60,0:20:06.35,Main,Customer D,0,0,0,,Makasih!
+Dialogue: 50,0:20:07.80,0:20:10.44,Main,Nijika,0,0,0,,Yah, bikin deg-degan saja!
+Dialogue: 50,0:20:10.44,0:20:11.55,Main,Nijika,0,0,0,,Tapi hebat!
+Dialogue: 50,0:20:11.55,0:20:14.44,Main,Nijika,0,0,0,,Kamu bisa memperlihatkan wajahmu\N di meja kasir dan berinteraksi!
+Dialogue: 50,0:20:14.44,0:20:16.50,Main,Hitori,0,0,0,,Aku sudah berusaha!
+Dialogue: 50,0:20:16.50,0:20:17.07,Main,Nijika,0,0,0,,Yap!
+Dialogue: 50,0:20:17.41,0:20:22.45,Main,Nijika,0,0,0,,Berkat dirimu, konser hari ini pasti\N akan menjadi kenangan yang seru.
+Dialogue: 50,0:20:22.45,0:20:25.45,Main,Nijika,0,0,0,,Kamu sudah maju selangkah.
+Dialogue: 50,0:20:27.17,0:20:28.31,Main,Hitori,0,0,0,,Selangkah ....
+Dialogue: 50,0:20:32.20,0:20:33.25,Main,Hitori,0,0,0,,{\i1}Selangkah.
+Dialogue: 50,0:20:37.16,0:20:38.84,Main,Hitori,0,0,0,,{\i1}Selangkah?!
+Dialogue: 50,0:20:38.84,0:20:42.22,Main,Hitori,0,0,0,,{\i1}Padahal aku bermaksud\Nmaju seribu langkah, sih!
+Dialogue: 50,0:20:47.35,0:20:48.99,Main,Seika,0,0,0,,Makasih untuk hari ini, ya.
+Dialogue: 50,0:20:48.99,0:20:50.21,Main,Seika,0,0,0,,Hati-hati di jalan.
+Dialogue: 50,0:20:50.21,0:20:50.93,Main,Ryo,0,0,0,,Dadah.
+Dialogue: 50,0:20:50.93,0:20:52.63,Main,Hitori,0,0,0,,Te-Terima kasih untuk hari ini.
+Dialogue: 50,0:20:52.63,0:20:54.62,Main,Seika,0,0,0,,Eh? Kamu enggak pulang, Ryo?
+Dialogue: 50,0:20:54.62,0:20:56.37,Main,Ryo,0,0,0,,Sebentar lagi pulang.
+Dialogue: 50,0:20:56.37,0:20:57.36,Main,Nijika,0,0,0,,Bocchi!
+Dialogue: 50,0:20:57.36,0:20:58.44,Main,Hitori,0,0,0,,Y-Ya?!
+Dialogue: 50,0:20:58.90,0:20:59.89,Main,Nijika,0,0,0,,Sampai ketemu lagi!
+Dialogue: 50,0:20:59.89,0:21:03.44,Main,Hitori,0,0,0,,Y-Ya, sampai ketemu besok!
+Dialogue: 50,0:21:06.20,0:21:08.24,Main,Hitori,0,0,0,,{\i1}Sudah berakhir!
+Dialogue: 50,0:21:08.24,0:21:10.48,Main,Hitori,0,0,0,,{\i1}Satu hari ini bisa kulewati!
+Dialogue: 50,0:21:10.48,0:21:13.41,Main,Hitori,0,0,0,,{\i1}Ternyata, kerja enggak sesulit dugaanku!
+Dialogue: 50,0:21:13.41,0:21:15.46,Main,Hitori,0,0,0,,{\i1}Besok aku akan berusaha lagi, ah!
+Dialogue: 50,0:21:16.06,0:21:17.51,Main,Hitori,0,0,0,,Huashim!
+Dialogue: 50,0:21:17.51,0:21:18.63,Main,Hitori,0,0,0,,Hah?
+Dialogue: 50,0:21:19.61,0:21:22.30,Main,Ryo,0,0,0,,Bocchi sudah berusaha keras, ya?
+Dialogue: 50,0:21:22.30,0:21:23.38,Main,Nijika,0,0,0,,Benar.
+Dialogue: 50,0:21:23.60,0:21:27.12,Main,Nijika,0,0,0,,Selain itu, dia bilang\N"Sampai ketemu besok!"
+Dialogue: 50,0:21:27.12,0:21:28.39,Main,Ryo,0,0,0,,Iya.
+Dialogue: 50,0:21:28.39,0:21:31.27,Main,Nijika,0,0,0,,Syukurlah kita membentuk band ini.
+Dialogue: 50,0:21:32.01,0:21:33.00,Main,Nijika,0,0,0,,Oh iya!
+Dialogue: 50,0:21:33.00,0:21:34.52,Main,Nijika,0,0,0,,Aku kirim pesan LINE ke Bocchi, deh.
+Dialogue: 50,0:21:34.52,0:21:36.50,Main,Nijika,0,0,0,,Bilang "Sampai ketemu besok!"
+Dialogue: 50,0:21:40.25,0:21:41.96,Main,Michiyo,0,0,0,,Demamnya parah.
+Dialogue: 50,0:21:41.96,0:21:44.34,Main,Michiyo,0,0,0,,Papa, bisa siapkan kompres dingin?
+Dialogue: 50,0:21:44.34,0:21:45.88,Main,Naoki,0,0,0,,Perlu dibawa ke rumah sakit?
+Dialogue: 50,0:21:45.88,0:21:49.29,Main,Hitori,0,0,0,,{\i1}Ba-Baru sekarang malah demam ....
+Dialogue: 50,0:21:49.88,0:21:53.25,Main,Nijika,0,0,0,,Berhubung Bocchi sudah mau bekerja sama,
+Dialogue: 50,0:21:53.25,0:21:54.87,Main,Nijika,0,0,0,,sisanya tinggal ...
+Dialogue: 50,0:21:54.87,0:21:57.43,Main,Nijika,0,0,0,,... mencari vokalis baru saja!
+Dialogue: 50,0:21:59.29,0:22:00.56,Main,Girl Student A,0,0,0,,Giliran siapa, nih?
+Dialogue: 50,0:22:00.56,0:22:03.54,Main,Kita,0,0,0,,Ya, ya! Aku, aku!
+Dialogue: 50,0:23:38.55,0:23:39.78,Main,Nijika,0,0,0,,Tonton lagi, ya!
 Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,chapter,0,0,0,chapter,{Prolog}
 Comment: 0,0:00:34.01,0:00:34.06,riasan ampas,chapter,0,0,0,chapter,{Lagu Pembuka}
 Comment: 0,0:02:03.98,0:02:04.03,riasan ampas,chapter,0,0,0,chapter,{Cerita}
@@ -9582,12 +10050,9 @@ Dialogue: 0,0:23:25.34,0:23:29.39,Lagu ED,,0,0,0,,{\fad(0,1140)\fsp-1\c&H334C75&
 Last Style Storage: Interrobang_Bocchi
 Audio File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2].mkv
 Video File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2].mkv
-Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 2
-Video Position: 816
-
-[Aegisub Extradata]
-Data: 17518,perspective_ambient_plane,e0.20088#2C0.13055#2C0.86086#2C0.37563
+Scroll Position: 381
+Active Line: 385
+Video Position: 26376

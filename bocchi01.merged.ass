@@ -15,8 +15,8 @@ YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
-Style: Main,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,1.5,2,135,135,60,1
-Style: Overlap,Gandhi Sans,74,&H00FFFFFF,&H00000000,&H00651018,&H96000000,-1,0,0,0,100,100,0,0,1,4,1.5,2,135,135,60,1
+Style: Main,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,1.5,2,135,135,75,1
+Style: Overlap,Gandhi Sans,74,&H00FFFFFF,&H00000000,&H00651018,&H96000000,-1,0,0,0,100,100,0,0,1,4,1.5,2,135,135,75,1
 Style: riasan ampas,Arial,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Lagu OP,KG Second Chances Solid,48,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,4,2,40,40,40,1
 Style: Lagu ED,WIX-CookHand Std R,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,3,8,80,80,70,1
@@ -256,7 +256,7 @@ Dialogue: 50,0:10:52.13,0:10:55.38,Main,Hitori,0,0,0,,{\i1}Inilah aroma sejati g
 Dialogue: 50,0:10:55.38,0:10:56.98,Main,Nijika,0,0,0,,Apa aku jalannya terlalu cepat?
 Dialogue: 50,0:10:56.98,0:10:57.80,Main,Hitori,0,0,0,,E-Enggak, kok ....
 Dialogue: 50,0:10:58.17,0:11:02.04,Main,Nijika,0,0,0,,Hari ini, kita akan tampil\Ndi rumah konser Starry.
-Dialogue: 50,0:11:02.04,0:11:04.68,Main,Nijika,0,0,0,,Mbakku jadi manajer di sana.
+Dialogue: 50,0:11:02.04,0:11:04.68,Main,Nijika,0,0,0,,Tetehku jadi manajer di sana.
 Dialogue: 50,0:11:02.04,0:11:04.68,Main,Hitori,0,0,0,,{\an8}Tampil di rumah konser ....
 Dialogue: 50,0:11:04.97,0:11:07.18,Main,Hitori,0,0,0,,{\i1}Kedengarannya resmi, gitu.
 Dialogue: 50,0:11:07.18,0:11:09.06,Main,Hitori,0,0,0,,{\i1}Bentar, kok jantungku\Nkayak mau meledak, ya?
@@ -315,7 +315,7 @@ Dialogue: 50,0:13:06.74,0:13:08.98,Main,Ryo,0,0,0,,... dia memintamu buat\Nlatih
 Dialogue: 50,0:13:08.98,0:13:11.82,Main,Ryo,0,0,0,,Tapi, kamu malah menyelinap\Nkeluar rumah konser ...
 Dialogue: 50,0:13:11.82,0:13:13.36,Main,Ryo,0,0,0,,... jadi dia marah terus pergi belanja.
 Dialogue: 50,0:13:13.36,0:13:14.23,Main,Nijika,0,0,0,,Ih! Yang benar, ah!
-Dialogue: 50,0:13:14.59,0:13:16.69,Main,Nijika,0,0,0,,Kita langsung ke studio\Nsebelum Mbak balik!
+Dialogue: 50,0:13:14.59,0:13:16.69,Main,Nijika,0,0,0,,Kita langsung ke studio\Nsebelum Teteh balik!
 Dialogue: 50,0:13:17.09,0:13:18.31,Main,Nijika,0,0,0,,Ayo kamu juga, Hitori!
 Dialogue: 50,0:13:18.58,0:13:19.21,Main,Nijika,0,0,0,,Yuk!
 Dialogue: 50,0:13:20.65,0:13:21.78,Main,Hitori,0,0,0,,Ba-Baik!
@@ -3832,6 +3832,6 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 274
-Active Line: 281
-Video Position: 8478
+Scroll Position: 273
+Active Line: 276
+Video Position: 19052
