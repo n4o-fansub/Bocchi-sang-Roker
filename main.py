@@ -1,6 +1,7 @@
 import argparse
 import sys
 from pathlib import Path
+from zipfile import ZIP_DEFLATED, ZipFile
 
 from ass_parser import AssFile, read_ass
 from pymkv import MKVFile, MKVTrack
@@ -12,6 +13,7 @@ from subpy.properties import SyncPoint, read_and_parse_properties
 from subpy.utils import incr_layer
 from subpy.writer import write_ass
 
+subpy_version = "1.1.0"
 CURRENT_DIR = Path(__file__).parent
 COMMON_DIR = CURRENT_DIR / "common"
 
@@ -86,8 +88,8 @@ base_ass.script_info["Original Translation"] = "Suaminya Kita Ikuyo"
 base_ass.script_info["Original Editing"] = "Suaminya Kita Ikuyo dan Suaminya Nijika-chan"
 base_ass.script_info["Original Timing"] = "Suaminya Kita Ikuyo"
 base_ass.script_info["Synch Point"] = base_ass_path.stem  # type: ignore
-base_ass.script_info["Script Updated By"] = "SubPy/1.0 Script Merger"
-base_ass.script_info["Update Details"] = f"Merged {total_scripts} scripts with SubPy/1.0 Script Merger"
+base_ass.script_info["Script Updated By"] = f"SubPy/v{subpy_version} Script Merger"
+base_ass.script_info["Update Details"] = f"Merged {total_scripts} scripts with SubPy/v{subpy_version} Script Merger"
 
 print("[+] Writing merged files!")
 final_folder = CURRENT_DIR / "final"
@@ -136,6 +138,14 @@ for font, lines in sorted(font_report["missing_glyphs_lines"].items(), key=lambd
 
 if real_problems:
     sys.exit(1)
+
+print("[+] Creating font collection zip...")
+# Make fonts collections
+font_zip = final_folder / f"{basename}{current_episode}.fonts.zip"
+with ZipFile(str(font_zip), "w", compression=ZIP_DEFLATED) as zipf:
+    for font in complete_fonts:
+        zipf.write(str(font), arcname=font.name)
+    zipf.comment = f"Generated with SubPy/v{subpy_version} Script Merger".encode("utf-8")
 
 print("[+] Preparing .mks file...")
 mkv = MKVFile()
