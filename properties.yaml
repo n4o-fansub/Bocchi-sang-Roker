@@ -14,11 +14,11 @@ subs:
     ed3: 'common/ed3/{basename}ED3b.styled.ass' # [09-11] What is wrong with
     ed3b: 'common/ed3/{basename}ED3.styled.ass' # [08] What is wrong with (credit roll style)
     ed4: 'common/ed4/{basename}ED4.ass' # [12] Rockn' Roll, Morning Light Falls on You (AKFG cover)
-    insert1: 'common/insert/{basename}INS1.ass' # [05] Guitar, Loneliness and Blue Planet
-    insert1b: 'common/insert/{basename}INS1b.ass' # [08] Guitar, Loneliness and Blue Planet (cringe version)
-    insert2: 'common/insert/{basename}INS2.ass' # [08] That band
-    insert3: 'common/insert/{basename}INS3.ass' # [12] Never forget
-    insert4: 'common/insert/{basename}INS4.kfx.ass' # [12] If I could be a constellation
+    insert1: 'common/insert/01/{basename}INS1.ass' # [05] Guitar, Loneliness and Blue Planet
+    insert1b: 'common/insert/01/{basename}INS1b.ass' # [08] Guitar, Loneliness and Blue Planet (cringe version)
+    insert2: 'common/insert/02/{basename}INS2.ass' # [08] That band
+    insert3: 'common/insert/03/{basename}INS3.ass' # [12] Never forget
+    insert4: 'common/insert/04/{basename}INS4.kfx.ass' # [12] If I could be a constellation
 
 syncs:
   '01':
