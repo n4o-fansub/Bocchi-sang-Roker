@@ -17,14 +17,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: [‽] Bocchi Sang Roker
-Audio File: D:\Work\Fansubbing\Encodes\Bocchi the Rock!\Premux\bocchinced2_bd_premux [778899A0].mkv
-Video File: D:\Work\Fansubbing\Encodes\Bocchi the Rock!\Premux\bocchinced2_bd_premux [778899A0].mkv
+Audio File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchinced2_bd_premux [778899A0].mkv
+Video File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchinced2_bd_premux [778899A0].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 90
-Active Line: 95
-Video Position: 670
+Video Zoom Percent: 0.500000
+Active Line: 8
+Video Position: 1610
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,15 +37,15 @@ Comment: 1,0:00:07.70,0:00:16.45,Lagu ED2,,0,0,0,flip,{\q2\fsp-1}I sleep, with b
 Comment: 0,0:00:17.26,0:00:27.11,Lagu ED2,,0,0,0,flip,{\q2\fsp-1}Though you can't beat that feeling of being loved, it's true
 Comment: 0,0:00:27.11,0:00:36.79,Lagu ED2,,0,0,0,flip,{\q2\fsp-1}When I awaken from cold dreams, my body feels numb
 Comment: 0,0:00:36.79,0:00:46.44,Lagu ED2,,0,0,0,flip,{\q2\fsp-1}You shine so brightly, it could make me a shadow
-Comment: 0,0:00:46.57,0:00:50.41,Lagu ED2alt,,0,0,0,,{\q2\fsp-1\c&HFFFFFF&}It's time to take that step
-Comment: 0,0:00:50.41,0:00:58.13,Lagu ED2alt,,0,0,0,,{\q2\fsp-1\c&HFFFFFF&}Though there's nothing certain about it
-Comment: 0,0:00:58.13,0:01:05.26,Lagu ED2alt,,0,0,0,,{\q2\fsp-1\c&HFFFFFF&}It carries my childish heart into tomorrow
-Comment: 0,0:01:06.92,0:01:09.63,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}It's time to blast out the thoughts rattling around in my brain
-Comment: 0,0:01:09.63,0:01:12.21,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}And live, to its fullest, a life
-Comment: 0,0:01:12.21,0:01:17.19,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}I've been taking advances on for so long
-Comment: 0,0:01:17.19,0:01:19.70,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}But I also love the days I spend lying around, doing nothing
-Comment: 0,0:01:19.70,0:01:22.32,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}So I know I'm going to go see you
-Comment: 0,0:01:22.32,0:01:28.12,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}Before it all disappears some day
+Dialogue: 0,0:00:46.57,0:00:50.41,Lagu ED2alt,,0,0,0,,{\c&HFFFFFF&\q2}It's time to take that step
+Dialogue: 0,0:00:50.41,0:00:58.13,Lagu ED2alt,,0,0,0,,{\c&HFFFFFF&\q2}Though there's nothing certain about it
+Dialogue: 0,0:00:58.13,0:01:06.05,Lagu ED2alt,,0,0,0,,{\c&HFFFFFF&\q2\alpha&H00&\t(6560,6643,\4c&HFFFFFF&)\t(6643,6977,\alpha&HFF&)}It carries my {\alpha&H00&\4c&HC4D96A&\t(6977,7060,\4c&HFFFFFF&)\t(7060,7435,\alpha&HFF&)}childish heart {\alpha&H00&\4c&HC4D96A&\t(7435,7519,\4c&HFFFFFF&)\t(7519,7894,\alpha&HFF&)}into tomorrow
+Dialogue: 0,0:01:06.92,0:01:09.63,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}It's time to blast out the thoughts rattling around in my brain
+Dialogue: 0,0:01:09.63,0:01:12.21,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}And live, to its fullest, a life
+Dialogue: 0,0:01:12.21,0:01:17.19,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}I've been taking advances on for so long
+Dialogue: 0,0:01:17.19,0:01:19.70,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}But I also love the days I spend lying around, doing nothing
+Dialogue: 0,0:01:19.70,0:01:22.32,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}So I know I'm going to go see you
+Dialogue: 0,0:01:22.32,0:01:28.12,Lagu ED2alt,,0,0,0,wavey,{\q2\fsp-1\c&HFFFFFF&}Before it all disappears some day
 Dialogue: 3,0:00:07.70,0:00:07.92,Lagu ED2,,0,0,0,flip,{\an5\pos(471.26,1000.00)\blur0.65\fsp-1\fry90\t(0,225,0.5,\fry0)}I
 Dialogue: 4,0:00:07.92,0:00:16.22,Lagu ED2,,0,0,0,flip,{\an5\pos(471.26,1000.00)\blur0.65\fsp-1}I
 Dialogue: 3,0:00:16.22,0:00:16.45,Lagu ED2,,0,0,0,flip,{\an5\pos(471.26,1000.00)\blur0.65\fsp-1\fry0\t(0,225,0.5,\fry-90)}I
