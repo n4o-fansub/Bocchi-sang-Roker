@@ -6,10 +6,11 @@ from ass_parser import AssFile, read_ass
 from pymkv import MKVFile, MKVTrack
 
 from subpy.chapters import Chapter, generate_chapter_file, get_chapters_from_ass
-from subpy.fonts import Line, find_fonts, validate_fonts
+from subpy.fonts import find_fonts, validate_fonts
 from subpy.merger import merge_ass_and_sync, parse_sync_timestamp
 from subpy.properties import SyncPoint, read_and_parse_properties
 from subpy.utils import incr_layer
+from subpy.writer import write_ass
 
 CURRENT_DIR = Path(__file__).parent
 COMMON_DIR = CURRENT_DIR / "common"
@@ -92,62 +93,46 @@ print("[+] Writing merged files!")
 final_folder = CURRENT_DIR / "final"
 final_folder.mkdir(parents=True, exist_ok=True)
 final_file = final_folder / f"{basename}{current_episode}.merged.ass"
-with final_file.open("w", encoding="utf-8") as fp:
-    # BOM header
-    fp.write("\ufeff")
-    fp.write(base_ass.script_info.to_ass_string().rstrip() + "\n\n")
-    fp.write(base_ass.styles.to_ass_string().rstrip() + "\n\n")
-    fp.write(base_ass.events.to_ass_string().rstrip() + "\n")
-    for section in base_ass.extra_sections:
-        fp.write("\n")
-        fp.write(section.to_ass_string().rstrip() + "\n")
+write_ass(base_ass, final_file)
 
 print("[?] Validating fonts...")
 ttfont, complete_fonts = find_fonts(list(fonts_folder))
 font_report = validate_fonts(base_ass, ttfont, True, False)
 
 
-def format_lines(lines: set[Line], limit=10):
+def format_lines(lines, limit=10):
     sorted_lines = sorted(lines)
     if len(sorted_lines) > limit:
-        sorted_lines = list(map(lambda x: str(x.pos), sorted_lines[:limit]))
+        sorted_lines = sorted_lines[:limit]
         sorted_lines.append("[...]")
-    else:
-        sorted_lines = list(map(lambda x: str(x.pos), sorted_lines))
-    return " ".join(sorted_lines)
+    return " ".join(map(str, sorted_lines))
 
 
 real_problems = False
-for problem in font_report.missing_font.values():
-    print(f"   - Could not find font {problem.state.font} on line(s): {format_lines(problem.line)}")
+for font, lines in sorted(font_report["missing_font"].items(), key=lambda x: x[0]):
+    print(f"  - Could not find font {font} on line(s): {format_lines(lines)}")
     real_problems = True
-for problem in font_report.faux_bold.values():
-    fweight = problem.font.weight if problem.font else "UNKNOWN"
-    fontname = problem.state.font if problem.font is None else str(problem.font.postscript_name)
+
+for (font, reqweight, realweight), lines in sorted(font_report["faux_bold"].items(), key=lambda x: x[0]):
     print(
-        f"   - Faux bold used for font {fontname} (requested weight {problem.state.weight}, "
-        f"got {fweight}) on line(s): {format_lines(problem.line)}"
+        f"  - Faux bold used for font {font} (requested weight {reqweight}, got {realweight}) "
+        f"on line(s): {format_lines(lines)}"
     )
-for problem in font_report.faux_italic.values():
-    fontname = problem.state.font if problem.font is None else str(problem.font.postscript_name)
-    print(f"   - Faux italic used for font {fontname} on line(s): {format_lines(problem.line)}")
-for problem in font_report.mismatch_bold.values():
-    fweight = problem.font.weight if problem.font else "UNKNOWN"
-    fontname = problem.state.font if problem.font is None else str(problem.font.postscript_name)
+
+for font, lines in sorted(font_report["faux_italic"].items(), key=lambda x: x[0]):
+    print(f"  - Faux italic used for font {font} on line(s): {format_lines(lines)}")
+
+for (font, reqweight, realweight), lines in sorted(font_report["mismatch_bold"].items(), key=lambda x: x[0]):
     print(
-        f"   - Requested weight {problem.state.weight} but got for font {fontname} "
-        f"got {fweight}) on line(s): {format_lines(problem.line)}"
+        f"  - Requested weight {reqweight} but got {realweight} for font {font} " f"on line(s): {format_lines(lines)}"
     )
-for problem in font_report.mismatch_italic.values():
-    fontname = problem.state.font if problem.font is None else str(problem.font.postscript_name)
-    print(f"   - Requested non-italic but got italic for font {fontname} on line(s): {format_lines(problem.line)}")
-for problem in font_report.missing_glyphs.values():
-    if (ft := problem.font) is None:
-        continue
-    for line in problem.line:
-        if ftmissing := ft.missing_glyphs(line.text):
-            missing = " ".join(f"{g}(U+{ord(g):04X})" for g in sorted(ftmissing))
-            print(f"   - Missing glyphs {missing} for font {ft.postscript_name} on line: {line.pos}")
+
+for font, lines in sorted(font_report["mismatch_italic"].items(), key=lambda x: x[0]):
+    print(f"  - Requested non-italic but got italic for font {font} on line(s): " + format_lines(lines))
+
+for font, lines in sorted(font_report["missing_glyphs_lines"].items(), key=lambda x: x[0]):
+    missing = " ".join(f"{g}(U+{ord(g):04X})" for g in sorted(font_report["missing_glyphs"][font]))
+    print(f"  - Font {font} is missing glyphs {missing} " f"on line(s): {format_lines(lines)}")
 
 if real_problems:
     sys.exit(1)

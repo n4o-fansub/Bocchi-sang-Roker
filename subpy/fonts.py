@@ -1,12 +1,13 @@
 # Adapted from https://github.com/TypesettingTools/Myaamori-Aegisub-Scripts/blob/master/scripts/fontvalidator/fontvalidator.py  # noqa
 
 from __future__ import annotations
+import collections
 
 import itertools
 import re
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
-from typing import Generator, Literal
+from typing import Generator
 
 from ass_parser import AssFile
 from fontTools.misc import encodingTools
@@ -225,83 +226,16 @@ class FontCollection:
             return font
 
 
-@dataclass
-class Line:
-    text: str
-    pos: int
-
-    def __hash__(self) -> int:
-        return hash(self.text + f"@L{self.pos}")
-
-    def __str__(self):
-        return self.text
-
-    def __lt__(self, other: Line | int):
-        if isinstance(other, int):
-            return self.pos < other
-        elif isinstance(other, Line):
-            return self.pos < other.pos
-        return False
-
-    def __gt__(self, other: Line | int):
-        if isinstance(other, int):
-            return self.pos > other
-        elif isinstance(other, Line):
-            return self.pos > other.pos
-        return False
-
-
-@dataclass
-class Report:
-    state: State
-    font: Font | None = field(default=None)
-    line: set[Line] = field(default_factory=set)
-
-
-@dataclass
-class ValidationResult:
-    missing_font: dict[str, Report] = field(default_factory=dict)
-    missing_glyphs: dict[str, Report] = field(default_factory=dict)
-    faux_bold: dict[str, Report] = field(default_factory=dict)
-    faux_italic: dict[str, Report] = field(default_factory=dict)
-    mismatch_bold: dict[str, Report] = field(default_factory=dict)
-    mismatch_italic: dict[str, Report] = field(default_factory=dict)
-
-    def _add_to_report(self, line_font: State, font: Font | None, line: Line, key: str):
-        vres_data: dict[str, Report] = getattr(self, key)
-        pft = vres_data.get(line_font.font, Report(line_font, font))
-        pft.line.add(line)
-        vres_data[line_font.font] = pft
-        setattr(self, key, vres_data)
-
-    def report(
-        self,
-        line_font: State,
-        line: Line,
-        type: Literal["font", "glyphs", "bold", "italic", "mbold", "mitalic"],
-        font: Font | None = None,
-    ):
-        match type.lower():
-            case "font":
-                self._add_to_report(line_font, font, line, "missing_font")
-            case "glyphs":
-                self._add_to_report(line_font, font, line, "missing_glyphs")
-            case "bold":
-                self._add_to_report(line_font, font, line, "faux_bold")
-            case "italic":
-                self._add_to_report(line_font, font, line, "faux_italic")
-            case "mbold":
-                self._add_to_report(line_font, font, line, "mismatch_bold")
-            case "mitalic":
-                self._add_to_report(line_font, font, line, "mismatch_italic")
-            case _:
-                return
-
-
-def validate_fonts(
-    doc: AssFile, fonts: FontCollection, ignore_drawings: bool = True, warn_on_exact: bool = False
-) -> ValidationResult:
-    report = ValidationResult()
+def validate_fonts(doc: AssFile, fonts: FontCollection, ignore_drawings: bool = True, warn_on_exact: bool = False):
+    report = {
+        "missing_font": collections.defaultdict(set),
+        "missing_glyphs": collections.defaultdict(set),
+        "missing_glyphs_lines": collections.defaultdict(set),
+        "faux_bold": collections.defaultdict(set),
+        "faux_italic": collections.defaultdict(set),
+        "mismatch_bold": collections.defaultdict(set),
+        "mismatch_italic": collections.defaultdict(set),
+    }
 
     styles = {
         style.name: State(strip_fontname(style.font_name), style.italic, 700 if style.bold else 400, False)
@@ -312,6 +246,7 @@ def validate_fonts(
         if line.is_comment:
             continue
         nline = i + 1
+        drawing_force = "\\p1" in line.text
 
         try:
             style = styles[line.style_name]
@@ -322,26 +257,30 @@ def validate_fonts(
         for state, text in parse_line(line.text, style, styles):
             font, exact_match = fonts.match(state)
 
-            if ignore_drawings and state.drawing:
+            if ignore_drawings and (state.drawing or drawing_force):
                 continue
 
             if font is None:
-                report.report(state, Line(text, nline), "font")
+                report["missing_font"][state.font].add(nline)
                 continue
 
             if state.weight >= font.weight + 150:
-                report.report(state, Line(text, nline), "bold", font)
+                report["faux_bold"][state.font, state.weight, font.weight].add(nline)
+
             if state.weight <= font.weight - 150 and (not exact_match or warn_on_exact):
-                report.report(state, Line(text, nline), "mbold", font)
+                report["mismatch_bold"][state.font, state.weight, font.weight].add(nline)
 
             if state.italic and not font.italic:
-                report.report(state, Line(text, nline), "italic", font)
+                report["faux_italic"][state.font].add(nline)
+
             if not state.italic and font.italic and (not exact_match or warn_on_exact):
-                report.report(state, Line(text, nline), "mitalic", font)
+                report["mismatch_italic"][state.font].add(nline)
 
             if not state.drawing:
-                if len(font.missing_glyphs(text) or []) > 0:
-                    report.report(state, Line(text, nline), "glyphs", font)
+                missing = font.missing_glyphs(text) or []
+                report["missing_glyphs"][state.font].update(missing)
+                if len(missing) > 0:
+                    report["missing_glyphs_lines"][state.font].add(nline)
 
     return report
 
