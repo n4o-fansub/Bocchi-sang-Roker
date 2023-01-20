@@ -10,6 +10,8 @@
 *.ffindex
 *.lwi
 *.wav
+*.mp3
+*.pkf
 
 ## Python related
 __pycache__
