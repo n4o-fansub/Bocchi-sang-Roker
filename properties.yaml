@@ -18,7 +18,7 @@ subs:
     insert1b: 'common/insert/{basename}INS1b.ass' # [08] Guitar, Loneliness and Blue Planet (cringe version)
     insert2: 'common/insert/{basename}INS2.ass' # [08] That band
     insert3: 'common/insert/{basename}INS3.ass' # [12] Never forget
-    insert4: 'common/insert/{basename}INS4.ass' # [12] If I could be a constellation
+    insert4: 'common/insert/{basename}INS4.kfx.ass' # [12] If I could be a constellation
 
 syncs:
   '01':
