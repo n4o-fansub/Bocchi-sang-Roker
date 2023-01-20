@@ -9,6 +9,7 @@
 *.mks
 *.ffindex
 *.lwi
+*.wav
 
 ## Python related
 __pycache__
