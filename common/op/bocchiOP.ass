@@ -13,9 +13,9 @@ Keyframes File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premu
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 429
-Active Line: 565
-Video Position: 5498
+Scroll Position: 375
+Active Line: 511
+Video Position: 5234
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -271,7 +271,7 @@ Dialogue: 0,0:03:07.04,0:03:09.46,Lagu OP,,0,0,0,,{\blur0.7\move(152.984,112,178
 Dialogue: 1,0:03:07.04,0:03:09.46,Lagu OP,,0,0,0,,{\bord0\blur0.7\move(152.984,112,178,112)\c&H872A90&\shad4\an7\4a&HFF&}I liked dark, cramped spaces,
 Dialogue: 0,0:03:09.46,0:03:11.84,Lagu OP,,0,0,0,,{\move(1757.547,950,1722.547,950)\blur0.7\c&H00FAF7&\4c&H1A642C&\4a&H00&\an3\bord0}so I'd bury my face deep in my hood
 Dialogue: 0,0:03:11.84,0:03:14.22,Lagu OP,,0,0,0,,{\c&HAF1A0B&\4c&HFFFFFF&\4a&H00&\bord0\blur0.7\an1\move(174,970,200,970)}My eyes resented the heartless world,
-Dialogue: 0,0:03:14.22,0:03:16.38,Lagu OP,,0,0,0,,{\c&H2935F5&\4c&HFFFFFF&\4a&H00&\bord0\blur0.7\an9\move(1767.739,112,1743.739,112)}but yearned for love
+Dialogue: 0,0:03:14.22,0:03:16.38,Lagu OP,,0,0,0,,{\c&H2F3EEA&\4c&HFFFFFF&\4a&H00&\bord0\blur0.7\an9\move(1767.739,112,1743.739,112)}but yearned for love
 Dialogue: 0,0:03:16.38,0:03:16.55,Lagu OP,,0,0,0,,{\blur0.7\4c&HFFFFFF&\4a&H00&\bord2\pos(1743.739,112)\an9\c&HFFFFFF&}but yearned for love
 Dialogue: 1,0:03:16.38,0:03:16.55,Lagu OP,,0,0,0,,{\blur0.7\c&H252ED1&\4c&HFFFFFF&\4a&HFF&\bord0\pos(1743.739,112)\shad4\an9}but yearned for love
 Dialogue: 0,0:03:16.55,0:03:16.72,Lagu OP,,0,0,0,,{\blur0.7\pos(1743.739,112)\4c&HFFFFFF&\4a&H00&\bord2\an9\c&HFFFFFF&}but yearned for love
@@ -535,7 +535,7 @@ Dialogue: 0,0:03:34.32,0:03:37.36,Lagu OP,,0,0,0,,{\an5\3c&HB37D10&\c&HB37D10&\b
 Dialogue: 1,0:03:34.32,0:03:37.36,Lagu OP,,0,0,0,,{\an5\c&HFED115&\blur0.7\bord0\shad0\pos(960,65)\t(2897,3040,0.5,\frx90)\4a&HFF&}Stru{\c&H1A10FF&}m th{\c&HFED115&}rough {\c&H1A10FF&}the {\c&HFED115&}light's distorti{\c&H1A10FF&}on
 Dialogue: 0,0:03:37.36,0:03:38.28,Lagu OP,,0,0,0,,{\an5\3c&H050209&\c&H050209&\blur5\bord3\shad0\pos(960,65)\frx270\t(0,149,0.5,\frx360)}Strum through the light's distortion
 Dialogue: 1,0:03:37.36,0:03:38.28,Lagu OP,,0,0,0,,{\an5\c&H835ABD&\blur0.7\bord0\shad0\pos(960,65)\frx270\t(0,149,0.5,\frx360)\4a&HFF&}Strum through the light's distortion
-Dialogue: 0,0:03:38.28,0:03:39.41,Lagu OP,,0,0,0,,{\blur0.7\an8\3c&HA792D7&\c&HFFFFFF&\pos(960,40)\4c&HA792D7&}Strum through the light's distortion
+Dialogue: 0,0:03:38.28,0:03:39.41,Lagu OP,,0,0,0,,{\blur0.7\an8\3c&H9473B7&\c&HFFFFFF&\bord3\shad3\pos(960,40)\4c&HA792D7&}Strum through the light's distortion
 Dialogue: 1,0:03:38.28,0:03:39.41,Lagu OP,,0,0,0,,{\bord0\blur0.7\an8\c&HFFFFFF&\pos(960,40)\4c&HA792D7&\shad4\4a&HFF&}Strum through the light's distortion
 Dialogue: 0,0:03:39.41,0:03:39.82,Lagu OP,,0,0,0,,{\an8\bord0\c&HCAC8E6&\4c&H343232&\blur0.7}I want to make thunder roar
 Dialogue: 0,0:03:39.82,0:03:39.91,Lagu OP,,0,0,0,,{\an8\bord0\c&HCAC8E6&\4c&H343232&\iclip(m 1159 99 l 1226 38 1316 48 1199 146)\blur0.7}I want to make thunder roar
