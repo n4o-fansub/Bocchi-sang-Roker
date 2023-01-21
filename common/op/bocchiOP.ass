@@ -13,9 +13,9 @@ Keyframes File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premu
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 375
-Active Line: 511
-Video Position: 5234
+Scroll Position: 627
+Active Line: 762
+Video Position: 6308
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -787,8 +787,6 @@ Dialogue: 0,0:04:09.81,0:04:10.94,Lagu OP,,0,0,0,,{\blur0.7\an8\pos(960,40)\3c&H
 Dialogue: 1,0:04:09.81,0:04:10.94,Lagu OP,,0,0,0,,{\bord0\blur0.7\an8\pos(960,40)\c&HFFFFFF&\4c&H000000&\shad4\4a&HFF&}What can I do?
 Dialogue: 0,0:04:10.94,0:04:14.07,Lagu OP,,0,0,0,,{=85}{\clip()\t(19,3105,\clip())\fscx100\t(19,3105,\fscx94.45)\fscy100\t(19,3105,\fscy94.45)\bord2\t(19,3105,\bord1.89)\shad4\t(19,3105,\shad3.78)\alpha&H00&\blur0.7\t(19,3105,\blur0.66)\an8\move(960,40,960.06,66.69,19,3105)\3c&H000000&\c&H000000&\4c&H000000&}My savage nature is beyond wild
 Dialogue: 1,0:04:10.94,0:04:14.07,Lagu OP,,0,0,0,,{=84}{\clip()\t(19,3105,\clip())\fscx100\t(19,3105,\fscx94.45)\fscy100\t(19,3105,\fscy94.45)\alpha&H00&\bord0\t(19,3105,\bord0)\blur0.7\t(19,3105,\blur0.66)\an8\move(960,40,960.06,66.69,19,3105)\c&HFFFFFF&\4c&H000000&\shad4\t(19,3105,\shad3.78)\4a&HFF&}My savage nature is beyond wild
-Dialogue: 0,0:04:23.08,0:04:23.99,Lagu OP,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0}m -390 -178 l 396 -178 396 178 -390 178
-Dialogue: 1,0:04:23.08,0:04:23.99,Lagu OP,,0,0,0,,{=84}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang!?\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"cf1412bd-9966-441d-9a92-0e3c9b46ba5d"#2C"originalText"#3A"{\\c&H6A6320&\\4c&H0D40D9&\\an8\\bord0\\shad0\\blur0.7}I pretended to be afraid of the storm"}
