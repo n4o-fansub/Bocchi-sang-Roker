@@ -4,8 +4,8 @@ Original Translation: Suaminya Kita Ikuyo
 Original Editing: Suaminya Kita Ikuyo dan Suaminya Nijika-chan
 Original Timing: Suaminya Kita Ikuyo
 Synch Point: bocchi02.dialogue
-Script Updated By: SubPy/v1.1.0 Script Merger
-Update Details: Merged 4 scripts with SubPy/v1.1.0 Script Merger
+Script Updated By: SubPy/v1.1.1 Script Merger
+Update Details: Merged 4 scripts with SubPy/v1.1.1 Script Merger
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
@@ -23,10 +23,73 @@ Style: Lagu ED,WIX-CookHand Std R,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,chapter,0,0,0,chapter,{Prolog}
+Comment: 0,0:00:34.01,0:00:34.06,riasan ampas,chapter,0,0,0,chapter,{Lagu Pembuka}
+Comment: 0,0:02:03.98,0:02:04.03,riasan ampas,chapter,0,0,0,chapter,{Cerita}
+Comment: 0,0:22:05.01,0:22:05.05,riasan ampas,chapter,0,0,0,chapter,{Lagu Penutup}
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,HIJAU: Obrolan Kuota
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,BIRU: Obrolan Sekolah
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,MERAH: Obrolan mengenai Konser
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,KUNING: Obrolan Musik Favorit
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,UNGU: Terjun Lenting
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,PINK: Obrolan yang Membosankan
+Comment: 0,0:02:13.03,0:02:13.15,riasan ampas,luine,0,0,0,,{\an7\p1\blur5\fscy120\fscx105\c&HE6BF97&\frz359.1\pos(788.98,187.88)\iclip(m 705.71 219.55 b 706.19 207.52 703.32 183.74 699.97 171.43 l 685.66 124.09 566.85 216.25 b 672.38 242.49 692.65 259.94 702.78 268.66)}m -119.88 -17.65 l 94.86 -53.1 109.93 -17.35 109.63 10.42 -101.27 50 -114.56 33.75 -121.06 -1.11
+Comment: 0,0:02:13.03,0:02:13.15,riasan ampas,luine,0,0,0,,{\an7\fs34\fax0.1\c&HFDFDFB&\blur0.8\fscx80\fscy105\q2\p1\frz357.5\pos(651.45,206.17)\iclip(m 705.71 219.55 b 706.19 207.52 703.32 183.74 699.97 171.43 l 685.66 124.09 566.85 216.25 b 672.38 242.49 692.65 259.94 702.78 268.66)}m 50.16 -37.7 l 185.69 -60.52 b 210.97 -60.51 211.45 -50.02 215.53 -36.42 218.52 -13.42 213.82 -7.67 197.08 -2.46 l 60.58 19.93 b 41.17 20.3 33.61 18.56 28.82 -1.71 22.71 -29.62 36.68 -35.4 50.08 -37.78
+Comment: 0,0:02:13.03,0:02:13.15,riasan ampas,luine,0,0,0,,{\an5\fs34\q2\fnEbrima\c&H4F4C50&\fax0.02\blur0.55\frx0\fry358\frz8.128\pos(748.16,188.85)\iclip(m 705.71 219.55 b 706.75 207.8 703.6 183.74 699.97 171.43 l 642.83 174.71 662.24 233.77)}Halo! {\fnNoto Emoji\b1\c&H73BCD5&}😊
+Comment: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx28\fscy21\c&H3A393A&\1a&H00&\pos(1029.03,374.36)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx28\fscy21\c&H171717&\1a&H00&\pos(1029.03,374.36)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.64\fscx79.09\fscy58.69\c&H3A393A&\1a&H00&\pos(1029.69,370.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.64\fscx79.09\fscy58.69\c&H171717&\1a&H00&\pos(1029.69,370.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\p1\fscx127.17\fscy94.38\c&H3A393A&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\p1\fscx127.17\fscy94.38\c&H171717&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.16\fscx144.08\fscy106.94\c&H3A393A&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.16\fscx144.08\fscy106.94\c&H171717&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.11\fscx137.56\fscy102.1\c&H3A393A&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.11\fscx137.56\fscy102.1\c&H171717&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\fscx128.07\fscy95.05\c&H3A393A&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\fscx128.07\fscy95.05\c&H171717&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.62,0:07:52.95,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:51.62,0:07:52.95,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1043.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1043.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\p1\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1122.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\p1\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1122.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1201.69,366.9)\iclip(m 1372.93 341.18 l 1373.56 395.77 1425.35 393.91 1425.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1201.69,366.9)\iclip(m 1372.93 341.18 l 1373.56 395.77 1425.35 393.91 1425.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1281.69,366.9)\iclip(m 1452.93 341.18 l 1453.56 395.77 1505.35 393.91 1505.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1281.69,366.9)\iclip(m 1452.93 341.18 l 1453.56 395.77 1505.35 393.91 1505.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\an7\pos(1360.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\an7\pos(1360.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\an7\pos(1439.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\an7\pos(1439.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\an7\pos(1518.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\an7\pos(1518.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\an7\pos(1597.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\an7\pos(1597.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\an7\pos(1677.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\an7\pos(1677.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\an7\pos(1757.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\an7\pos(1757.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\an7\pos(1835.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\an7\pos(1835.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\an7\pos(1914.99,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\an7\pos(1914.99,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\an7\pos(1994.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\an7\pos(1994.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.49,0:07:53.54,riasan ampas,10tiket,0,0,0,,{\an7\pos(2073.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:07:53.49,0:07:53.54,riasan ampas,10tiket,0,0,0,,{\an7\pos(2073.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
+Comment: 0,0:21:58.80,0:22:01.55,riasan ampas,karaOKkitan,0,0,0,abaikan,{Lirik: Aki Hamaji}{\N}{Lagu: Instant}{}{}{ignore}
+Comment: 0,0:23:35.02,0:23:41.82,riasan ampas,hardsubbed,0,0,0,abaikan,{Bocchi sang Roker! - 03 - Aku akan Segera ke Sana}{}{}{}{ignore}
+Comment: 0,0:01:06.96,0:01:09.04,Lagu OP,,0,0,0,,{\blur0.7\4c&H0D40D9&\an8\c&HFFFFFF&}I pretended to be afraid of the storm
+Comment: 0,0:01:13.05,0:01:13.26,Lagu OP,,0,0,0,,{\an8\c&H4A49AB&\pos(960.000,35)\fscx18.93\fscy18.93\shad0.76\bord0.38}w{*\c&H504AA1&}h{*\c&H574C97&}i{*\c&H5E4E8D&}l{*\c&H655083&}e {*\c&H72546F&}w{*\c&H795665&}a{*\c&H80585B&}i{*\c&H875A51&}t{\c&H8E5C47&}i{*\c&H8E5F52&}n{*\c&H8F625E&}g {*\c&H916875&}f{*\c&H926B80&}o{*\c&H936F8C&}r {*\c&H9575A3&}t{*\c&H9678AF&}h{*\c&H977BBA&}e {\c&H9982D2&}s{*\c&H9286D1&}k{*\c&H8C8AD1&}y {*\c&H7F93D1&}t{*\c&H7898D1&}o {*\c&H6BA1D0&}b{*\c&H65A5D0&}u{*\c&H5EAAD0&}r{*\c&H58AED0&}s{\c&H52B3D0&}t{too much maybe?}
+Comment: 0,0:01:13.71,0:01:13.80,Lagu OP,,0,0,0,,{\an8\3c&HB37D10&\c&HB37D10&\blur5\bord3\shad0\pos(960,40)\clip(m 1332.44 19.56 b 1317.33 52.89 1292.44 117.78 1282.67 152.89 l 1625.78 152 1628.44 23.11)}Stru{\3c&H2B1EB2&\c&H2B1EB2&}m th{\3c&HB37D10&\c&HB37D10&}rough {\3c&H2B1EB2&\c&H2B1EB2&}the {\3c&HB37D10&\c&HB37D10&}light's distorti{\3c&H2B1EB2&\c&H2B1EB2&}on
+Comment: 1,0:01:13.71,0:01:13.80,Lagu OP,,0,0,0,,{\an8\c&HFED115&\blur0.7\bord0\shad0\pos(960,40)\clip(m 1332.44 19.56 b 1317.33 52.89 1292.44 117.78 1282.67 152.89 l 1625.78 152 1628.44 23.11)\4a&HFF&}Stru{\c&H1A10FF&}m th{\c&HFED115&}rough {\c&H1A10FF&}the {\c&HFED115&}light's distorti{\c&H1A10FF&}on
+Comment: 0,0:22:36.29,0:22:38.84,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HF2C07C&\bord15\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
+Comment: 0,0:23:35.02,0:23:35.06,riasan ampas,chapter,0,0,0,chapter,{Selanjutnya!}
 Dialogue: 50,0:00:27.36,0:00:28.70,Main,Hitori,0,0,0,,20 menit ....
-Dialogue: 50,0:00:28.70,0:00:30.01,Main,,0,0,0,,20 menit lagi ....
+Dialogue: 50,0:00:28.70,0:00:30.01,Main,Hitori,0,0,0,,20 menit lagi ....
 Dialogue: 50,0:00:30.24,0:00:31.59,Main,Hitori,0,0,0,,20 menit ....
-Dialogue: 50,0:00:31.59,0:00:32.94,Main,,0,0,0,,20 menit lagi ....
+Dialogue: 50,0:00:31.59,0:00:32.94,Main,Hitori,0,0,0,,20 menit lagi ....
 Dialogue: 50,0:00:32.94,0:00:34.01,Main,Hitori,0,0,0,,20 menit lagi.
 Dialogue: 50,0:02:11.01,0:02:12.82,Main,Hitori,0,0,0,,{\i1}Kemarin, ada pesan dari Nijika.
 Dialogue: 50,0:02:13.22,0:02:16.60,Main,Nijika,0,0,0,,{\i1}Entar kita ngobrolin buat\Nband ke depannya, yuk!
@@ -65,17 +128,17 @@ Dialogue: 50,0:03:37.85,0:03:39.32,Main,Nijika,0,0,0,,Obrolan sekolah!
 Dialogue: 50,0:03:39.60,0:03:41.38,Main,Nijika,0,0,0,,Kalau disingkat jadi Olan-kolah!
 Dialogue: 50,0:03:41.38,0:03:42.32,Main,Ryo,0,0,0,,Ya, silakan!
 Dialogue: 50,0:03:44.16,0:03:45.29,Main,Hitori,0,0,0,,Eng ....
-Dialogue: 50,0:03:45.29,0:03:49.00,Main,,0,0,0,,Ah ... omong-omong,\Nkalian satu sekolah, kan?
+Dialogue: 50,0:03:45.29,0:03:49.00,Main,Hitori,0,0,0,,Ah ... omong-omong,\Nkalian satu sekolah, kan?
 Dialogue: 50,0:03:49.00,0:03:50.80,Main,Nijika,0,0,0,,Yap! SMA Shima!
 Dialogue: 50,0:03:50.80,0:03:52.96,Main,Ryo,0,0,0,,Kami masuk ke sana\Nkarena dekat dari rumah.
 Dialogue: 50,0:03:52.96,0:03:55.59,Main,Hitori,0,0,0,,Jadi kalian tinggal\Ndi Shimo-Kitazawa, ya?
 Dialogue: 50,0:03:55.59,0:03:58.25,Main,Nijika,0,0,0,,Lah? Bocchi dari SMA Shuka, kan?
 Dialogue: 50,0:03:58.25,0:04:00.21,Main,Nijika,0,0,0,,Emang rumahmu enggak\Ndi sekitaran sini?
 Dialogue: 50,0:04:00.21,0:04:01.22,Main,Hitori,0,0,0,,Ah, enggak.
-Dialogue: 50,0:04:01.22,0:04:03.91,Main,,0,0,0,,Aku di luar prefektur,\Ndua jam bolak-balik.
+Dialogue: 50,0:04:01.22,0:04:03.91,Main,Hitori,0,0,0,,Aku di luar prefektur,\Ndua jam bolak-balik.
 Dialogue: 50,0:04:03.91,0:04:04.68,Main,Ryo,0,0,0,,Dua jam?!
 Dialogue: 50,0:04:04.68,0:04:05.43,Main,Nijika,0,0,0,,'Napa?!
-Dialogue: 50,0:04:05.84,0:04:09.84,Main,Hitori,0,0,0,,{\an8}Aku ingin masuk SMA di mana\Ntidak ada orang yang tahu masa laluku.
+Dialogue: 50,0:04:05.84,0:04:09.84,Main,Hitori,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Aku ingin masuk SMA di mana\Ntidak ada orang yang tahu masa laluku.
 Dialogue: 50,0:04:09.84,0:04:11.60,Main,Nijika,0,0,0,,{\an8}Sip! Olah-kolahnya udahan dulu!
 Dialogue: 50,0:04:11.60,0:04:13.49,Main,Hitori,0,0,0,,Ma-Maaf ....
 Dialogue: 50,0:04:13.49,0:04:16.55,Main,Hitori,0,0,0,,Aku sering menyendiri saat di sekolah,
@@ -93,7 +156,12 @@ Dialogue: 50,0:04:44.72,0:04:47.43,Main,Hitori,0,0,0,,{\i1}Kecemasan sosial sepe
 Dialogue: 50,0:04:47.86,0:04:55.15,Main,Hitori,0,0,0,,{\i1}Jarak antara sendiri dan penyendiri\Nterlalu jauh untuk ditempuh!
 Dialogue: 50,0:04:55.47,0:04:58.03,Main,Hitori,0,0,0,,{\i1}Aku nyaris saja masuk perangkap.
 Dialogue: 50,0:04:58.03,0:05:00.07,Main,Nijika,0,0,0,,Bocchi, coba kita nikmati\Nobrolannya dulu, yuk!
-Dialogue: 50,0:05:02.94,0:05:05.57,Main,Nijika,0,0,0,,Selanjutnya, obrolan musik favorit!
+Dialogue: 50,0:05:02.74,0:05:02.78,Main,Nijika,0,0,0,,{\clip(m 1320.5 950.19 l 1312.81 984.03 1320.5 989.56 1327.57 997.56 1328.5 1004.33 1611.79 1044.32 1595.49 908.05 1398.63 893.9)}Selanjutnya, obrolan musik favorit!
+Dialogue: 50,0:05:02.78,0:05:02.82,Main,Nijika,0,0,0,,{\clip(m 1111.34 942.5 l 1102.72 984.64 b 1115.41 994.48 1122.33 997.56 1114.1 1020.32 l 1274.67 1020.63 1453.38 1019.71 1450.61 916.05 1434.31 889.29 1162.09 917.89)}Selanjutnya, obrolan musik favorit!
+Dialogue: 50,0:05:02.82,0:05:02.87,Main,Nijika,0,0,0,,{\clip(m 925.55 948.35 b 922.86 961.5 917.78 986.57 913.55 998.48 l 913.86 1010.48 1129.18 1076.31 1238.99 1039.7 1502.6 1032.63 1569.34 956.96 1578.57 913.28 1148.86 889.9 957.85 896.67)}Selanjutnya, obrolan musik favorit!
+Dialogue: 50,0:05:02.87,0:05:02.91,Main,Nijika,0,0,0,,{\iclip(m 714.54 949.88 l 709.62 973.26 702.24 998.79 703.16 1005.56 -0.92 1054.78 63.67 933.89 561.05 883.13 760.99 892.36)}Selanjutnya, obrolan musik favorit!
+Dialogue: 50,0:05:02.91,0:05:02.95,Main,Nijika,0,0,0,,{\iclip(m 490.92 998.18 l 499.53 968.95 505.99 936.35 434.63 932.66 437.71 1015.1)}Selanjutnya, obrolan musik favorit!
+Dialogue: 50,0:05:02.95,0:05:05.57,Main,Nijika,0,0,0,,Selanjutnya, obrolan musik favorit!
 Dialogue: 50,0:05:05.57,0:05:07.03,Main,Nijika,0,0,0,,Kalau disingkat ....
 Dialogue: 50,0:05:07.03,0:05:08.24,Main,Ryo,0,0,0,,Omufavo!
 Dialogue: 50,0:05:08.24,0:05:09.66,Main,Hitori,0,0,0,,O-Omufavo ....
@@ -104,7 +172,7 @@ Dialogue: 50,0:05:18.26,0:05:19.71,Overlap,Nijika,0,0,0,,{\an8}Jangan ngibul, he
 Dialogue: 50,0:05:19.71,0:05:20.80,Main,Ryo,0,0,0,,Beneran, tahu!
 Dialogue: 50,0:05:20.80,0:05:21.84,Main,Nijika,0,0,0,,Kalau Bocchi?
 Dialogue: 50,0:05:21.84,0:05:23.96,Main,Hitori,0,0,0,,Ah, anu ....
-Dialogue: 50,0:05:23.96,0:05:28.94,Main,Hitori,0,0,0,,Aku suka semua lagu yang tidak\Nmemicu {\i1}kompleks masa muda{\i0}.
+Dialogue: 50,0:05:23.96,0:05:28.94,Main,Hitori,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Aku suka semua lagu yang tidak\Nmemicu {\i1}kompleks masa muda{\i0}.
 Dialogue: 50,0:05:28.94,0:05:31.54,Main,Nijika,0,0,0,,Hm? {\i1}Kompleks masa muda{\i0}?
 Dialogue: 50,0:05:31.54,0:05:33.10,Main,Guitar Man,0,0,0,,Aku hadir!
 Dialogue: 50,0:05:33.35,0:05:36.48,Main,Guitar Man,0,0,0,,Lagu yang memicu {\i1}kompleks\Nmasa muda{\i0} Hitori yaitu ...
@@ -113,7 +181,7 @@ Dialogue: 50,0:05:38.96,0:05:44.02,Main,Guitar Man,0,0,0,,musim panas, laut biru
 Dialogue: 50,0:05:44.02,0:05:48.99,Main,Guitar Man,0,0,0,,Pokoknya, segala hal yang jauh di luar\Npengalaman hidup sekolahnya Hitori.
 Dialogue: 50,0:05:48.99,0:05:51.97,Main,Hitori,0,0,0,,{\i1}Liriknya membuat hatiku makin suram.
 Dialogue: 50,0:05:49.80,0:05:51.30,Overlap,Nijika,0,0,0,,{\an8}Oi ....
-Dialogue: 50,0:05:53.21,0:05:54.79,Overlap,,0,0,0,,{\an8}Bocchi?
+Dialogue: 50,0:05:53.21,0:05:54.79,Overlap,Nijika,0,0,0,,{\an8}Bocchi?
 Dialogue: 50,0:05:51.97,0:05:52.68,Main,Guitar Man,0,0,0,,Sebaliknya,
 Dialogue: 50,0:05:52.68,0:05:56.95,Main,Guitar Man,0,0,0,,kamu suka band yang lagunya tentang\Nkesuraman semasa sekolah, kan?
 Dialogue: 50,0:05:55.53,0:05:56.95,Overlap,Nijika,0,0,0,,{\an8}Oi!
@@ -121,11 +189,14 @@ Dialogue: 50,0:05:56.95,0:05:58.32,Main,Hitori,0,0,0,,Betul banget!
 Dialogue: 50,0:05:58.32,0:06:03.36,Main,Hitori,0,0,0,,Tapi, saat aku tahu kalau band yang\Nkusuka sangat populer di SMA ...
 Dialogue: 50,0:06:03.36,0:06:07.47,Main,Hitori,0,0,0,,... sesaat aku mendadak merasa\Ntidak mengenali mereka!
 Dialogue: 50,0:06:06.13,0:06:08.70,Overlap,Nijika,0,0,0,,{\an8}Oi, Bocchi ....
-Dialogue: 50,0:06:08.70,0:06:11.02,Overlap,,0,0,0,,{\an8}Jangan asyik di duniamu sendiri, dong!
+Dialogue: 50,0:06:08.70,0:06:11.02,Overlap,Nijika,0,0,0,,{\an8}Jangan asyik di duniamu sendiri, dong!
 Dialogue: 50,0:06:10.45,0:06:13.83,Main,Hitori,0,0,0,,Rok sebagai musik begitu bergema\Ndi hati para kaum minoritas.
 Dialogue: 50,0:06:13.83,0:06:16.08,Main,Hitori,0,0,0,,Rok tak berarti bila dinyanyikan\Noleh para pemenang kehidupan.
 Dialogue: 50,0:06:16.08,0:06:18.18,Main,Nijika,0,0,0,,Kita kuatkan tali silaturahmi, dong!
-Dialogue: 50,0:06:18.18,0:06:19.76,Main,Ryo,0,0,0,,Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 50,0:06:18.18,0:06:19.90,Main,Ryo,0,0,0,,Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 50,0:06:19.90,0:06:19.94,Main,Ryo,0,0,0,,{\clip(m 1221.02 940.29 l 1223.21 967.45 1231.53 999.85 1230.22 1007.3 1228.03 1033.58 592.99 1039.71 621.02 910.07 747.15 862.77 1260.88 851.39)}Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 50,0:06:19.94,0:06:19.98,Main,Ryo,0,0,0,,{\clip(m 1020 999.42 l 1014.74 981.9 1011.68 956.5 1008.61 928.03 1008.18 918.39 1039.27 910.07 1033.58 882.92 1034.01 855.77 937.23 806.72 594.74 836.06 575.48 1011.24 824.23 1052.85 1014.74 1052.41)}Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 50,0:06:19.98,0:06:20.03,Main,Ryo,0,0,0,,{\clip(m 774.74 998.1 l 772.55 988.47 765.99 981.46 758.1 957.37 757.23 952.99 751.97 938.1 750.66 932.85 753.28 928.47 b 765.77 917.96 796.42 907.88 813.72 905.69 808.34 892.82 806.25 867.92 805.84 855.33 l 672.81 818.96 532.76 1003.36 669.97 1049.72)}Talinya ada,\Nsilaturahminya enggak.
 Dialogue: 50,0:06:20.64,0:06:21.73,Main,Nijika,0,0,0,,Eng ....
 Dialogue: 50,0:06:22.22,0:06:24.24,Main,Nijika,0,0,0,,Konser perdana kita\Nhanya instrumental saja.
 Dialogue: 50,0:06:24.24,0:06:26.20,Main,Nijika,0,0,0,,Tapi, konser berikutnya\Naku ingin ada vokalis.
@@ -164,7 +235,7 @@ Dialogue: 50,0:07:46.43,0:07:49.44,Main,Nijika,0,0,0,,Di mana rumah konser membe
 Dialogue: 50,0:07:49.44,0:07:51.65,Main,Nijika,0,0,0,,supaya banyak orang\Nyang datang menonton.
 Dialogue: 50,0:07:51.65,0:07:52.85,Main,Club-kun,0,0,0,,Kuotanya 10 tiket!
 Dialogue: 50,0:07:59.31,0:08:00.71,Main,Nijika,0,0,0,,Setiap tiket yang terjual lebih\Ndari kuota yang disediakan,
-Dialogue: 50,0:08:00.71,0:08:03.59,Main,,0,0,0,,hasilnya dibagi dua dengan band tersebut.
+Dialogue: 50,0:08:00.71,0:08:03.59,Main,Nijika,0,0,0,,hasilnya dibagi dua dengan band tersebut.
 Dialogue: 50,0:08:08.40,0:08:10.56,Main,Nijika,0,0,0,,Tapi kalau band-nya\Ngagal memenuhi kuota,
 Dialogue: 50,0:08:10.56,0:08:13.76,Main,Nijika,0,0,0,,mereka harus membayar\Nsisanya dengan uang sendiri.
 Dialogue: 50,0:08:13.76,0:08:16.18,Main,Ryo,0,0,0,,Jadi, sebelum kamu terkenal,\Nkamu harus menguras uang.
@@ -198,21 +269,21 @@ Dialogue: 50,0:09:18.67,0:09:19.96,Main,Nijika,0,0,0,,Jangan diambil!
 Dialogue: 50,0:09:19.96,0:09:22.54,Main,Nijika,0,0,0,,Kami tidak mungkin\Nmemakai uang sepenting ini!
 Dialogue: 50,0:09:24.51,0:09:25.20,Main,Hitori,0,0,0,,Tapi ....
 Dialogue: 50,0:09:25.20,0:09:26.72,Main,Hitori,0,0,0,,{\i1}Aku gak mau bekerja!
-Dialogue: 50,0:09:26.72,0:09:28.04,Main,Hitori,0,0,0,,{\i1}Soalnya ....
+Dialogue: 50,0:09:26.72,0:09:28.04,Main,Hitori,0,0,0,,{\fad(0,640)\i1}Soalnya ....
 Dialogue: 50,0:09:29.86,0:09:31.09,Main,Hitori,0,0,0,,Se-Selamat datang.
-Dialogue: 50,0:09:31.09,0:09:33.55,Main,,0,0,0,,Pe-Perlu saya hangatkan makanannya?
+Dialogue: 50,0:09:31.09,0:09:33.55,Main,Hitori,0,0,0,,Pe-Perlu saya hangatkan makanannya?
 Dialogue: 50,0:09:31.73,0:09:33.55,Main,Hitori,0,0,0,,{\an8\i1}Pasti bakalan begitu.
 Dialogue: 50,0:09:35.36,0:09:36.60,Main,Hitori,0,0,0,,{\fs55\pos(960,772.33)}Se-Selamat datang.
-Dialogue: 50,0:09:36.60,0:09:38.93,Main,,0,0,0,,{\fs55\pos(960,772.33)}Pe-Perlu saya hangatkan makanannya?
+Dialogue: 50,0:09:36.60,0:09:38.93,Main,Hitori,0,0,0,,{\fs55\pos(960,772.33)}Pe-Perlu saya hangatkan makanannya?
 Dialogue: 50,0:09:37.62,0:09:38.93,Main,Hitori,0,0,0,,{\an8\i1}Habis itu ....
 Dialogue: 50,0:09:39.43,0:09:42.19,Main,Prosecutor,0,0,0,,{\an8}Atas tuduhan telah\Nmenakuti pengunjung toko,
 Dialogue: 50,0:09:42.19,0:09:43.77,Main,Prosecutor,0,0,0,,{\an8}kami tuntut dia hukuman mati!
 Dialogue: 50,0:09:44.00,0:09:46.28,Main,Judge,0,0,0,,Baiklah, keputusannya ....
 Dialogue: 50,0:09:46.28,0:09:47.29,Main,Judge,0,0,0,,Hukuman mati!
 Dialogue: 50,0:09:47.69,0:09:50.19,Main,Hitori,0,0,0,,{\i1}Sudah pasti bakalan begini!
-Dialogue: 50,0:09:50.72,0:09:51.53,Main,Nijika,0,0,0,,... cchi.
-Dialogue: 50,0:09:51.53,0:09:52.77,Main,Nijika,0,0,0,,Bocchi.
-Dialogue: 50,0:09:52.77,0:09:53.96,Main,Nijika,0,0,0,,Bocchi!
+Dialogue: 50,0:09:50.72,0:09:51.53,Main,Nijika,0,0,0,,{\fad(175,175)}... cchi.
+Dialogue: 50,0:09:51.53,0:09:52.77,Main,Nijika,0,0,0,,{\fad(175,175)}Bocchi.
+Dialogue: 50,0:09:52.77,0:09:53.96,Main,Nijika,0,0,0,,{\fad(175,0)}Bocchi!
 Dialogue: 50,0:09:55.24,0:09:58.04,Main,Nijika,0,0,0,,Kamu tadi enggak dengar obrolan, kan?
 Dialogue: 50,0:09:58.04,0:09:59.30,Main,Hitori,0,0,0,,Ma-Maaf!
 Dialogue: 50,0:09:59.30,0:10:01.07,Main,Hitori,0,0,0,,Eng, kamu membicarakan apa?
@@ -289,7 +360,7 @@ Dialogue: 50,0:13:17.35,0:13:18.94,Main,Hitori,0,0,0,,{\i1}Dia tipe yang kubenci
 Dialogue: 50,0:13:18.94,0:13:20.25,Main,Hitori,0,0,0,,{\i1}Nijika, cepat datangnya, dong!
 Dialogue: 50,0:13:20.25,0:13:24.80,Main,Seika,0,0,0,,Lo? Kamu anak yang\Nmemainkan gitar di dalam kotak.
 Dialogue: 50,0:13:24.80,0:13:26.49,Main,Seika,0,0,0,,Seingatku ....
-Dialogue: 50,0:13:26.49,0:13:28.07,Main,,0,0,0,,Mangga Indramayu?
+Dialogue: 50,0:13:26.49,0:13:28.07,Main,Seika,0,0,0,,Mangga Indramayu?
 Dialogue: 50,0:13:28.07,0:13:30.21,Main,Hitori,0,0,0,,{\i1}Nama julukan baru?
 Dialogue: 50,0:13:30.21,0:13:31.88,Main,Hitori,0,0,0,,{\i1}Mbak Manajer,\Naku padamu, deh!
 Dialogue: 50,0:13:31.88,0:13:34.54,Main,Hitori,0,0,0,,A-Aku Mangga Indramayu!
@@ -368,7 +439,9 @@ Dialogue: 50,0:16:23.65,0:16:26.29,Main,Hitori,0,0,0,,{\i1}"Terima kasih atas ro
 Dialogue: 50,0:16:26.29,0:16:27.28,Main,Hitori,0,0,0,,{\i1}Bukan!
 Dialogue: 50,0:16:27.28,0:16:29.68,Main,Hitori,0,0,0,,{\i1}Ka-Kasih aku latihan lagi, dong!
 Dialogue: 50,0:16:29.68,0:16:31.80,Main,Hitori,0,0,0,,{\i1}Ti-Tidak! Tunggu dulu!
-Dialogue: 50,0:16:33.37,0:16:34.80,Main,Nijika,0,0,0,,Malah ditutup!
+Dialogue: 50,0:16:33.37,0:16:34.85,Main,Nijika,0,0,0,,Malah ditutup!
+Dialogue: 50,0:16:34.85,0:16:34.89,Main,Nijika,0,0,0,,{\clip(m 1009.55 941.92 b 1010.84 955.59 1014.77 981.91 1020.15 995.24 1019.98 1004.13 1021.69 1019.85 1023.57 1028.05 l 719.5 1012.04 714.71 936.63 973.33 894.74)}Malah ditutup!
+Dialogue: 50,0:16:34.89,0:16:34.93,Main,Nijika,0,0,0,,{\clip(m 753.58 946.61 b 760.02 965.93 773.53 991.28 782.67 1006.45 l 751.97 1042.6 667.65 1011.27)}Malah ditutup!
 Dialogue: 50,0:16:35.57,0:16:37.30,Main,Customer A,0,0,0,,Permisi! Beli satu kola!
 Dialogue: 50,0:16:37.30,0:16:38.49,Main,Nijika,0,0,0,,Baik!
 Dialogue: 50,0:16:38.49,0:16:39.60,Main,Nijika,0,0,0,,Bocchi, kolanya satu!
@@ -396,7 +469,16 @@ Dialogue: 50,0:17:24.60,0:17:26.88,Main,Ryo,0,0,0,,Manajer menggantikanku.
 Dialogue: 50,0:17:26.88,0:17:29.12,Main,Ryo,0,0,0,,Semua band hari ini sangat populer,
 Dialogue: 50,0:17:29.12,0:17:31.02,Main,Ryo,0,0,0,,jadi aku disuruh menonton dan menggali ilmu.
 Dialogue: 50,0:17:31.02,0:17:33.11,Main,Nijika,0,0,0,,Tetehku memang begitu ....
-Dialogue: 50,0:17:33.11,0:17:36.36,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:33.11,0:17:33.57,Main,Nijika,0,0,0,,Dia tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:33.57,0:17:34.28,Main,Nijika,0,0,0,,Dia tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:34.28,0:17:34.49,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:34.49,0:17:34.70,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:34.70,0:17:34.87,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:34.87,0:17:35.12,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun ...
+Dialogue: 50,0:17:35.12,0:17:35.33,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun ...
+Dialogue: 50,0:17:35.33,0:17:35.53,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun ...
+Dialogue: 50,0:17:35.53,0:17:35.70,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun ...
+Dialogue: 50,0:17:35.70,0:17:36.36,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
 Dialogue: 50,0:17:36.36,0:17:38.23,Main,Nijika,0,0,0,,... dere. Begitulah.
 Dialogue: 50,0:17:38.23,0:17:39.30,Main,Ryo,0,0,0,,Tsun-nya kebanyakan.
 Dialogue: 50,0:17:39.88,0:17:41.44,Main,Hitori,0,0,0,,Ma-Ma-Maaf.
@@ -411,7 +493,7 @@ Dialogue: 50,0:17:57.93,0:18:03.85,Main,Hitori,0,0,0,,Ke-Kenapa kamu sebaik itu\
 Dialogue: 50,0:18:06.74,0:18:08.15,Main,Nijika,0,0,0,,Asal kamu tahu ....
 Dialogue: 50,0:18:08.43,0:18:10.88,Main,Nijika,0,0,0,,Aku sangat menyukai rumah konser ini.
 Dialogue: 50,0:18:10.88,0:18:14.41,Main,Nijika,0,0,0,,Tapi, tempat staf rumah konser\Nberinteraksi dengan penonton
-Dialogue: 50,0:18:14.41,0:18:17.40,Main,,0,0,0,,hanya di sini dan resepsionis saja,
+Dialogue: 50,0:18:14.41,0:18:17.40,Main,Nijika,0,0,0,,hanya di sini dan resepsionis saja,
 Dialogue: 50,0:18:17.40,0:18:21.83,Main,Nijika,0,0,0,,makanya aku selalu ingin berusaha\Nmembuat orang lain juga menyukainya.
 Dialogue: 50,0:18:22.29,0:18:24.21,Main,Hitori,0,0,0,,Ma-Ma-Ma-Maaf.
 Dialogue: 50,0:18:24.21,0:18:26.36,Main,Hitori,0,0,0,,Aku tak becus kerja di tempat\Nseberharga ini bagimu.
@@ -437,7 +519,7 @@ Dialogue: 50,0:19:31.10,0:19:32.40,Main,Customer D,0,0,0,,Permisi!
 Dialogue: 50,0:19:32.40,0:19:33.74,Main,Customer D,0,0,0,,Jus jeruk.
 Dialogue: 50,0:19:33.74,0:19:34.93,Main,Hitori,0,0,0,,Ba-Baik.
 Dialogue: 50,0:19:47.50,0:19:50.21,Main,Hitori,0,0,0,,{\i1}Tatap mata pelanggan sambil tersenyum.
-Dialogue: 50,0:19:50.21,0:19:51.71,Main,,0,0,0,,{\i1}Berinteraksi langsung.
+Dialogue: 50,0:19:50.21,0:19:51.71,Main,Hitori,0,0,0,,{\i1}Berinteraksi langsung.
 Dialogue: 50,0:19:53.27,0:19:54.46,Main,Hitori,0,0,0,,{\i1}Tersenyum!
 Dialogue: 50,0:19:55.44,0:19:57.78,Main,Hitori,0,0,0,,{\i1}Tatap mata pelanggan!
 Dialogue: 50,0:19:57.78,0:19:58.96,Main,Hitori,0,0,0,,{\i1}Berinteraksi!
@@ -452,8 +534,8 @@ Dialogue: 50,0:20:16.50,0:20:17.07,Main,Nijika,0,0,0,,Yap!
 Dialogue: 50,0:20:17.41,0:20:22.45,Main,Nijika,0,0,0,,Berkat dirimu, konser hari ini pasti\N akan menjadi kenangan yang seru.
 Dialogue: 50,0:20:22.45,0:20:25.45,Main,Nijika,0,0,0,,Kamu sudah maju selangkah.
 Dialogue: 50,0:20:27.17,0:20:28.31,Main,Hitori,0,0,0,,Selangkah ....
-Dialogue: 50,0:20:32.20,0:20:33.25,Main,Hitori,0,0,0,,{\i1}Selangkah.
-Dialogue: 50,0:20:37.16,0:20:38.84,Main,Hitori,0,0,0,,{\i1}Selangkah?!
+Dialogue: 50,0:20:32.20,0:20:33.25,Main,Hitori,0,0,175,,{\i1}Selangkah.
+Dialogue: 50,0:20:37.16,0:20:38.84,Main,Hitori,0,0,0,,{\move(960,940,960,1005,0,702)\i1}Selangkah?!
 Dialogue: 50,0:20:38.84,0:20:42.22,Main,Hitori,0,0,0,,{\i1}Padahal aku bermaksud\Nmaju seribu langkah, sih!
 Dialogue: 50,0:20:47.35,0:20:48.99,Main,Seika,0,0,0,,Makasih untuk hari ini, ya.
 Dialogue: 50,0:20:48.99,0:20:50.21,Main,Seika,0,0,0,,Hati-hati di jalan.
@@ -489,17 +571,6 @@ Dialogue: 50,0:21:54.87,0:21:57.43,Main,Nijika,0,0,0,,... mencari vokalis baru s
 Dialogue: 50,0:21:59.29,0:22:00.56,Main,Girl Student A,0,0,0,,Giliran siapa, nih?
 Dialogue: 50,0:22:00.56,0:22:03.54,Main,Kita,0,0,0,,Ya, ya! Aku, aku!
 Dialogue: 50,0:23:38.55,0:23:39.78,Main,Nijika,0,0,0,,Tonton lagi, ya!
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,chapter,0,0,0,chapter,{Prolog}
-Comment: 0,0:00:34.01,0:00:34.06,riasan ampas,chapter,0,0,0,chapter,{Lagu Pembuka}
-Comment: 0,0:02:03.98,0:02:04.03,riasan ampas,chapter,0,0,0,chapter,{Cerita}
-Comment: 0,0:22:05.01,0:22:05.05,riasan ampas,chapter,0,0,0,chapter,{Lagu Penutup}
-Comment: 0,0:23:35.02,0:23:35.06,riasan ampas,chapter,0,0,0,chapter,{Selanjutnya!}
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,HIJAU: Obrolan Kuota
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,BIRU: Obrolan Sekolah
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,MERAH: Obrolan mengenai Konser
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,KUNING: Obrolan Musik Favorit
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,UNGU: Terjun Lenting
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,PINK: Obrolan yang Membosankan
 Dialogue: 0,0:02:00.10,0:02:02.85,riasan ampas,bocchi ngerok,0,0,0,,{\fad(525,0)\an7\c&H00BEF9&\1a&H00&\3c&H000000&\3a&HFF&\bord0\shad0\p1\fscx26.25\fscy23.63\pos(399.3,317.43)\blur0.5}m 32 131.5 l 32 234 l 56.5 234 l 81 234 l 81.2 157.2 l 81.5 80.5 l 86 80.5 l 90.5 80.5 l 90.8 157.2 l 91 234 l 113.4 234 b 128.5 234 136.1 233.6 136.6 232.9 b 139.3 228.6 140.2 220.1 140.7 197 b 141.3 168.4 140.4 159 136.3 151.2 b 132 142.7 129.8 141.6 117.2 141 l 106.5 140.5 l 106.5 137 l 106.5 133.5 l 117 133 b 129.5 132.4 132.5 130.9 136.4 122.7 b 140.3 114.9 141.3 104 140.8 77.6 b 140.3 52 139.2 46.4 132.8 37.2 b 127.1 28.9 127.8 29 76.8 29 l 32 29 l 32 131.5
 Dialogue: 0,0:02:00.10,0:02:02.85,riasan ampas,bocchi ngerok,0,0,0,,{\fad(525,0)\an7\c&H00BEF9&\1a&H00&\3c&H000000&\3a&HFF&\bord0\shad0\p1\fscx26.25\fscy23.63\pos(399.3,317.43)\blur0.5}m 170.3 29.8 b 164.8 31.4 159.2 36.9 155.6 44.1 b 150.1 55.4 150 57.1 150 137.5 b 150 214 150.3 220.2 154.2 229.2 l 156.2 234 l 204.5 234 l 252.7 234 l 254.4 230.2 b 258.8 220.4 259 216.4 259 137 b 259 54.4 259 54.9 253.1 43.1 b 249.7 36.4 243.2 30.3 238.6 29.5 b 236.9 29.2 221.8 28.9 205.1 28.7 b 182.7 28.6 173.6 28.8 170.3 29.8 m 209.4 82.2 b 210.2 85.2 210.2 192.4 209.4 194.4 b 208.5 196.6 200.5 196.6 199.6 194.4 b 198.8 192.4 198.8 83.6 199.6 81.6 b 200 80.5 201.5 80 204.5 80 b 208.1 80 208.9 80.4 209.4 82.2
 Dialogue: 0,0:02:00.10,0:02:02.85,riasan ampas,bocchi ngerok,0,0,0,,{\fad(525,0)\an7\c&H00BEF9&\1a&H00&\3c&H000000&\3a&HFF&\bord0\shad0\p1\fscx26.25\fscy23.63\pos(399.3,317.43)\blur0.5}m 284.9 31.3 b 279.2 34.3 274 41.8 270.9 51.2 l 268.5 58.5 l 268.5 137 b 268.5 218.5 268.5 218.6 272.7 229.8 l 274.3 234 l 322.9 233.8 l 371.5 233.5 l 374 226.5 b 376.4 219.6 376.5 219 376.8 182.7 l 377.1 146 l 352.6 146 l 328 146 l 327.8 170.7 l 327.5 195.5 l 322.7 195.8 l 318 196.1 l 318.2 138.3 l 318.5 80.5 l 322.4 80.2 b 324.8 80 326.6 80.4 327.1 81.2 b 327.6 81.9 328 93.2 328 106.2 l 328 130 l 352.5 130 l 377 130 l 377 95.2 b 377 67.1 376.7 59.3 375.5 54.5 b 372.4 42.7 367 34.6 359.9 30.9 b 356.3 29.1 353.8 29 322.7 29 b 289.7 29 289.3 29 284.9 31.3
@@ -5210,9 +5281,6 @@ Dialogue: 0,0:02:12.82,0:02:12.95,riasan ampas,luine,0,0,0,,{\an5\fs34\q2\fnEbri
 Dialogue: 0,0:02:12.95,0:02:13.03,riasan ampas,luine,0,0,0,,{\an7\p1\blur5\fscy120\fscx105\c&HE6BF97&\frz359.1\pos(788.98,187.88)\iclip(m 705.71 219.55 b 706.19 207.52 703.32 183.74 699.97 171.43 l 685.66 124.09 566.85 216.25 b 672.38 242.49 692.65 259.94 702.78 268.66)}m -119.88 -17.65 l 94.86 -53.1 109.93 -17.35 109.63 10.42 -101.27 50 -114.56 33.75 -121.06 -1.11
 Dialogue: 0,0:02:12.95,0:02:13.03,riasan ampas,luine,0,0,0,,{\an7\fs34\fax0.1\c&HFDFDFB&\blur0.8\fscx80\fscy105\q2\p1\frz357.5\pos(651.45,206.17)\iclip(m 705.71 219.55 b 706.19 207.52 703.32 183.74 699.97 171.43 l 685.66 124.09 566.85 216.25 b 672.38 242.49 692.65 259.94 702.78 268.66)}m 50.16 -37.7 l 185.69 -60.52 b 210.97 -60.51 211.45 -50.02 215.53 -36.42 218.52 -13.42 213.82 -7.67 197.08 -2.46 l 60.58 19.93 b 41.17 20.3 33.61 18.56 28.82 -1.71 22.71 -29.62 36.68 -35.4 50.08 -37.78
 Dialogue: 0,0:02:12.95,0:02:13.03,riasan ampas,luine,0,0,0,,{\an5\fs34\q2\fnEbrima\c&H4F4C50&\fax0.02\blur0.55\frx0\fry358\frz8.128\pos(748.16,188.85)\iclip(m 705.71 219.55 b 706.75 207.8 703.6 183.74 699.97 171.43 l 642.83 174.71 662.24 233.77)}Halo! {\fnNoto Emoji\b1\c&H73BCD5&}😊
-Comment: 0,0:02:13.03,0:02:13.15,riasan ampas,luine,0,0,0,,{\an7\p1\blur5\fscy120\fscx105\c&HE6BF97&\frz359.1\pos(788.98,187.88)\iclip(m 705.71 219.55 b 706.19 207.52 703.32 183.74 699.97 171.43 l 685.66 124.09 566.85 216.25 b 672.38 242.49 692.65 259.94 702.78 268.66)}m -119.88 -17.65 l 94.86 -53.1 109.93 -17.35 109.63 10.42 -101.27 50 -114.56 33.75 -121.06 -1.11
-Comment: 0,0:02:13.03,0:02:13.15,riasan ampas,luine,0,0,0,,{\an7\fs34\fax0.1\c&HFDFDFB&\blur0.8\fscx80\fscy105\q2\p1\frz357.5\pos(651.45,206.17)\iclip(m 705.71 219.55 b 706.19 207.52 703.32 183.74 699.97 171.43 l 685.66 124.09 566.85 216.25 b 672.38 242.49 692.65 259.94 702.78 268.66)}m 50.16 -37.7 l 185.69 -60.52 b 210.97 -60.51 211.45 -50.02 215.53 -36.42 218.52 -13.42 213.82 -7.67 197.08 -2.46 l 60.58 19.93 b 41.17 20.3 33.61 18.56 28.82 -1.71 22.71 -29.62 36.68 -35.4 50.08 -37.78
-Comment: 0,0:02:13.03,0:02:13.15,riasan ampas,luine,0,0,0,,{\an5\fs34\q2\fnEbrima\c&H4F4C50&\fax0.02\blur0.55\frx0\fry358\frz8.128\pos(748.16,188.85)\iclip(m 705.71 219.55 b 706.75 207.8 703.6 183.74 699.97 171.43 l 642.83 174.71 662.24 233.77)}Halo! {\fnNoto Emoji\b1\c&H73BCD5&}😊
 Dialogue: 0,0:02:13.15,0:02:13.40,riasan ampas,luine,0,0,0,a,{\an7\pos(788.98,187.88)\fscx105\fscy120\frz359.1\c&HE6BF97&\blur5\p1\iclip(m 939.69 325.05 b 936.23 359.79 926.13 428.53 918.86 463.14 911.72 496.89 892.99 559.95 882.4 592.23 865.53 647.17 802.71 775.76 761.69 827.74 l 811.45 815.91 b 819.46 814.43 826.61 816.41 811.95 839.56 800.37 849.91 786.57 852.37 769.58 853.36 l 749.87 855.82 b 735.95 867.52 732.26 873.68 717.84 873.58 719.75 864.81 724.93 863.82 710.45 866.66 669.33 879.25 583.17 897.04 528.58 901.38 l 493.56 266.68 676.15 19.92 722.82 11.89 b 782.31 72.28 879.98 188.22 918.82 247.32 921.64 230.66 921.9 196.63 924.36 181.4 925.13 173.12 928.62 177.69 930.99 179.79 942.85 191.39 946.88 195.95 947.64 207.55 l 943.88 289.74 b 949.03 301.16 957.9 317.9 954.63 329.5 950.06 331.56 946.48 331.02 941.38 326.27)}m -119.88 -17.65 l 94.86 -53.1 109.93 -17.35 109.63 10.42 -101.27 50 -114.56 33.75 -121.06 -1.11
 Dialogue: 0,0:02:13.53,0:02:13.65,riasan ampas,luine,0,0,0,a,{\an7\pos(788.98,187.88)\fscx105\fscy120\frz359.1\c&HE6BF97&\blur5\p1\iclip(m 939.69 325.05 b 936.23 359.79 926.13 428.53 918.86 463.14 911.72 496.89 892.99 559.95 882.4 592.23 865.53 647.17 802.71 775.76 761.69 827.74 l 811.45 815.91 b 819.46 814.43 826.61 816.41 811.95 839.56 800.37 849.91 786.57 852.37 769.58 853.36 l 749.87 855.82 b 735.95 867.52 732.26 873.68 717.84 873.58 719.75 864.81 724.93 863.82 710.45 866.66 669.33 879.25 583.17 897.04 528.58 901.38 l 493.56 266.68 676.15 19.92 722.82 11.89 b 782.31 72.28 879.98 188.22 918.82 247.32 921.64 230.66 921.9 196.63 924.36 181.4 925.13 173.12 928.62 177.69 930.99 179.79 942.85 191.39 946.88 195.95 947.64 207.55 l 943.88 289.74 b 949.03 301.16 957.9 317.9 954.63 329.5 950.06 331.56 946.48 331.02 941.38 326.27)}m -119.88 -17.65 l 94.86 -53.1 109.93 -17.35 109.63 10.42 -101.27 50 -114.56 33.75 -121.06 -1.11
 Dialogue: 0,0:02:13.78,0:02:13.91,riasan ampas,luine,0,0,0,a,{\an7\pos(788.98,187.88)\fscx105\fscy120\frz359.1\c&HE6BF97&\blur5\p1\iclip(m 939.69 325.05 b 936.23 359.79 926.13 428.53 918.86 463.14 911.72 496.89 892.99 559.95 882.4 592.23 865.53 647.17 802.71 775.76 761.69 827.74 l 811.45 815.91 b 819.46 814.43 826.61 816.41 811.95 839.56 800.37 849.91 786.57 852.37 769.58 853.36 l 749.87 855.82 b 735.95 867.52 732.26 873.68 717.84 873.58 719.75 864.81 724.93 863.82 710.45 866.66 669.33 879.25 583.17 897.04 528.58 901.38 l 493.56 266.68 676.15 19.92 722.82 11.89 b 782.31 72.28 879.98 188.22 918.82 247.32 921.64 230.66 921.9 196.63 924.36 181.4 925.13 173.12 928.62 177.69 930.99 179.79 942.85 191.39 946.88 195.95 947.64 207.55 l 943.88 289.74 b 949.03 301.16 957.9 317.9 954.63 329.5 950.06 331.56 946.48 331.02 941.38 326.27)}m -119.88 -17.65 l 94.86 -53.1 109.93 -17.35 109.63 10.42 -101.27 50 -114.56 33.75 -121.06 -1.11
@@ -5604,8 +5672,6 @@ Dialogue: 0,0:15:02.88,0:15:03.01,riasan ampas,minumkonter,0,0,0,,{=3177}{\pos(1
 Dialogue: 0,0:15:03.01,0:15:03.13,riasan ampas,minumkonter,0,0,0,,{=3177}{\pos(1296.11,539.33)\org(1296.19,539.33)\fscx30.62\fscy54.2\frz-0.174\fry-0.297\frx0.334\fax0.011\fay0\fnHGPSoeiKakupoptai - EN\b0\c&H60EAEC&\alpha&H00&\blur1\iclip(m 1423.78 563.13 l 1430.76 513.87 1671.06 488.25 1641.44 574.11)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz0.4}.
 Dialogue: 0,0:15:03.13,0:15:03.26,riasan ampas,minumkonter,0,0,0,,{=3177}{\pos(1296.11,539.33)\org(1296.19,539.33)\fscx30.62\fscy54.2\frz-0.174\fry-0.297\frx0.334\fax0.011\fay0\fnHGPSoeiKakupoptai - EN\b0\c&H60EAEC&\alpha&H00&\blur1\iclip(m 1449.4 566.46 l 1459.05 500.56 1655.08 498.56 1643.43 601.74)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz0.4}.
 Dialogue: 0,0:15:03.26,0:15:04.51,riasan ampas,minumkonter,0,0,0,,{=3177}{\pos(1296.11,539.33)\org(1296.19,539.33)\fscx30.62\fscy54.2\frz-0.174\fry-0.297\frx0.334\fax0.011\fay0\fnHGPSoeiKakupoptai - EN\b0\c&H60EAEC&\alpha&H00&\blur1\iclip(m 1479.36 562.13 l 1486.34 506.88 1611.48 502.56 1605.49 569.79)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz0.4}.
-Comment: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx28\fscy21\c&H3A393A&\1a&H00&\pos(1029.03,374.36)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
-Comment: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx28\fscy21\c&H171717&\1a&H00&\pos(1029.03,374.36)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\clip(984,339,1074,341)\pos(1029.03,374.36)\an7\bord0\shad0\blur1\p1\fscx28\fscy21\1a&H00&\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\clip(984,341,1074,343)\pos(1029.03,374.36)\an7\bord0\shad0\blur1\p1\fscx28\fscy21\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\clip(984,343,1074,345)\pos(1029.03,374.36)\an7\bord0\shad0\blur1\p1\fscx28\fscy21\1a&H00&\c&H383738&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
@@ -5645,8 +5711,6 @@ Dialogue: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\clip(984,409,107
 Dialogue: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\an5\pos(1029.88,373.81)\fscx24.58\fscy25.6\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 989.17 373.8 b 988.83 354.18 1015.75 343.69 1028.78 344.27 1057.08 347.07 1069.6 359.79 1068.03 375.97 1069.34 397.41 1036.97 404.16 1026.62 403.69 1005.59 403.41 989.71 389.2 989.16 374.13)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\an5\pos(1029.88,373.81)\fscx24.58\fscy25.6\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur0.5\clip(m 989.17 373.8 b 988.83 354.18 1015.75 343.69 1028.78 344.27 1057.08 347.07 1069.6 359.79 1068.03 375.97 1069.34 397.41 1036.97 404.16 1026.62 403.69 1005.59 403.41 989.71 389.2 989.16 374.13)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:51.37,0:07:51.41,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy25.6\fscx24.58\pos(1029.88,373.81)}Kuotanya\N{\fscx26.01\fscy27.03}10 Tiket!
-Comment: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.64\fscx79.09\fscy58.69\c&H3A393A&\1a&H00&\pos(1029.69,370.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.64\fscx79.09\fscy58.69\c&H171717&\1a&H00&\pos(1029.69,370.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\clip(913,283,1146,285)\pos(1029.69,370.9)\an7\bord0\shad0\blur0.64\fscx79.09\fscy58.69\1a&H00&\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\clip(913,285,1146,287)\pos(1029.69,370.9)\an7\bord0\shad0\blur0.64\fscx79.09\fscy58.69\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\clip(913,287,1146,289)\pos(1029.69,370.9)\an7\bord0\shad0\blur0.64\fscx79.09\fscy58.69\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -5738,8 +5802,6 @@ Dialogue: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\clip(913,457,114
 Dialogue: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\an5\pos(1030.76,369.59)\fscx76.8\fscy80\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur0.64}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\an5\pos(1030.76,369.59)\fscx76.8\fscy80\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur0.64}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:51.41,0:07:51.45,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.38\b0\fscy80\fscx76.8\pos(1030.76,369.59)}Kuotanya\N{\fscx81.28\fscy84.48}10 Tiket!
-Comment: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\p1\fscx127.17\fscy94.38\c&H3A393A&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
-Comment: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\p1\fscx127.17\fscy94.38\c&H171717&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\clip(845,228,1216,230)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.03\p1\fscx127.17\fscy94.38\1a&H00&\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\clip(845,230,1216,232)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.03\p1\fscx127.17\fscy94.38\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\clip(845,232,1216,234)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.03\p1\fscx127.17\fscy94.38\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
@@ -5883,8 +5945,6 @@ Dialogue: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,
 Dialogue: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,365.59)\fscx123.49\fscy128.64\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1.03\clip(m 851.22 361.99 b 874.25 185.46 1199.58 199.1 1210.18 366.79 1196.5 543.58 859.03 543.64 851.39 364.05)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:51.45,0:07:51.49,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.61\b0\fscy128.64\fscx123.49\pos(1031.76,365.59)}Kuotanya\N{\fscx130.7\fscy135.84}10 Tiket!
 Dialogue: 5,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an7\p1\blur0.6\be1\pos(1232.7,354.05)}m -5.77 -34.6 l 7.3 -33.83 7.3 78.82 -5.77 78.82
-Comment: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.16\fscx144.08\fscy106.94\c&H3A393A&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.16\fscx144.08\fscy106.94\c&H171717&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\clip(821,210,1240,212)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.16\fscx144.08\fscy106.94\1a&H00&\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\clip(821,212,1240,214)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.16\fscx144.08\fscy106.94\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\clip(821,214,1240,216)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.16\fscx144.08\fscy106.94\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -6045,8 +6105,6 @@ Dialogue: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\clip(821,522,124
 Dialogue: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,365.59)\fscx139.92\fscy145.75\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1.16\clip(m 827.49 362.33 b 832.55 271.9 923.6 219.59 1033.41 214.86 1138.77 219.9 1202.67 268.06 1227.88 328.64 1226.61 331.14 1225.85 335.48 1226.34 338.64 l 1226.34 406.68 b 1196.67 480.22 1110.23 513.69 1038.06 515.89 900.21 515.78 824.02 434.53 827.54 363.08)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,365.59)\fscx139.92\fscy145.75\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1.16\clip(m 827.49 362.33 b 832.55 271.9 923.6 219.59 1033.41 214.86 1138.77 219.9 1202.67 268.06 1227.88 328.64 1226.61 331.14 1225.85 335.48 1226.34 338.64 l 1226.34 406.68 b 1196.67 480.22 1110.23 513.69 1038.06 515.89 900.21 515.78 824.02 434.53 827.54 363.08)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:51.49,0:07:51.53,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.68\b0\fscy145.75\fscx139.92\pos(1031.76,365.59)}Kuotanya\N{\fscx148.08\fscy153.91}10 Tiket!
-Comment: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.11\fscx137.56\fscy102.1\c&H3A393A&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.11\fscx137.56\fscy102.1\c&H171717&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\clip(830,217,1231,219)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.11\fscx137.56\fscy102.1\1a&H00&\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\clip(830,219,1231,221)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.11\fscx137.56\fscy102.1\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\clip(830,221,1231,223)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.11\fscx137.56\fscy102.1\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -6200,8 +6258,6 @@ Dialogue: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\clip(830,515,123
 Dialogue: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,365.59)\fscx133.58\fscy139.15\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1.11\clip(m 836.09 363.94 b 841.15 273.51 935.96 222.28 1032.34 222.92 1135.54 222.05 1224.17 284.19 1224.65 375.41 1211.18 469.47 1109.16 506.7 1036.98 508.9 907.73 510.4 835.31 436.14 836.14 364.69)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,365.59)\fscx133.58\fscy139.15\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1.11\clip(m 836.09 363.94 b 841.15 273.51 935.96 222.28 1032.34 222.92 1135.54 222.05 1224.17 284.19 1224.65 375.41 1211.18 469.47 1109.16 506.7 1036.98 508.9 907.73 510.4 835.31 436.14 836.14 364.69)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:51.53,0:07:51.58,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.65\b0\fscy139.15\fscx133.58\pos(1031.76,365.59)}Kuotanya\N{\fscx141.38\fscy146.94}10 Tiket!
-Comment: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\fscx128.07\fscy95.05\c&H3A393A&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1.03\fscx128.07\fscy95.05\c&H171717&\1a&H00&\pos(1030.69,366.9)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\clip(844,227,1218,229)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.03\fscx128.07\fscy95.05\1a&H00&\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\clip(844,229,1218,231)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.03\fscx128.07\fscy95.05\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\clip(844,231,1218,233)\pos(1030.69,366.9)\an7\bord0\shad0\blur1.03\fscx128.07\fscy95.05\1a&H00&\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -6345,8 +6401,6 @@ Dialogue: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\clip(844,505,121
 Dialogue: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,365.59)\fscx124.36\fscy129.55\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1.03\clip(m 850.15 363.03 b 869.55 187.71 1193.44 196.78 1211.31 364.92 1195.77 546.15 853.62 542.56 850.82 362.85)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\an5\pos(1031.76,365.59)\fscx124.36\fscy129.55\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1.03\clip(m 850.15 363.03 b 869.55 187.71 1193.44 196.78 1211.31 364.92 1195.77 546.15 853.62 542.56 850.82 362.85)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:51.58,0:07:51.62,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.61\b0\fscy129.55\fscx124.36\pos(1031.76,365.59)}Kuotanya\N{\fscx131.62\fscy136.8}10 Tiket!
-Comment: 0,0:07:51.62,0:07:52.95,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
-Comment: 0,0:07:51.62,0:07:52.95,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1030.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.62,0:07:52.95,riasan ampas,10tiket,0,0,0,,{\clip(850,232,1211,234)\pos(1030.69,366.9)\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\1a&H00&\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.62,0:07:52.95,riasan ampas,10tiket,0,0,0,,{\clip(850,234,1211,236)\pos(1030.69,366.9)\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:51.62,0:07:52.95,riasan ampas,10tiket,0,0,0,,{\clip(850,236,1211,238)\pos(1030.69,366.9)\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
@@ -6521,8 +6575,6 @@ Dialogue: 2,0:07:52.83,0:07:52.87,riasan ampas,10tiket-cum4,0,0,0,,{\blur0.8\an7
 Dialogue: 3,0:07:52.83,0:07:52.87,riasan ampas,10tiket-cum4,0,0,0,,{\blur0.8\an7\pos(862.64,391.17)\p1\bord0\c&HFEE3B8&\4c&H000000&\4a&HC8&\shad4\4a&HFF&}m -30.54 30.53 b -10.85 24.01 27.55 -0.38 29.95 -14.4 28.42 -22.94 24.77 -28.71 11.52 -26.31 -12.2 -11.28 -23.72 17.24 -30.73 30.34
 Dialogue: 2,0:07:52.87,0:07:52.91,riasan ampas,10tiket-cum4,0,0,0,,{\blur0.8\an7\p1\bord4\shad4\3c&HCDA185&\c&HCDA185&\1a&H00&\3a&H00&\fscx93\fscy90\frz358.2\4c&H000000&\4a&HC8&\pos(863.39,375.52)}m -30.54 30.53 b -10.85 24.01 27.55 -0.38 29.95 -14.4 28.42 -22.94 24.77 -28.71 11.52 -26.31 -12.2 -11.28 -23.72 17.24 -30.73 30.34
 Dialogue: 3,0:07:52.87,0:07:52.91,riasan ampas,10tiket-cum4,0,0,0,,{\blur0.8\an7\p1\bord0\c&HFEE3B8&\1a&H00&\3a&H00&\fscx93\fscy90\frz358.2\4c&H000000&\4a&HC8&\pos(863.39,375.52)\shad4\4a&HFF&}m -30.54 30.53 b -10.85 24.01 27.55 -0.38 29.95 -14.4 28.42 -22.94 24.77 -28.71 11.52 -26.31 -12.2 -11.28 -23.72 17.24 -30.73 30.34
-Comment: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1043.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
-Comment: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1043.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\clip(863,232,1224,234)\pos(1043.69,366.9)\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\1a&H00&\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\clip(863,234,1224,236)\pos(1043.69,366.9)\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\clip(863,236,1224,238)\pos(1043.69,366.9)\an7\bord0\shad0\blur1\p1\fscx123.57\fscy91.7\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
@@ -6661,8 +6713,6 @@ Dialogue: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\clip(863,500,122
 Dialogue: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\an5\pos(1044.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 869.06 361.42 b 901.9 186.1 1200.53 207.53 1218.4 361.69 1216.83 535.94 875.22 543.64 868.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\an5\pos(1044.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 869.06 361.42 b 901.9 186.1 1200.53 207.53 1218.4 361.69 1216.83 535.94 875.22 543.64 868.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:52.95,0:07:52.99,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1044.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\p1\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1122.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
-Comment: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\p1\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1122.69,366.9)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\clip(944,233,1302,235)\pos(1122.69,366.9)\an7\bord0\shad0\blur0.5\p1\fscx123.57\fscy91.7\1a&H00&\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\clip(944,235,1302,237)\pos(1122.69,366.9)\an7\bord0\shad0\blur0.5\p1\fscx123.57\fscy91.7\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\clip(944,237,1302,239)\pos(1122.69,366.9)\an7\bord0\shad0\blur0.5\p1\fscx123.57\fscy91.7\1a&H00&\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
@@ -6800,8 +6850,6 @@ Dialogue: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\clip(944,499,130
 Dialogue: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\an5\pos(1123.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 948.06 361.42 b 980.9 186.1 1279.53 207.53 1297.4 361.69 1295.83 535.94 954.22 543.64 947.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\an5\pos(1123.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 948.06 361.42 b 980.9 186.1 1279.53 207.53 1297.4 361.69 1295.83 535.94 954.22 543.64 947.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:52.99,0:07:53.04,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1123.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1201.69,366.9)\iclip(m 1372.93 341.18 l 1373.56 395.77 1425.35 393.91 1425.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1201.69,366.9)\iclip(m 1372.93 341.18 l 1373.56 395.77 1425.35 393.91 1425.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\clip(1023,233,1377,235)\pos(1201.69,366.9)\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\1a&H00&\iclip(m 1372.93 341.18 l 1373.56 395.77 1425.35 393.91 1425.97 307.69)\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\clip(1023,235,1377,237)\pos(1201.69,366.9)\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\1a&H00&\iclip(m 1372.93 341.18 l 1373.56 395.77 1425.35 393.91 1425.97 307.69)\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\clip(1023,237,1377,239)\pos(1201.69,366.9)\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\1a&H00&\iclip(m 1372.93 341.18 l 1373.56 395.77 1425.35 393.91 1425.97 307.69)\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -6939,8 +6987,6 @@ Dialogue: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\clip(1023,499,13
 Dialogue: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\an5\pos(1202.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1027.06 361.42 b 1059.9 186.1 1358.53 207.53 1376.4 361.69 1374.83 535.94 1033.22 543.64 1026.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\an5\pos(1202.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1027.06 361.42 b 1059.9 186.1 1358.53 207.53 1376.4 361.69 1374.83 535.94 1033.22 543.64 1026.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.04,0:07:53.08,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1202.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H3A393A&\1a&H00&\pos(1281.69,366.9)\iclip(m 1452.93 341.18 l 1453.56 395.77 1505.35 393.91 1505.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\c&H171717&\1a&H00&\pos(1281.69,366.9)\iclip(m 1452.93 341.18 l 1453.56 395.77 1505.35 393.91 1505.97 307.69)\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\clip(1103,233,1457,235)\pos(1281.69,366.9)\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\1a&H00&\iclip(m 1452.93 341.18 l 1453.56 395.77 1505.35 393.91 1505.97 307.69)\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\clip(1103,235,1457,237)\pos(1281.69,366.9)\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\1a&H00&\iclip(m 1452.93 341.18 l 1453.56 395.77 1505.35 393.91 1505.97 307.69)\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\clip(1103,237,1457,239)\pos(1281.69,366.9)\an7\bord0\shad0\blur0.5\fscx123.57\fscy91.7\1a&H00&\iclip(m 1452.93 341.18 l 1453.56 395.77 1505.35 393.91 1505.97 307.69)\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -7078,8 +7124,6 @@ Dialogue: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\clip(1103,499,14
 Dialogue: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\an5\pos(1282.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1107.06 361.42 b 1139.9 186.1 1438.53 207.53 1456.4 361.69 1454.83 535.94 1113.22 543.64 1106.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\an5\pos(1282.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1107.06 361.42 b 1139.9 186.1 1438.53 207.53 1456.4 361.69 1454.83 535.94 1113.22 543.64 1106.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.08,0:07:53.12,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1282.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\an7\pos(1360.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\an7\pos(1360.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\clip(1182,233,1540,235)\pos(1360.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\clip(1182,235,1540,237)\pos(1360.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\clip(1182,237,1540,239)\pos(1360.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -7217,8 +7261,6 @@ Dialogue: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\clip(1182,499,15
 Dialogue: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\an5\pos(1361.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1186.06 361.42 b 1218.9 186.1 1517.53 207.53 1535.4 361.69 1533.83 535.94 1192.22 543.64 1185.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\an5\pos(1361.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1186.06 361.42 b 1218.9 186.1 1517.53 207.53 1535.4 361.69 1533.83 535.94 1192.22 543.64 1185.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.12,0:07:53.16,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1361.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\an7\pos(1439.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\an7\pos(1439.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\clip(1261,233,1619,235)\pos(1439.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\clip(1261,235,1619,237)\pos(1439.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\clip(1261,237,1619,239)\pos(1439.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -7356,8 +7398,6 @@ Dialogue: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\clip(1261,499,16
 Dialogue: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\an5\pos(1440.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1265.06 361.42 b 1297.9 186.1 1596.53 207.53 1614.4 361.69 1612.83 535.94 1271.22 543.64 1264.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\an5\pos(1440.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1265.06 361.42 b 1297.9 186.1 1596.53 207.53 1614.4 361.69 1612.83 535.94 1271.22 543.64 1264.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.16,0:07:53.20,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1440.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\an7\pos(1518.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\an7\pos(1518.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\clip(1340,233,1698,235)\pos(1518.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\clip(1340,235,1698,237)\pos(1518.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\clip(1340,237,1698,239)\pos(1518.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -7495,8 +7535,6 @@ Dialogue: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\clip(1340,499,16
 Dialogue: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\an5\pos(1519.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1344.06 361.42 b 1376.9 186.1 1675.53 207.53 1693.4 361.69 1691.83 535.94 1350.22 543.64 1343.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\an5\pos(1519.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1344.06 361.42 b 1376.9 186.1 1675.53 207.53 1693.4 361.69 1691.83 535.94 1350.22 543.64 1343.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.20,0:07:53.24,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1519.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\an7\pos(1597.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\an7\pos(1597.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\clip(1419,233,1777,235)\pos(1597.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\clip(1419,235,1777,237)\pos(1597.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\clip(1419,237,1777,239)\pos(1597.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -7634,8 +7672,6 @@ Dialogue: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\clip(1419,499,17
 Dialogue: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\an5\pos(1598.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1423.06 361.42 b 1455.9 186.1 1754.53 207.53 1772.4 361.69 1770.83 535.94 1429.22 543.64 1422.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\an5\pos(1598.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1423.06 361.42 b 1455.9 186.1 1754.53 207.53 1772.4 361.69 1770.83 535.94 1429.22 543.64 1422.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.24,0:07:53.29,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1598.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\an7\pos(1677.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\an7\pos(1677.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\clip(1499,233,1857,235)\pos(1677.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\clip(1499,235,1857,237)\pos(1677.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\clip(1499,237,1857,239)\pos(1677.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -7773,8 +7809,6 @@ Dialogue: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\clip(1499,499,18
 Dialogue: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\an5\pos(1678.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1503.06 361.42 b 1535.9 186.1 1834.53 207.53 1852.4 361.69 1850.83 535.94 1509.22 543.64 1502.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\an5\pos(1678.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1503.06 361.42 b 1535.9 186.1 1834.53 207.53 1852.4 361.69 1850.83 535.94 1509.22 543.64 1502.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.29,0:07:53.33,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1678.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\an7\pos(1757.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\an7\pos(1757.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\clip(1578,233,1923,235)\pos(1757.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\clip(1578,235,1923,237)\pos(1757.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\clip(1578,237,1923,239)\pos(1757.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -7912,8 +7946,6 @@ Dialogue: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\clip(1578,499,19
 Dialogue: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\an5\pos(1758.26,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1582.56 361.42 b 1615.4 186.1 1914.03 207.53 1931.9 361.69 1930.33 535.94 1588.72 543.64 1582.16 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\an5\pos(1758.26,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1582.56 361.42 b 1615.4 186.1 1914.03 207.53 1931.9 361.69 1930.33 535.94 1588.72 543.64 1582.16 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.33,0:07:53.37,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1758.26,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\an7\pos(1835.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\an7\pos(1835.69,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\clip(1657,233,1923,235)\pos(1835.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\clip(1657,235,1923,237)\pos(1835.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\clip(1657,237,1923,239)\pos(1835.69,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -8051,8 +8083,6 @@ Dialogue: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\clip(1657,499,19
 Dialogue: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\an5\pos(1836.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1661.06 361.42 b 1693.9 186.1 1992.53 207.53 2010.4 361.69 2008.83 535.94 1667.22 543.64 1660.66 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\an5\pos(1836.76,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1661.06 361.42 b 1693.9 186.1 1992.53 207.53 2010.4 361.69 2008.83 535.94 1667.22 543.64 1660.66 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.37,0:07:53.41,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1836.76,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\an7\pos(1914.99,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\an7\pos(1914.99,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\clip(1736,233,1923,235)\pos(1914.99,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\clip(1736,235,1923,237)\pos(1914.99,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\clip(1736,237,1923,239)\pos(1914.99,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -8190,8 +8220,6 @@ Dialogue: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\clip(1736,499,19
 Dialogue: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\an5\pos(1916.06,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1740.36 361.42 b 1773.2 186.1 2071.83 207.53 2089.7 361.69 2088.13 535.94 1746.52 543.64 1739.96 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\an5\pos(1916.06,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1740.36 361.42 b 1773.2 186.1 2071.83 207.53 2089.7 361.69 2088.13 535.94 1746.52 543.64 1739.96 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.41,0:07:53.45,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1916.06,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\an7\pos(1994.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\an7\pos(1994.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\clip(1815,245,1923,247)\pos(1994.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\clip(1815,247,1923,249)\pos(1994.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\clip(1815,249,1923,251)\pos(1994.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -8317,8 +8345,6 @@ Dialogue: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\clip(1815,487,19
 Dialogue: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\an5\pos(1995.26,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&HD3D3D3&\3c&HD3D3D3&\4c&HD3D3D3&\1a&HFE&\3a&HFF&\blur1\clip(m 1819.56 361.42 b 1852.4 186.1 2151.03 207.53 2168.9 361.69 2167.33 535.94 1825.72 543.64 1819.16 361.77)}zdPMsywdD\NwDhlJjoJQY\NrbsytVbuAp\NWdNyhIlBED\NmZXvuvDpn
 Dialogue: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\an5\pos(1995.26,365.59)\fscx120\fscy125\fnGrain\b0\bord0\shad0.01\c&H9B9B9B&\3c&H9B9B9B&\4c&H9B9B9B&\1a&HFE&\3a&HFF&\blur1\clip(m 1819.56 361.42 b 1852.4 186.1 2151.03 207.53 2168.9 361.69 2167.33 535.94 1825.72 543.64 1819.16 361.77)}ciDCOTZW!\NIsUlAOFLr!\NwbdkWiPPQY\NtWNmmeVHwd\NilAgrxMa!
 Dialogue: 0,0:07:53.45,0:07:53.49,riasan ampas,10tiket,0,0,0,,{\an5\fnKG Second Chances Solid\blur0.6\b0\fscy125\fscx120\pos(1995.26,365.59)}Kuotanya\N{\fscx127\fscy132}10 Tiket!
-Comment: 0,0:07:53.49,0:07:53.54,riasan ampas,10tiket,0,0,0,,{\an7\pos(2073.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H3A393A&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
-Comment: 0,0:07:53.49,0:07:53.54,riasan ampas,10tiket,0,0,0,,{\an7\pos(2073.19,366.9)\fscx123.57\fscy91.7\bord0\shad0\c&H171717&\1a&H00&\blur0.5\p1}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.49,0:07:53.54,riasan ampas,10tiket,0,0,0,,{\clip(1894,300,1923,302)\pos(2073.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H3A393A&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.49,0:07:53.54,riasan ampas,10tiket,0,0,0,,{\clip(1894,302,1923,304)\pos(2073.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H393839&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
 Dialogue: 0,0:07:53.49,0:07:53.54,riasan ampas,10tiket,0,0,0,,{\clip(1894,304,1923,306)\pos(2073.19,366.9)\an7\fscx123.57\fscy91.7\bord0\shad0\1a&H00&\blur0.5\p1\c&H383738&}m -100 -100 b -45 -155 45 -155 100 -100 155 -45 155 45 100 100 46 155 -45 155 -100 100 -155 45 -155 -45 -100 -100
@@ -9103,8 +9129,8 @@ Dialogue: 0,0:03:37.98,0:03:38.03,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\
 Dialogue: 0,0:03:38.03,0:03:38.07,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.74\xbord0\ybord0\fax0.055\fay0\fscx178.47\fscy103.25\frz1.12\frx-37.144\fry2.723\org(965.04,811.11)\pos(964.47,811.01)}Obrolan Kuota
 Dialogue: 0,0:03:38.07,0:03:38.11,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.76\xbord0\ybord0\fax0.055\fay0\fscx182.53\fscy105.6\frz1.13\frx-37.144\fry2.723\org(965.27,817.2)\pos(964.64,817.1)}Obrolan Kuota
 Dialogue: 0,0:03:38.11,0:03:39.32,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.77\xbord0\ybord0\fax0.055\fay0\fscx184.45\fscy106.71\frz1.14\frx-37.144\fry2.723\org(965.44,820.01)\pos(964.78,819.92)}Obrolan Kuota
-Comment: 0,0:21:58.80,0:22:01.55,riasan ampas,karaOKkitan,0,0,0,abaikan,{Lirik: Aki Hamaji}{\N}{Lagu: Instant}{}{}{ignore}
-Comment: 0,0:23:35.02,0:23:41.82,riasan ampas,hardsubbed,0,0,0,abaikan,{Bocchi sang Roker! - 03 - Aku akan Segera ke Sana}{}{}{}{ignore}
+Dialogue: 0,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0\c&H000000&}m -390 -178 l 396 -178 396 178 -390 178
+Dialogue: 1,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{=84}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80\fnKG Second Chances Solid}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang!?\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
 Comment: 0,0:00:34.01,0:00:34.05,Lagu OP,chapter,0,0,0,sync,{Lagu Pembuka}
 Dialogue: 0,0:00:40.39,0:00:40.43,riasan ampas,bocchi ngerok,0,0,0,,{=77}{\alpha&H00&\an7\c&H9060EA&\1a&H00&\3c&H000000&\3a&HFF&\bord0\shad0\p1\fscx39.63\fscy32.1\blur0.58\pos(53.7,229.43)}m 32 131.5 l 32 234 l 56.5 234 l 81 234 l 81.2 157.2 l 81.5 80.5 l 86 80.5 l 90.5 80.5 l 90.8 157.2 l 91 234 l 113.4 234 b 128.5 234 136.1 233.6 136.6 232.9 b 139.3 228.6 140.2 220.1 140.7 197 b 141.3 168.4 140.4 159 136.3 151.2 b 132 142.7 129.8 141.6 117.2 141 l 106.5 140.5 l 106.5 137 l 106.5 133.5 l 117 133 b 129.5 132.4 132.5 130.9 136.4 122.7 b 140.3 114.9 141.3 104 140.8 77.6 b 140.3 52 139.2 46.4 132.8 37.2 b 127.1 28.9 127.8 29 76.8 29 l 32 29 l 32 131.5 {\p0}
 Dialogue: 0,0:00:40.43,0:00:40.47,riasan ampas,bocchi ngerok,0,0,0,,{=77}{\alpha&H00&\an7\c&H9060EA&\1a&H00&\3c&H000000&\3a&HFF&\bord0\shad0\p1\fscx34.93\fscy28.3\blur0.51\pos(160.95,268.68)}m 32 131.5 l 32 234 l 56.5 234 l 81 234 l 81.2 157.2 l 81.5 80.5 l 86 80.5 l 90.5 80.5 l 90.8 157.2 l 91 234 l 113.4 234 b 128.5 234 136.1 233.6 136.6 232.9 b 139.3 228.6 140.2 220.1 140.7 197 b 141.3 168.4 140.4 159 136.3 151.2 b 132 142.7 129.8 141.6 117.2 141 l 106.5 140.5 l 106.5 137 l 106.5 133.5 l 117 133 b 129.5 132.4 132.5 130.9 136.4 122.7 b 140.3 114.9 141.3 104 140.8 77.6 b 140.3 52 139.2 46.4 132.8 37.2 b 127.1 28.9 127.8 29 76.8 29 l 32 29 l 32 131.5 {\p0}
@@ -9352,7 +9378,7 @@ Dialogue: 0,0:00:47.02,0:00:49.44,Lagu OP,,0,0,0,,{\blur0.7\move(152.984,112,178
 Dialogue: 1,0:00:47.02,0:00:49.44,Lagu OP,,0,0,0,,{\bord0\blur0.7\move(152.984,112,178,112)\c&H872A90&\shad4\an7\4a&HFF&}I liked dark, cramped spaces,
 Dialogue: 0,0:00:49.44,0:00:51.82,Lagu OP,,0,0,0,,{\move(1757.547,950,1722.547,950)\blur0.7\c&H00FAF7&\4c&H1A642C&\4a&H00&\an3\bord0}so I'd bury my face deep in my hood
 Dialogue: 0,0:00:51.82,0:00:54.20,Lagu OP,,0,0,0,,{\c&HAF1A0B&\4c&HFFFFFF&\4a&H00&\bord0\blur0.7\an1\move(174,970,200,970)}My eyes resented the heartless world,
-Dialogue: 0,0:00:54.20,0:00:56.36,Lagu OP,,0,0,0,,{\c&H2935F5&\4c&HFFFFFF&\4a&H00&\bord0\blur0.7\an9\move(1767.739,112,1743.739,112)}but yearned for love
+Dialogue: 0,0:00:54.20,0:00:56.36,Lagu OP,,0,0,0,,{\c&H2F3EEA&\4c&HFFFFFF&\4a&H00&\bord0\blur0.7\an9\move(1767.739,112,1743.739,112)}but yearned for love
 Dialogue: 0,0:00:56.36,0:00:56.53,Lagu OP,,0,0,0,,{\blur0.7\4c&HFFFFFF&\4a&H00&\bord2\pos(1743.739,112)\an9\c&HFFFFFF&}but yearned for love
 Dialogue: 1,0:00:56.36,0:00:56.53,Lagu OP,,0,0,0,,{\blur0.7\c&H252ED1&\4c&HFFFFFF&\4a&HFF&\bord0\pos(1743.739,112)\shad4\an9}but yearned for love
 Dialogue: 0,0:00:56.53,0:00:56.70,Lagu OP,,0,0,0,,{\blur0.7\pos(1743.739,112)\4c&HFFFFFF&\4a&H00&\bord2\an9\c&HFFFFFF&}but yearned for love
@@ -9379,7 +9405,6 @@ Dialogue: 0,0:01:06.12,0:01:06.25,Lagu OP,,0,0,0,,{\blur0.7\4c&HE3E9C3&\pos(960.
 Dialogue: 1,0:01:06.12,0:01:06.25,Lagu OP,,0,0,0,,{\bord0\blur0.7\c&H898EFC&\4c&HE3E9C3&\pos(960.000,470.000)\shad4\4a&HFF&}because my face looked better clouded over
 Dialogue: 0,0:01:06.25,0:01:06.96,Lagu OP,,0,0,0,,{\blur0.7\4c&HE3E9C3&\pos(960.000,510.000)\fscx92.15\fscy92.15\shad3.69\bord1.84\c&HFFFFFF&}because my face looked better clouded over
 Dialogue: 1,0:01:06.25,0:01:06.96,Lagu OP,,0,0,0,,{\blur0.7\c&H898EFC&\4c&HE3E9C3&\pos(960.000,510.000)\fscx92.15\fscy92.15\bord0\shad3.69\4a&HFF&}because my face looked better clouded over
-Comment: 0,0:01:06.96,0:01:09.04,Lagu OP,,0,0,0,,{\blur0.7\4c&H0D40D9&\an8\c&HFFFFFF&}I pretended to be afraid of the storm
 Dialogue: 1,0:01:06.96,0:01:07.21,Lagu OP,,0,0,0,,{\bord0\blur0.7\c&HBFF0FB&\4c&H0D40D9&\an8\shad4\4a&HFF&}I pretended to be afraid of the storm
 Dialogue: 1,0:01:07.21,0:01:07.46,Lagu OP,,0,0,0,,{\bord0\blur0.7\c&HBFF0FB&\4c&H0D40D9&\an8\shad4\4a&HFF&\org(1180,66)}I pretended to be afraid of {\frz45}the {\frz0}storm
 Dialogue: 1,0:01:07.46,0:01:07.71,Lagu OP,,0,0,0,,{\bord0\blur0.7\c&HBFF0FB&\4c&H0D40D9&\an8\shad4\4a&HFF&\org(1180,66)}I pretended to be afraid of {\frz90}the {\frz0}storm
@@ -9603,20 +9628,17 @@ Dialogue: 0,0:01:12.76,0:01:13.05,Lagu OP,,0,0,0,,{\blur0.3\an8\fscx18.93\fscy18
 Dialogue: 1,0:01:12.76,0:01:13.05,Lagu OP,,0,0,0,,{\blur0.3\an8\c&H4A49AB&\fscx18.93\fscy18.93\bord0\pos(1750,1058)\shad0.76\4a&HFF&}w{\c&H504AA1&}h{\c&H574C97&}i{\c&H5E4E8D&}l{\c&H655083&}e {\c&H72546F&}w{\c&H795665&}a{\c&H80585B&}i{\c&H875A51&}t{\c&H8E5C47&}i{\c&H8E5F52&}n{\c&H8F625E&}g {\c&H916875&}f{\c&H926B80&}o{\c&H936F8C&}r {\c&H9575A3&}t{\c&H9678AF&}h{\c&H977BBA&}e {\c&H9982D2&}s{\c&H9286D1&}k{\c&H8C8AD1&}y {\c&H7F93D1&}t{\c&H7898D1&}o {\c&H6BA1D0&}b{\c&H65A5D0&}u{\c&H5EAAD0&}r{\c&H58AED0&}s{\c&H52B3D0&}t
 Dialogue: 0,0:01:12.76,0:01:13.05,Lagu OP,,0,0,0,,{\blur0.3\an8\fscx18.93\fscy18.93\shad0.76\bord0.38\pos(1485,1058)\c&HFFFFFF&}while waiting for the sky to burst
 Dialogue: 1,0:01:12.76,0:01:13.05,Lagu OP,,0,0,0,,{=95}{\blur0.3\an8\c&H4A49AB&\fscx18.93\fscy18.93\bord0\pos(1485,1066)\shad0.76\4a&HFF&}w{\c&H504AA1&}h{\c&H574C97&}i{\c&H5E4E8D&}l{\c&H655083&}e {\c&H72546F&}w{\c&H795665&}a{\c&H80585B&}i{\c&H875A51&}t{\c&H8E5C47&}i{\c&H8E5F52&}n{\c&H8F625E&}g {\c&H916875&}f{\c&H926B80&}o{\c&H936F8C&}r {\c&H9575A3&}t{\c&H9678AF&}h{\c&H977BBA&}e {\c&H9982D2&}s{\c&H9286D1&}k{\c&H8C8AD1&}y {\c&H7F93D1&}t{\c&H7898D1&}o {\c&H6BA1D0&}b{\c&H65A5D0&}u{\c&H5EAAD0&}r{\c&H58AED0&}s{\c&H52B3D0&}t
-Comment: 0,0:01:13.05,0:01:13.26,Lagu OP,,0,0,0,,{\an8\c&H4A49AB&\pos(960.000,35)\fscx18.93\fscy18.93\shad0.76\bord0.38}w{*\c&H504AA1&}h{*\c&H574C97&}i{*\c&H5E4E8D&}l{*\c&H655083&}e {*\c&H72546F&}w{*\c&H795665&}a{*\c&H80585B&}i{*\c&H875A51&}t{\c&H8E5C47&}i{*\c&H8E5F52&}n{*\c&H8F625E&}g {*\c&H916875&}f{*\c&H926B80&}o{*\c&H936F8C&}r {*\c&H9575A3&}t{*\c&H9678AF&}h{*\c&H977BBA&}e {\c&H9982D2&}s{*\c&H9286D1&}k{*\c&H8C8AD1&}y {*\c&H7F93D1&}t{*\c&H7898D1&}o {*\c&H6BA1D0&}b{*\c&H65A5D0&}u{*\c&H5EAAD0&}r{*\c&H58AED0&}s{\c&H52B3D0&}t{too much maybe?}
 Dialogue: 0,0:01:13.51,0:01:13.71,Lagu OP,,0,0,0,,{\fad(100,0)\an8\3c&H919191&\c&H919191&\blur5\bord3\shad0\3a&H3E&\1a&HFF&\t(55,100,\1a&H00&)}Strum through the light's distortion
 Dialogue: 1,0:01:13.51,0:01:13.71,Lagu OP,,0,0,0,,{\fad(100,0)\an8\c&HFBFBFB&\blur0.7\bord0\shad0\3a&H3E&\4a&HFF&}Strum through the light's distortion
 Dialogue: 0,0:01:13.71,0:01:13.80,Lagu OP,,0,0,0,,{\fad(0,0)\an8\3c&H919191&\c&H919191&\blur5\bord3\shad0\3a&H3E&\iclip(m 1332.44 19.56 b 1317.33 52.89 1292.44 117.78 1282.67 152.89 l 1625.78 152 1628.44 23.11)}Strum through the light's distortion
 Dialogue: 1,0:01:13.71,0:01:13.80,Lagu OP,,0,0,0,,{\fad(0,0)\an8\c&HFBFBFB&\blur0.7\bord0\shad0\3a&H3E&\iclip(m 1332.44 19.56 b 1317.33 52.89 1292.44 117.78 1282.67 152.89 l 1625.78 152 1628.44 23.11)\4a&HFF&}Strum through the light's distortion
-Comment: 0,0:01:13.71,0:01:13.80,Lagu OP,,0,0,0,,{\an8\3c&HB37D10&\c&HB37D10&\blur5\bord3\shad0\pos(960,40)\clip(m 1332.44 19.56 b 1317.33 52.89 1292.44 117.78 1282.67 152.89 l 1625.78 152 1628.44 23.11)}Stru{\3c&H2B1EB2&\c&H2B1EB2&}m th{\3c&HB37D10&\c&HB37D10&}rough {\3c&H2B1EB2&\c&H2B1EB2&}the {\3c&HB37D10&\c&HB37D10&}light's distorti{\3c&H2B1EB2&\c&H2B1EB2&}on
-Comment: 1,0:01:13.71,0:01:13.80,Lagu OP,,0,0,0,,{\an8\c&HFED115&\blur0.7\bord0\shad0\pos(960,40)\clip(m 1332.44 19.56 b 1317.33 52.89 1292.44 117.78 1282.67 152.89 l 1625.78 152 1628.44 23.11)\4a&HFF&}Stru{\c&H1A10FF&}m th{\c&HFED115&}rough {\c&H1A10FF&}the {\c&HFED115&}light's distorti{\c&H1A10FF&}on
 Dialogue: 0,0:01:14.22,0:01:14.30,Lagu OP,,0,0,0,,{\an5\3c&HB37D10&\c&HB37D10&\blur5\bord3\shad0\pos(960,65)\clip(m 1112.53 18.93 b 1127.33 40.4 1141.73 66.8 1145.07 114.4 l 1983.24 141.94 2006.86 14.29)}S{*\c&H916538&\3c&H916538&}t{*\c&H6F4D61&\3c&H6F4D61&}r{*\c&H4D3589&\3c&H4D3589&}u{\3c&H2B1EB2&\c&H2B1EB2&}m {*\c&H6F4D61&\3c&H6F4D61&}t{*\c&H916538&\3c&H916538&}h{\3c&HB37D10&\c&HB37D10&}r{*\c&H9C6D2B&\3c&H9C6D2B&}o{*\c&H855D46&\3c&H855D46&}u{*\c&H6F4D61&\3c&H6F4D61&}g{*\c&H583D7C&\3c&H583D7C&}h {\3c&H2B1EB2&\c&H2B1EB2&}t{*\c&H4D3589&\3c&H4D3589&}h{*\c&H6F4D61&\3c&H6F4D61&}e {\3c&HB37D10&\c&HB37D10&}l{*\c&HAA771A&\3c&HAA771A&}i{*\c&HA27124&\3c&HA27124&}g{*\c&H996B2E&\3c&H996B2E&}h{*\c&H916538&\3c&H916538&}t{*\c&H885F42&\3c&H885F42&}'{*\c&H80594C&\3c&H80594C&}s {*\c&H6F4D61&\3c&H6F4D61&}d{*\c&H66476B&\3c&H66476B&}i{*\c&H5E4175&\3c&H5E4175&}s{*\c&H553B7F&\3c&H553B7F&}t{*\c&H4D3589&\3c&H4D3589&}o{*\c&H442F93&\3c&H442F93&}r{*\c&H3C299D&\3c&H3C299D&}t{*\c&H3323A7&\3c&H3323A7&}i{\3c&H2B1EB2&\c&H2B1EB2&}on
 Dialogue: 1,0:01:14.22,0:01:14.30,Lagu OP,,0,0,0,,{\an5\c&HFED115&\blur0.7\bord0\shad0\pos(960,65)\4a&HFF&\clip(m 1112.53 18.93 b 1127.33 40.4 1141.73 66.8 1145.07 114.4 l 1983.24 141.94 2006.86 14.29)}Stru{\c&H1A10FF&}m th{\c&HFED115&}rough {\c&H1A10FF&}the {\c&HFED115&}light's distorti{\c&H1A10FF&}on
 Dialogue: 0,0:01:14.30,0:01:17.34,Lagu OP,,0,0,0,,{\an5\3c&HB37D10&\c&HB37D10&\blur5\bord3\shad0\pos(960,65)\t(2897,3040,0.5,\frx90)}S{*\c&H916538&\3c&H916538&}t{*\c&H6F4D61&\3c&H6F4D61&}r{*\c&H4D3589&\3c&H4D3589&}u{\3c&H2B1EB2&\c&H2B1EB2&}m {*\c&H6F4D61&\3c&H6F4D61&}t{*\c&H916538&\3c&H916538&}h{\3c&HB37D10&\c&HB37D10&}r{*\c&H9C6D2B&\3c&H9C6D2B&}o{*\c&H855D46&\3c&H855D46&}u{*\c&H6F4D61&\3c&H6F4D61&}g{*\c&H583D7C&\3c&H583D7C&}h {\3c&H2B1EB2&\c&H2B1EB2&}t{*\c&H4D3589&\3c&H4D3589&}h{*\c&H6F4D61&\3c&H6F4D61&}e {\3c&HB37D10&\c&HB37D10&}l{*\c&HAA771A&\3c&HAA771A&}i{*\c&HA27124&\3c&HA27124&}g{*\c&H996B2E&\3c&H996B2E&}h{*\c&H916538&\3c&H916538&}t{*\c&H885F42&\3c&H885F42&}'{*\c&H80594C&\3c&H80594C&}s {*\c&H6F4D61&\3c&H6F4D61&}d{*\c&H66476B&\3c&H66476B&}i{*\c&H5E4175&\3c&H5E4175&}s{*\c&H553B7F&\3c&H553B7F&}t{*\c&H4D3589&\3c&H4D3589&}o{*\c&H442F93&\3c&H442F93&}r{*\c&H3C299D&\3c&H3C299D&}t{*\c&H3323A7&\3c&H3323A7&}i{\3c&H2B1EB2&\c&H2B1EB2&}on
 Dialogue: 1,0:01:14.30,0:01:17.34,Lagu OP,,0,0,0,,{\an5\c&HFED115&\blur0.7\bord0\shad0\pos(960,65)\t(2897,3040,0.5,\frx90)\4a&HFF&}Stru{\c&H1A10FF&}m th{\c&HFED115&}rough {\c&H1A10FF&}the {\c&HFED115&}light's distorti{\c&H1A10FF&}on
 Dialogue: 0,0:01:17.34,0:01:18.26,Lagu OP,,0,0,0,,{\an5\3c&H050209&\c&H050209&\blur5\bord3\shad0\pos(960,65)\frx270\t(0,149,0.5,\frx360)}Strum through the light's distortion
 Dialogue: 1,0:01:17.34,0:01:18.26,Lagu OP,,0,0,0,,{\an5\c&H835ABD&\blur0.7\bord0\shad0\pos(960,65)\frx270\t(0,149,0.5,\frx360)\4a&HFF&}Strum through the light's distortion
-Dialogue: 0,0:01:18.26,0:01:19.39,Lagu OP,,0,0,0,,{\blur0.7\an8\3c&HA792D7&\c&HFFFFFF&\pos(960,40)\4c&HA792D7&}Strum through the light's distortion
+Dialogue: 0,0:01:18.26,0:01:19.39,Lagu OP,,0,0,0,,{\blur0.7\an8\3c&H9473B7&\c&HFFFFFF&\bord3\shad3\pos(960,40)\4c&HA792D7&}Strum through the light's distortion
 Dialogue: 1,0:01:18.26,0:01:19.39,Lagu OP,,0,0,0,,{\bord0\blur0.7\an8\c&HFFFFFF&\pos(960,40)\4c&HA792D7&\shad4\4a&HFF&}Strum through the light's distortion
 Dialogue: 0,0:01:19.39,0:01:19.80,Lagu OP,,0,0,0,,{\an8\bord0\c&HCAC8E6&\4c&H343232&\blur0.7}I want to make thunder roar
 Dialogue: 0,0:01:19.80,0:01:19.89,Lagu OP,,0,0,0,,{\an8\bord0\c&HCAC8E6&\4c&H343232&\iclip(m 1159 99 l 1226 38 1316 48 1199 146)\blur0.7}I want to make thunder roar
@@ -9868,8 +9890,6 @@ Dialogue: 0,0:01:49.79,0:01:50.92,Lagu OP,,0,0,0,,{\blur0.7\an8\pos(960,40)\3c&H
 Dialogue: 1,0:01:49.79,0:01:50.92,Lagu OP,,0,0,0,,{\bord0\blur0.7\an8\pos(960,40)\c&HFFFFFF&\4c&H000000&\shad4\4a&HFF&}What can I do?
 Dialogue: 0,0:01:50.92,0:01:54.05,Lagu OP,,0,0,0,,{=85}{\clip()\t(19,3105,\clip())\fscx100\t(19,3105,\fscx94.45)\fscy100\t(19,3105,\fscy94.45)\bord2\t(19,3105,\bord1.89)\shad4\t(19,3105,\shad3.78)\alpha&H00&\blur0.7\t(19,3105,\blur0.66)\an8\move(960,40,960.06,66.69,19,3105)\3c&H000000&\c&H000000&\4c&H000000&}My savage nature is beyond wild
 Dialogue: 1,0:01:50.92,0:01:54.05,Lagu OP,,0,0,0,,{=84}{\clip()\t(19,3105,\clip())\fscx100\t(19,3105,\fscx94.45)\fscy100\t(19,3105,\fscy94.45)\alpha&H00&\bord0\t(19,3105,\bord0)\blur0.7\t(19,3105,\blur0.66)\an8\move(960,40,960.06,66.69,19,3105)\c&HFFFFFF&\4c&H000000&\shad4\t(19,3105,\shad3.78)\4a&HFF&}My savage nature is beyond wild
-Dialogue: 0,0:02:03.06,0:02:03.97,Lagu OP,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0}m -390 -178 l 396 -178 396 178 -390 178
-Dialogue: 1,0:02:03.06,0:02:03.97,Lagu OP,,0,0,0,,{=84}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang!?\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
 Comment: 0,0:22:05.01,0:22:08.01,Lagu ED,,0,0,0,sync,{edsync}
 Dialogue: 0,0:22:14.35,0:22:14.69,Lagu ED,,0,0,0,,{\an9\c&H334C75&\4c&HC59AF2&\fsp-1\blur0.5\3c&HFFFFFF&\bord15\shad0\pos(1840,70)\blur0.5}The tune that plays when my loneliness
 Dialogue: 0,0:22:14.69,0:22:15.02,Lagu ED,,0,0,0,,{\an5\c&HFFFFFF&\4c&HC59AF2&\fsp-1\blur0.5\3c&HFFFFFF&\bord13.02\shad0\pos(1477,92)\blur0.5}The tune that plays when my loneliness
@@ -9943,7 +9963,6 @@ Dialogue: 0,0:22:36.17,0:22:36.21,Lagu ED,,0,0,0,shake,{\fsp-1\c&HFFFFFF&\4c&H3C
 Dialogue: 0,0:22:36.21,0:22:36.25,Lagu ED,,0,0,0,shake,{\fsp-1\c&HFFFFFF&\4c&H3CA6F1&\an1\shad0\bord12.96\blur0.5\pos(79.34,1008.08)\3c&HFFFFFF&}To create a solid pulse
 Dialogue: 0,0:22:36.25,0:22:36.29,Lagu ED,,0,0,0,shake,{\fsp-1\c&HFFFFFF&\4c&H3CA6F1&\an1\shad0\bord12.96\blur0.5\pos(78.34,1008.52)\3c&HFFFFFF&}To create a solid pulse
 Dialogue: 2,0:22:33.41,0:22:36.29,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H3CA6F1&\an1\blur0.5\pos(80,1010)}To create a solid pulse
-Comment: 0,0:22:36.29,0:22:38.84,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&HF2C07C&\bord15\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
 Dialogue: 0,0:22:36.29,0:22:36.54,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord17.44\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
 Dialogue: 0,0:22:36.54,0:22:36.79,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord13.8\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
 Dialogue: 0,0:22:36.79,0:22:37.04,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&HF2C07C&\bord14.72\shad0\an9\pos(1840,70)\blur0.5\3c&HFFFFFF&}Someone, please remove the distortion on my heart
@@ -10005,8 +10024,8 @@ Dialogue: 0,0:22:46.18,0:22:46.26,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\p
 Dialogue: 0,0:22:46.26,0:22:46.34,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.96,1010.27)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
 Dialogue: 0,0:22:46.34,0:22:46.43,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.18,1010.69)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
 Dialogue: 0,0:22:46.43,0:22:46.47,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.76,1010.68)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
-Dialogue: 0,0:22:46.47,0:22:46.55,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord15.13\shad0\3c&HFFFFFF&}But it's the kind of night
-Dialogue: 0,0:22:46.55,0:22:47.01,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord16.98\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.47,0:22:46.55,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord14.13\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.55,0:22:47.01,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord10.98\shad0\3c&HFFFFFF&}But it's the kind of night
 Dialogue: 4,0:22:44.55,0:22:47.01,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}But it's the kind of night
 Dialogue: 0,0:22:47.01,0:22:47.09,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord15\shad0\3c&HFFFFFF&}when I hope someone will
 Dialogue: 0,0:22:47.01,0:22:47.09,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}when I hope someone will
@@ -10053,6 +10072,4 @@ Video File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E9
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 381
-Active Line: 385
-Video Position: 26376
+Video Position: 34045
