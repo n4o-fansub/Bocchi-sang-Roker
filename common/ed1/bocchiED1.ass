@@ -12,9 +12,9 @@ Video File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premux [0
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 156
-Active Line: 160
-Video Position: 33305
+Scroll Position: 126
+Active Line: 135
+Video Position: 32915
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -157,8 +157,8 @@ Dialogue: 0,0:22:46.14,0:22:46.22,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\p
 Dialogue: 0,0:22:46.22,0:22:46.30,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.96,1010.27)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
 Dialogue: 0,0:22:46.30,0:22:46.39,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(80.18,1010.69)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
 Dialogue: 0,0:22:46.39,0:22:46.43,Lagu ED,,0,0,0,shake,{\fsp-1\4c&H5055F2&\an1\pos(79.76,1010.68)\blur0.5\bord14.73\shad0\3c&HFFFFFF&}But it's the kind of night
-Dialogue: 0,0:22:46.43,0:22:46.51,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord15.13\shad0\3c&HFFFFFF&}But it's the kind of night
-Dialogue: 0,0:22:46.51,0:22:46.97,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord16.98\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.43,0:22:46.51,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord14.13\shad0\3c&HFFFFFF&}But it's the kind of night
+Dialogue: 0,0:22:46.51,0:22:46.97,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord10.98\shad0\3c&HFFFFFF&}But it's the kind of night
 Dialogue: 4,0:22:44.51,0:22:46.97,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}But it's the kind of night
 Dialogue: 0,0:22:46.97,0:22:47.05,Lagu ED,,0,0,0,,{\fsp-1\c&HFFFFFF&\4c&H5055F2&\an1\pos(80,1010)\blur0.5\bord15\shad0\3c&HFFFFFF&}when I hope someone will
 Dialogue: 0,0:22:46.97,0:22:47.05,Lagu ED,,0,0,0,,{\fsp-1\c&H334C75&\4c&H5055F2&\an1\blur0.5}when I hope someone will
