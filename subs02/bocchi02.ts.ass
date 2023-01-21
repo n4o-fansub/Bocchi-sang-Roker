@@ -17,8 +17,6 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 2
-Video Position: 816
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,11 +24,6 @@ Style: riasan ampas,Arial,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,chapter,0,0,0,chapter,{Prolog}
-Comment: 0,0:00:34.01,0:00:34.06,riasan ampas,chapter,0,0,0,chapter,{Lagu Pembuka}
-Comment: 0,0:02:03.98,0:02:04.03,riasan ampas,chapter,0,0,0,chapter,{Cerita}
-Comment: 0,0:22:05.01,0:22:05.05,riasan ampas,chapter,0,0,0,chapter,{Lagu Penutup}
-Comment: 0,0:23:35.02,0:23:35.06,riasan ampas,chapter,0,0,0,chapter,{Selanjutnya!}
 Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,HIJAU: Obrolan Kuota
 Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,BIRU: Obrolan Sekolah
 Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,obrolan,0,0,0,,MERAH: Obrolan mengenai Konser

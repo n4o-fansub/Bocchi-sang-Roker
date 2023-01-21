@@ -22,9 +22,7 @@ Video File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E9
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 381
-Active Line: 385
-Video Position: 26376
+Video Position: 34045
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,10 +31,15 @@ Style: Overlap,Gandhi Sans,74,&H00FFFFFF,&H00000000,&H00651018,&H96000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.02,riasan ampas,chapter,0,0,0,chapter,{Prolog}
+Comment: 0,0:00:34.01,0:00:34.06,riasan ampas,chapter,0,0,0,chapter,{Lagu Pembuka}
+Comment: 0,0:02:03.98,0:02:04.03,riasan ampas,chapter,0,0,0,chapter,{Cerita}
+Comment: 0,0:22:05.01,0:22:05.05,riasan ampas,chapter,0,0,0,chapter,{Lagu Penutup}
+Comment: 0,0:23:35.02,0:23:35.06,riasan ampas,chapter,0,0,0,chapter,{Selanjutnya!}
 Dialogue: 0,0:00:27.36,0:00:28.70,Main,Hitori,0,0,0,,20 menit ....
-Dialogue: 0,0:00:28.70,0:00:30.01,Main,,0,0,0,,20 menit lagi ....
+Dialogue: 0,0:00:28.70,0:00:30.01,Main,Hitori,0,0,0,,20 menit lagi ....
 Dialogue: 0,0:00:30.24,0:00:31.59,Main,Hitori,0,0,0,,20 menit ....
-Dialogue: 0,0:00:31.59,0:00:32.94,Main,,0,0,0,,20 menit lagi ....
+Dialogue: 0,0:00:31.59,0:00:32.94,Main,Hitori,0,0,0,,20 menit lagi ....
 Dialogue: 0,0:00:32.94,0:00:34.01,Main,Hitori,0,0,0,,20 menit lagi.
 Dialogue: 0,0:02:11.01,0:02:12.82,Main,Hitori,0,0,0,,{\i1}Kemarin, ada pesan dari Nijika.
 Dialogue: 0,0:02:13.22,0:02:16.60,Main,Nijika,0,0,0,,{\i1}Entar kita ngobrolin buat\Nband ke depannya, yuk!
@@ -75,17 +78,17 @@ Dialogue: 0,0:03:37.85,0:03:39.32,Main,Nijika,0,0,0,,Obrolan sekolah!
 Dialogue: 0,0:03:39.60,0:03:41.38,Main,Nijika,0,0,0,,Kalau disingkat jadi Olan-kolah!
 Dialogue: 0,0:03:41.38,0:03:42.32,Main,Ryo,0,0,0,,Ya, silakan!
 Dialogue: 0,0:03:44.16,0:03:45.29,Main,Hitori,0,0,0,,Eng ....
-Dialogue: 0,0:03:45.29,0:03:49.00,Main,,0,0,0,,Ah ... omong-omong,\Nkalian satu sekolah, kan?
+Dialogue: 0,0:03:45.29,0:03:49.00,Main,Hitori,0,0,0,,Ah ... omong-omong,\Nkalian satu sekolah, kan?
 Dialogue: 0,0:03:49.00,0:03:50.80,Main,Nijika,0,0,0,,Yap! SMA Shima!
 Dialogue: 0,0:03:50.80,0:03:52.96,Main,Ryo,0,0,0,,Kami masuk ke sana\Nkarena dekat dari rumah.
 Dialogue: 0,0:03:52.96,0:03:55.59,Main,Hitori,0,0,0,,Jadi kalian tinggal\Ndi Shimo-Kitazawa, ya?
 Dialogue: 0,0:03:55.59,0:03:58.25,Main,Nijika,0,0,0,,Lah? Bocchi dari SMA Shuka, kan?
 Dialogue: 0,0:03:58.25,0:04:00.21,Main,Nijika,0,0,0,,Emang rumahmu enggak\Ndi sekitaran sini?
 Dialogue: 0,0:04:00.21,0:04:01.22,Main,Hitori,0,0,0,,Ah, enggak.
-Dialogue: 0,0:04:01.22,0:04:03.91,Main,,0,0,0,,Aku di luar prefektur,\Ndua jam bolak-balik.
+Dialogue: 0,0:04:01.22,0:04:03.91,Main,Hitori,0,0,0,,Aku di luar prefektur,\Ndua jam bolak-balik.
 Dialogue: 0,0:04:03.91,0:04:04.68,Main,Ryo,0,0,0,,Dua jam?!
 Dialogue: 0,0:04:04.68,0:04:05.43,Main,Nijika,0,0,0,,'Napa?!
-Dialogue: 0,0:04:05.84,0:04:09.84,Main,Hitori,0,0,0,,{\an8}Aku ingin masuk SMA di mana\Ntidak ada orang yang tahu masa laluku.
+Dialogue: 0,0:04:05.84,0:04:09.84,Main,Hitori,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Aku ingin masuk SMA di mana\Ntidak ada orang yang tahu masa laluku.
 Dialogue: 0,0:04:09.84,0:04:11.60,Main,Nijika,0,0,0,,{\an8}Sip! Olah-kolahnya udahan dulu!
 Dialogue: 0,0:04:11.60,0:04:13.49,Main,Hitori,0,0,0,,Ma-Maaf ....
 Dialogue: 0,0:04:13.49,0:04:16.55,Main,Hitori,0,0,0,,Aku sering menyendiri saat di sekolah,
@@ -103,7 +106,12 @@ Dialogue: 0,0:04:44.72,0:04:47.43,Main,Hitori,0,0,0,,{\i1}Kecemasan sosial seper
 Dialogue: 0,0:04:47.86,0:04:55.15,Main,Hitori,0,0,0,,{\i1}Jarak antara sendiri dan penyendiri\Nterlalu jauh untuk ditempuh!
 Dialogue: 0,0:04:55.47,0:04:58.03,Main,Hitori,0,0,0,,{\i1}Aku nyaris saja masuk perangkap.
 Dialogue: 0,0:04:58.03,0:05:00.07,Main,Nijika,0,0,0,,Bocchi, coba kita nikmati\Nobrolannya dulu, yuk!
-Dialogue: 0,0:05:02.94,0:05:05.57,Main,Nijika,0,0,0,,Selanjutnya, obrolan musik favorit!
+Dialogue: 0,0:05:02.74,0:05:02.78,Main,Nijika,0,0,0,,{\clip(m 1320.5 950.19 l 1312.81 984.03 1320.5 989.56 1327.57 997.56 1328.5 1004.33 1611.79 1044.32 1595.49 908.05 1398.63 893.9)}Selanjutnya, obrolan musik favorit!
+Dialogue: 0,0:05:02.78,0:05:02.82,Main,Nijika,0,0,0,,{\clip(m 1111.34 942.5 l 1102.72 984.64 b 1115.41 994.48 1122.33 997.56 1114.1 1020.32 l 1274.67 1020.63 1453.38 1019.71 1450.61 916.05 1434.31 889.29 1162.09 917.89)}Selanjutnya, obrolan musik favorit!
+Dialogue: 0,0:05:02.82,0:05:02.87,Main,Nijika,0,0,0,,{\clip(m 925.55 948.35 b 922.86 961.5 917.78 986.57 913.55 998.48 l 913.86 1010.48 1129.18 1076.31 1238.99 1039.7 1502.6 1032.63 1569.34 956.96 1578.57 913.28 1148.86 889.9 957.85 896.67)}Selanjutnya, obrolan musik favorit!
+Dialogue: 0,0:05:02.87,0:05:02.91,Main,Nijika,0,0,0,,{\iclip(m 714.54 949.88 l 709.62 973.26 702.24 998.79 703.16 1005.56 -0.92 1054.78 63.67 933.89 561.05 883.13 760.99 892.36)}Selanjutnya, obrolan musik favorit!
+Dialogue: 0,0:05:02.91,0:05:02.95,Main,Nijika,0,0,0,,{\iclip(m 490.92 998.18 l 499.53 968.95 505.99 936.35 434.63 932.66 437.71 1015.1)}Selanjutnya, obrolan musik favorit!
+Dialogue: 0,0:05:02.95,0:05:05.57,Main,Nijika,0,0,0,,Selanjutnya, obrolan musik favorit!
 Dialogue: 0,0:05:05.57,0:05:07.03,Main,Nijika,0,0,0,,Kalau disingkat ....
 Dialogue: 0,0:05:07.03,0:05:08.24,Main,Ryo,0,0,0,,Omufavo!
 Dialogue: 0,0:05:08.24,0:05:09.66,Main,Hitori,0,0,0,,O-Omufavo ....
@@ -114,7 +122,7 @@ Dialogue: 0,0:05:18.26,0:05:19.71,Overlap,Nijika,0,0,0,,{\an8}Jangan ngibul, heh
 Dialogue: 0,0:05:19.71,0:05:20.80,Main,Ryo,0,0,0,,Beneran, tahu!
 Dialogue: 0,0:05:20.80,0:05:21.84,Main,Nijika,0,0,0,,Kalau Bocchi?
 Dialogue: 0,0:05:21.84,0:05:23.96,Main,Hitori,0,0,0,,Ah, anu ....
-Dialogue: 0,0:05:23.96,0:05:28.94,Main,Hitori,0,0,0,,Aku suka semua lagu yang tidak\Nmemicu {\i1}kompleks masa muda{\i0}.
+Dialogue: 0,0:05:23.96,0:05:28.94,Main,Hitori,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Aku suka semua lagu yang tidak\Nmemicu {\i1}kompleks masa muda{\i0}.
 Dialogue: 0,0:05:28.94,0:05:31.54,Main,Nijika,0,0,0,,Hm? {\i1}Kompleks masa muda{\i0}?
 Dialogue: 0,0:05:31.54,0:05:33.10,Main,Guitar Man,0,0,0,,Aku hadir!
 Dialogue: 0,0:05:33.35,0:05:36.48,Main,Guitar Man,0,0,0,,Lagu yang memicu {\i1}kompleks\Nmasa muda{\i0} Hitori yaitu ...
@@ -123,7 +131,7 @@ Dialogue: 0,0:05:38.96,0:05:44.02,Main,Guitar Man,0,0,0,,musim panas, laut biru,
 Dialogue: 0,0:05:44.02,0:05:48.99,Main,Guitar Man,0,0,0,,Pokoknya, segala hal yang jauh di luar\Npengalaman hidup sekolahnya Hitori.
 Dialogue: 0,0:05:48.99,0:05:51.97,Main,Hitori,0,0,0,,{\i1}Liriknya membuat hatiku makin suram.
 Dialogue: 0,0:05:49.80,0:05:51.30,Overlap,Nijika,0,0,0,,{\an8}Oi ....
-Dialogue: 0,0:05:53.21,0:05:54.79,Overlap,,0,0,0,,{\an8}Bocchi?
+Dialogue: 0,0:05:53.21,0:05:54.79,Overlap,Nijika,0,0,0,,{\an8}Bocchi?
 Dialogue: 0,0:05:51.97,0:05:52.68,Main,Guitar Man,0,0,0,,Sebaliknya,
 Dialogue: 0,0:05:52.68,0:05:56.95,Main,Guitar Man,0,0,0,,kamu suka band yang lagunya tentang\Nkesuraman semasa sekolah, kan?
 Dialogue: 0,0:05:55.53,0:05:56.95,Overlap,Nijika,0,0,0,,{\an8}Oi!
@@ -131,11 +139,14 @@ Dialogue: 0,0:05:56.95,0:05:58.32,Main,Hitori,0,0,0,,Betul banget!
 Dialogue: 0,0:05:58.32,0:06:03.36,Main,Hitori,0,0,0,,Tapi, saat aku tahu kalau band yang\Nkusuka sangat populer di SMA ...
 Dialogue: 0,0:06:03.36,0:06:07.47,Main,Hitori,0,0,0,,... sesaat aku mendadak merasa\Ntidak mengenali mereka!
 Dialogue: 0,0:06:06.13,0:06:08.70,Overlap,Nijika,0,0,0,,{\an8}Oi, Bocchi ....
-Dialogue: 0,0:06:08.70,0:06:11.02,Overlap,,0,0,0,,{\an8}Jangan asyik di duniamu sendiri, dong!
+Dialogue: 0,0:06:08.70,0:06:11.02,Overlap,Nijika,0,0,0,,{\an8}Jangan asyik di duniamu sendiri, dong!
 Dialogue: 0,0:06:10.45,0:06:13.83,Main,Hitori,0,0,0,,Rok sebagai musik begitu bergema\Ndi hati para kaum minoritas.
 Dialogue: 0,0:06:13.83,0:06:16.08,Main,Hitori,0,0,0,,Rok tak berarti bila dinyanyikan\Noleh para pemenang kehidupan.
 Dialogue: 0,0:06:16.08,0:06:18.18,Main,Nijika,0,0,0,,Kita kuatkan tali silaturahmi, dong!
-Dialogue: 0,0:06:18.18,0:06:19.76,Main,Ryo,0,0,0,,Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 0,0:06:18.18,0:06:19.90,Main,Ryo,0,0,0,,Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 0,0:06:19.90,0:06:19.94,Main,Ryo,0,0,0,,{\clip(m 1221.02 940.29 l 1223.21 967.45 1231.53 999.85 1230.22 1007.3 1228.03 1033.58 592.99 1039.71 621.02 910.07 747.15 862.77 1260.88 851.39)}Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 0,0:06:19.94,0:06:19.98,Main,Ryo,0,0,0,,{\clip(m 1020 999.42 l 1014.74 981.9 1011.68 956.5 1008.61 928.03 1008.18 918.39 1039.27 910.07 1033.58 882.92 1034.01 855.77 937.23 806.72 594.74 836.06 575.48 1011.24 824.23 1052.85 1014.74 1052.41)}Talinya ada,\Nsilaturahminya enggak.
+Dialogue: 0,0:06:19.98,0:06:20.03,Main,Ryo,0,0,0,,{\clip(m 774.74 998.1 l 772.55 988.47 765.99 981.46 758.1 957.37 757.23 952.99 751.97 938.1 750.66 932.85 753.28 928.47 b 765.77 917.96 796.42 907.88 813.72 905.69 808.34 892.82 806.25 867.92 805.84 855.33 l 672.81 818.96 532.76 1003.36 669.97 1049.72)}Talinya ada,\Nsilaturahminya enggak.
 Dialogue: 0,0:06:20.64,0:06:21.73,Main,Nijika,0,0,0,,Eng ....
 Dialogue: 0,0:06:22.22,0:06:24.24,Main,Nijika,0,0,0,,Konser perdana kita\Nhanya instrumental saja.
 Dialogue: 0,0:06:24.24,0:06:26.20,Main,Nijika,0,0,0,,Tapi, konser berikutnya\Naku ingin ada vokalis.
@@ -174,7 +185,7 @@ Dialogue: 0,0:07:46.43,0:07:49.44,Main,Nijika,0,0,0,,Di mana rumah konser member
 Dialogue: 0,0:07:49.44,0:07:51.65,Main,Nijika,0,0,0,,supaya banyak orang\Nyang datang menonton.
 Dialogue: 0,0:07:51.65,0:07:52.85,Main,Club-kun,0,0,0,,Kuotanya 10 tiket!
 Dialogue: 0,0:07:59.31,0:08:00.71,Main,Nijika,0,0,0,,Setiap tiket yang terjual lebih\Ndari kuota yang disediakan,
-Dialogue: 0,0:08:00.71,0:08:03.59,Main,,0,0,0,,hasilnya dibagi dua dengan band tersebut.
+Dialogue: 0,0:08:00.71,0:08:03.59,Main,Nijika,0,0,0,,hasilnya dibagi dua dengan band tersebut.
 Dialogue: 0,0:08:08.40,0:08:10.56,Main,Nijika,0,0,0,,Tapi kalau band-nya\Ngagal memenuhi kuota,
 Dialogue: 0,0:08:10.56,0:08:13.76,Main,Nijika,0,0,0,,mereka harus membayar\Nsisanya dengan uang sendiri.
 Dialogue: 0,0:08:13.76,0:08:16.18,Main,Ryo,0,0,0,,Jadi, sebelum kamu terkenal,\Nkamu harus menguras uang.
@@ -208,21 +219,21 @@ Dialogue: 0,0:09:18.67,0:09:19.96,Main,Nijika,0,0,0,,Jangan diambil!
 Dialogue: 0,0:09:19.96,0:09:22.54,Main,Nijika,0,0,0,,Kami tidak mungkin\Nmemakai uang sepenting ini!
 Dialogue: 0,0:09:24.51,0:09:25.20,Main,Hitori,0,0,0,,Tapi ....
 Dialogue: 0,0:09:25.20,0:09:26.72,Main,Hitori,0,0,0,,{\i1}Aku gak mau bekerja!
-Dialogue: 0,0:09:26.72,0:09:28.04,Main,Hitori,0,0,0,,{\i1}Soalnya ....
+Dialogue: 0,0:09:26.72,0:09:28.04,Main,Hitori,0,0,0,,{\fad(0,640)\i1}Soalnya ....
 Dialogue: 0,0:09:29.86,0:09:31.09,Main,Hitori,0,0,0,,Se-Selamat datang.
-Dialogue: 0,0:09:31.09,0:09:33.55,Main,,0,0,0,,Pe-Perlu saya hangatkan makanannya?
+Dialogue: 0,0:09:31.09,0:09:33.55,Main,Hitori,0,0,0,,Pe-Perlu saya hangatkan makanannya?
 Dialogue: 0,0:09:31.73,0:09:33.55,Main,Hitori,0,0,0,,{\an8\i1}Pasti bakalan begitu.
 Dialogue: 0,0:09:35.36,0:09:36.60,Main,Hitori,0,0,0,,{\fs55\pos(960,772.33)}Se-Selamat datang.
-Dialogue: 0,0:09:36.60,0:09:38.93,Main,,0,0,0,,{\fs55\pos(960,772.33)}Pe-Perlu saya hangatkan makanannya?
+Dialogue: 0,0:09:36.60,0:09:38.93,Main,Hitori,0,0,0,,{\fs55\pos(960,772.33)}Pe-Perlu saya hangatkan makanannya?
 Dialogue: 0,0:09:37.62,0:09:38.93,Main,Hitori,0,0,0,,{\an8\i1}Habis itu ....
 Dialogue: 0,0:09:39.43,0:09:42.19,Main,Prosecutor,0,0,0,,{\an8}Atas tuduhan telah\Nmenakuti pengunjung toko,
 Dialogue: 0,0:09:42.19,0:09:43.77,Main,Prosecutor,0,0,0,,{\an8}kami tuntut dia hukuman mati!
 Dialogue: 0,0:09:44.00,0:09:46.28,Main,Judge,0,0,0,,Baiklah, keputusannya ....
 Dialogue: 0,0:09:46.28,0:09:47.29,Main,Judge,0,0,0,,Hukuman mati!
 Dialogue: 0,0:09:47.69,0:09:50.19,Main,Hitori,0,0,0,,{\i1}Sudah pasti bakalan begini!
-Dialogue: 0,0:09:50.72,0:09:51.53,Main,Nijika,0,0,0,,... cchi.
-Dialogue: 0,0:09:51.53,0:09:52.77,Main,Nijika,0,0,0,,Bocchi.
-Dialogue: 0,0:09:52.77,0:09:53.96,Main,Nijika,0,0,0,,Bocchi!
+Dialogue: 0,0:09:50.72,0:09:51.53,Main,Nijika,0,0,0,,{\fad(175,175)}... cchi.
+Dialogue: 0,0:09:51.53,0:09:52.77,Main,Nijika,0,0,0,,{\fad(175,175)}Bocchi.
+Dialogue: 0,0:09:52.77,0:09:53.96,Main,Nijika,0,0,0,,{\fad(175,0)}Bocchi!
 Dialogue: 0,0:09:55.24,0:09:58.04,Main,Nijika,0,0,0,,Kamu tadi enggak dengar obrolan, kan?
 Dialogue: 0,0:09:58.04,0:09:59.30,Main,Hitori,0,0,0,,Ma-Maaf!
 Dialogue: 0,0:09:59.30,0:10:01.07,Main,Hitori,0,0,0,,Eng, kamu membicarakan apa?
@@ -299,7 +310,7 @@ Dialogue: 0,0:13:17.35,0:13:18.94,Main,Hitori,0,0,0,,{\i1}Dia tipe yang kubenci.
 Dialogue: 0,0:13:18.94,0:13:20.25,Main,Hitori,0,0,0,,{\i1}Nijika, cepat datangnya, dong!
 Dialogue: 0,0:13:20.25,0:13:24.80,Main,Seika,0,0,0,,Lo? Kamu anak yang\Nmemainkan gitar di dalam kotak.
 Dialogue: 0,0:13:24.80,0:13:26.49,Main,Seika,0,0,0,,Seingatku ....
-Dialogue: 0,0:13:26.49,0:13:28.07,Main,,0,0,0,,Mangga Indramayu?
+Dialogue: 0,0:13:26.49,0:13:28.07,Main,Seika,0,0,0,,Mangga Indramayu?
 Dialogue: 0,0:13:28.07,0:13:30.21,Main,Hitori,0,0,0,,{\i1}Nama julukan baru?
 Dialogue: 0,0:13:30.21,0:13:31.88,Main,Hitori,0,0,0,,{\i1}Mbak Manajer,\Naku padamu, deh!
 Dialogue: 0,0:13:31.88,0:13:34.54,Main,Hitori,0,0,0,,A-Aku Mangga Indramayu!
@@ -378,7 +389,9 @@ Dialogue: 0,0:16:23.65,0:16:26.29,Main,Hitori,0,0,0,,{\i1}"Terima kasih atas roy
 Dialogue: 0,0:16:26.29,0:16:27.28,Main,Hitori,0,0,0,,{\i1}Bukan!
 Dialogue: 0,0:16:27.28,0:16:29.68,Main,Hitori,0,0,0,,{\i1}Ka-Kasih aku latihan lagi, dong!
 Dialogue: 0,0:16:29.68,0:16:31.80,Main,Hitori,0,0,0,,{\i1}Ti-Tidak! Tunggu dulu!
-Dialogue: 0,0:16:33.37,0:16:34.80,Main,Nijika,0,0,0,,Malah ditutup!
+Dialogue: 0,0:16:33.37,0:16:34.85,Main,Nijika,0,0,0,,Malah ditutup!
+Dialogue: 0,0:16:34.85,0:16:34.89,Main,Nijika,0,0,0,,{\clip(m 1009.55 941.92 b 1010.84 955.59 1014.77 981.91 1020.15 995.24 1019.98 1004.13 1021.69 1019.85 1023.57 1028.05 l 719.5 1012.04 714.71 936.63 973.33 894.74)}Malah ditutup!
+Dialogue: 0,0:16:34.89,0:16:34.93,Main,Nijika,0,0,0,,{\clip(m 753.58 946.61 b 760.02 965.93 773.53 991.28 782.67 1006.45 l 751.97 1042.6 667.65 1011.27)}Malah ditutup!
 Dialogue: 0,0:16:35.57,0:16:37.30,Main,Customer A,0,0,0,,Permisi! Beli satu kola!
 Dialogue: 0,0:16:37.30,0:16:38.49,Main,Nijika,0,0,0,,Baik!
 Dialogue: 0,0:16:38.49,0:16:39.60,Main,Nijika,0,0,0,,Bocchi, kolanya satu!
@@ -406,7 +419,16 @@ Dialogue: 0,0:17:24.60,0:17:26.88,Main,Ryo,0,0,0,,Manajer menggantikanku.
 Dialogue: 0,0:17:26.88,0:17:29.12,Main,Ryo,0,0,0,,Semua band hari ini sangat populer,
 Dialogue: 0,0:17:29.12,0:17:31.02,Main,Ryo,0,0,0,,jadi aku disuruh menonton dan menggali ilmu.
 Dialogue: 0,0:17:31.02,0:17:33.11,Main,Nijika,0,0,0,,Tetehku memang begitu ....
-Dialogue: 0,0:17:33.11,0:17:36.36,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 0,0:17:33.11,0:17:33.57,Main,Nijika,0,0,0,,Dia tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 0,0:17:33.57,0:17:34.28,Main,Nijika,0,0,0,,Dia tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 0,0:17:34.28,0:17:34.49,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 0,0:17:34.49,0:17:34.70,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 0,0:17:34.70,0:17:34.87,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun-tsun ...
+Dialogue: 0,0:17:34.87,0:17:35.12,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun-tsun ...
+Dialogue: 0,0:17:35.12,0:17:35.33,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun-tsun ...
+Dialogue: 0,0:17:35.33,0:17:35.53,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun-tsun ...
+Dialogue: 0,0:17:35.53,0:17:35.70,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-{\alpha&HFF&}tsun ...
+Dialogue: 0,0:17:35.70,0:17:36.36,Main,Nijika,0,0,0,,Dia tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun-tsun ...
 Dialogue: 0,0:17:36.36,0:17:38.23,Main,Nijika,0,0,0,,... dere. Begitulah.
 Dialogue: 0,0:17:38.23,0:17:39.30,Main,Ryo,0,0,0,,Tsun-nya kebanyakan.
 Dialogue: 0,0:17:39.88,0:17:41.44,Main,Hitori,0,0,0,,Ma-Ma-Maaf.
@@ -421,7 +443,7 @@ Dialogue: 0,0:17:57.93,0:18:03.85,Main,Hitori,0,0,0,,Ke-Kenapa kamu sebaik itu\N
 Dialogue: 0,0:18:06.74,0:18:08.15,Main,Nijika,0,0,0,,Asal kamu tahu ....
 Dialogue: 0,0:18:08.43,0:18:10.88,Main,Nijika,0,0,0,,Aku sangat menyukai rumah konser ini.
 Dialogue: 0,0:18:10.88,0:18:14.41,Main,Nijika,0,0,0,,Tapi, tempat staf rumah konser\Nberinteraksi dengan penonton
-Dialogue: 0,0:18:14.41,0:18:17.40,Main,,0,0,0,,hanya di sini dan resepsionis saja,
+Dialogue: 0,0:18:14.41,0:18:17.40,Main,Nijika,0,0,0,,hanya di sini dan resepsionis saja,
 Dialogue: 0,0:18:17.40,0:18:21.83,Main,Nijika,0,0,0,,makanya aku selalu ingin berusaha\Nmembuat orang lain juga menyukainya.
 Dialogue: 0,0:18:22.29,0:18:24.21,Main,Hitori,0,0,0,,Ma-Ma-Ma-Maaf.
 Dialogue: 0,0:18:24.21,0:18:26.36,Main,Hitori,0,0,0,,Aku tak becus kerja di tempat\Nseberharga ini bagimu.
@@ -447,7 +469,7 @@ Dialogue: 0,0:19:31.10,0:19:32.40,Main,Customer D,0,0,0,,Permisi!
 Dialogue: 0,0:19:32.40,0:19:33.74,Main,Customer D,0,0,0,,Jus jeruk.
 Dialogue: 0,0:19:33.74,0:19:34.93,Main,Hitori,0,0,0,,Ba-Baik.
 Dialogue: 0,0:19:47.50,0:19:50.21,Main,Hitori,0,0,0,,{\i1}Tatap mata pelanggan sambil tersenyum.
-Dialogue: 0,0:19:50.21,0:19:51.71,Main,,0,0,0,,{\i1}Berinteraksi langsung.
+Dialogue: 0,0:19:50.21,0:19:51.71,Main,Hitori,0,0,0,,{\i1}Berinteraksi langsung.
 Dialogue: 0,0:19:53.27,0:19:54.46,Main,Hitori,0,0,0,,{\i1}Tersenyum!
 Dialogue: 0,0:19:55.44,0:19:57.78,Main,Hitori,0,0,0,,{\i1}Tatap mata pelanggan!
 Dialogue: 0,0:19:57.78,0:19:58.96,Main,Hitori,0,0,0,,{\i1}Berinteraksi!
@@ -462,8 +484,8 @@ Dialogue: 0,0:20:16.50,0:20:17.07,Main,Nijika,0,0,0,,Yap!
 Dialogue: 0,0:20:17.41,0:20:22.45,Main,Nijika,0,0,0,,Berkat dirimu, konser hari ini pasti\N akan menjadi kenangan yang seru.
 Dialogue: 0,0:20:22.45,0:20:25.45,Main,Nijika,0,0,0,,Kamu sudah maju selangkah.
 Dialogue: 0,0:20:27.17,0:20:28.31,Main,Hitori,0,0,0,,Selangkah ....
-Dialogue: 0,0:20:32.20,0:20:33.25,Main,Hitori,0,0,0,,{\i1}Selangkah.
-Dialogue: 0,0:20:37.16,0:20:38.84,Main,Hitori,0,0,0,,{\i1}Selangkah?!
+Dialogue: 0,0:20:32.20,0:20:33.25,Main,Hitori,0,0,175,,{\i1}Selangkah.
+Dialogue: 0,0:20:37.16,0:20:38.84,Main,Hitori,0,0,0,,{\move(960,940,960,1005,0,702)\i1}Selangkah?!
 Dialogue: 0,0:20:38.84,0:20:42.22,Main,Hitori,0,0,0,,{\i1}Padahal aku bermaksud\Nmaju seribu langkah, sih!
 Dialogue: 0,0:20:47.35,0:20:48.99,Main,Seika,0,0,0,,Makasih untuk hari ini, ya.
 Dialogue: 0,0:20:48.99,0:20:50.21,Main,Seika,0,0,0,,Hati-hati di jalan.
