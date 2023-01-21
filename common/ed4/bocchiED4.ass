@@ -16,18 +16,20 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: Interrobang_Bocchi
 Audio File: ../../_old/Bocchi the Rock! - 12 (Amazon Prime CBR 1080p).mkv
 Video File: ../../_old/Bocchi the Rock! - 12 (Amazon Prime CBR 1080p).mkv
 Keyframes File: ../../_old/Bocchi the Rock! - 12 (Amazon Prime CBR 1080p)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 6
-Video Position: 30868
+Scroll Position: 6
+Active Line: 18
+Video Position: 29852
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: riasan ampas,Arial,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Lagu ED4,Quadraat-Bold,56,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,2.4,1.8,7,60,60,50,1
 Style: Lagu ED4 - ROM,Quadraat-Bold,52,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,2.2,1.6,7,60,60,115,1
 Style: Lagu ED4 - Alt,WIX-CookHand Std R,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,70,70,50,1
@@ -35,82 +37,202 @@ Style: Lagu ED4 - Alt - ROM,WIX-CookHand Std R,48,&H00FFFFFF,&H000000FF,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:19:52.25,0:19:55.25,Signs,,0,0,0,sync,{sync - nijika/after sky shot}
-Dialogue: 0,0:20:13.40,0:20:19.61,Lagu ED4,,0,0,0,,{\fad(175,175)}If I could, I'd repaint the world
-Dialogue: 0,0:20:19.82,0:20:25.83,Lagu ED4,,0,0,0,,{\fad(175,175)}Nothing as drastic like getting rid of wars
-Dialogue: 0,0:20:26.18,0:20:31.88,Lagu ED4,,0,0,0,,{\fad(175,175)}But maybe, there's a bit of that too
-Dialogue: 0,0:20:32.56,0:20:39.09,Lagu ED4,,0,0,0,,{\fad(175,175)}Can't be an actor or a movie star
-Dialogue: 0,0:20:39.09,0:20:45.14,Lagu ED4,,0,0,0,,{\fad(175,175)}I can't even laugh naturally in front of you for that matter
-Dialogue: 0,0:20:45.60,0:20:51.65,Lagu ED4,,0,0,0,,{\fad(175,175)}What's there for a guy like me to do?
-Dialogue: 0,0:20:54.94,0:21:22.68,Lagu ED4 - Alt,,0,0,0,bg,{\an7\move(960,50,960,-1000,27091,27740)\p1\c&H000000&}m -960 -50 l 960 -50 960 90 -960 90
-Dialogue: 0,0:20:54.94,0:21:22.68,Lagu ED4 - Alt - ROM,,0,0,0,bg,{\an7\move(960,1000,960,1140,27091,27740)\p1\c&H000000&}m -960 -50 l 960 -50 960 90 -960 90
-Dialogue: 0,0:20:54.94,0:20:56.74,Lagu ED4 - Alt,,0,0,0,,{\blur5\fad(200,0)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\1a&HFF&\3a&H60&\t(155,200,\1a&H00&)}What did I do wrong?
-Dialogue: 1,0:20:54.94,0:20:56.74,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\fad(200,0)\shad0\c&HFFFFFF&\bord0\4a&HFF&}What did I do wrong?
-Dialogue: 0,0:20:56.74,0:20:59.99,Lagu ED4 - Alt,,0,0,0,,{\blur5\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\3a&H60&}Can't even figure that out
-Dialogue: 1,0:20:56.74,0:20:59.99,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\shad0\c&HFFFFFF&\bord0\4a&HFF&}Can't even figure that out
-Dialogue: 0,0:20:59.99,0:21:01.62,Lagu ED4 - Alt,,0,0,0,,{\blur5\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\3a&H60&}Rolling, rolling
-Dialogue: 1,0:20:59.99,0:21:01.62,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\shad0\c&HFFFFFF&\bord0\4a&HFF&}Rolling, rolling
-Dialogue: 0,0:21:01.62,0:21:07.54,Lagu ED4 - Alt,,0,0,0,,{\blur5\fad(0,200)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\3a&H60&\t(5720,5765,\1a&HFF&)}My heart lamenting over what was never mine
-Dialogue: 1,0:21:01.62,0:21:07.54,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\fad(0,200)\shad0\c&HFFFFFF&\bord0\4a&HFF&}My heart lamenting over what was never mine
-Dialogue: 0,0:21:08.12,0:21:11.21,Lagu ED4 - Alt,,0,0,0,,{\blur5\fad(200,0)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\1a&HFF&\3a&H60&\t(155,200,\1a&H00&)}We'll probably continue to
-Dialogue: 1,0:21:08.12,0:21:11.21,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\fad(200,0)\shad0\c&HFFFFFF&\bord0\4a&HFF&}We'll probably continue to
-Dialogue: 0,0:21:11.21,0:21:12.92,Lagu ED4 - Alt,,0,0,0,,{\blur5\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\3a&H60&}Our hearts entangled
-Dialogue: 1,0:21:11.21,0:21:12.92,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\shad0\c&HFFFFFF&\bord0\4a&HFF&}Our hearts entangled
-Dialogue: 0,0:21:12.92,0:21:14.42,Lagu ED4 - Alt,,0,0,0,,{\blur5\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\3a&H60&}Rolling, rolling
-Dialogue: 1,0:21:12.92,0:21:14.42,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\shad0\c&HFFFFFF&\bord0\4a&HFF&}Rolling, rolling
-Dialogue: 0,0:21:14.42,0:21:22.01,Lagu ED4 - Alt,,0,0,0,,{\blur5\fad(0,200)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2\3a&H60&\t(7390,7435,\1a&HFF&)}Start to run across the frozen ground as if we're rolling
-Dialogue: 1,0:21:14.42,0:21:22.01,Lagu ED4 - Alt,,0,0,0,,{\blur0.5\fad(0,200)\shad0\c&HFFFFFF&\bord0\4a&HFF&}Start to run across the frozen ground as if we're rolling
-Dialogue: 0,0:21:51.33,0:21:57.71,Lagu ED4,,0,0,0,,{\fad(200,0)}The small red car
-Dialogue: 0,0:21:57.71,0:22:04.09,Lagu ED4,,0,0,0,,{\fad(0,200)}Takes her away
-Dialogue: 0,0:22:04.39,0:22:07.60,Lagu ED4,,0,0,0,,{\fad(200,0)}Makes a turn at
-Dialogue: 0,0:22:07.60,0:22:10.52,Lagu ED4,,0,0,0,,The far off corner
-Dialogue: 0,0:22:10.52,0:22:13.73,Lagu ED4,,0,0,0,,Disappearing from
-Dialogue: 0,0:22:12.23,0:22:15.23,Lagu ED4,,0,0,0,,{\fad(200,200)\an9}(Disappearing from)
-Dialogue: 0,0:22:13.73,0:22:19.15,Lagu ED4,,0,0,0,,{\fad(0,200)}My vision
-Dialogue: 0,0:22:15.48,0:22:19.15,Lagu ED4,,0,0,0,,{\fad(200,200)\an9}(My vision)
-Dialogue: 0,0:22:20.44,0:22:22.11,Lagu ED4,,0,0,0,,{\fad(200,0)}What was it I lost?
-Dialogue: 0,0:22:22.11,0:22:25.28,Lagu ED4,,0,0,0,,Can't even figure that out
-Dialogue: 0,0:22:25.28,0:22:26.91,Lagu ED4,,0,0,0,,Rolling, rolling
-Dialogue: 0,0:22:26.91,0:22:32.91,Lagu ED4,,0,0,0,,{\fad(0,200)}My heart lamenting over what was never mine
-Dialogue: 0,0:22:33.54,0:22:36.54,Lagu ED4,,0,0,0,,{\fad(200,0)}We'll probably continue to
-Dialogue: 0,0:22:36.54,0:22:38.09,Lagu ED4,,0,0,0,,Our hearts entangled
-Dialogue: 0,0:22:38.09,0:22:39.80,Lagu ED4,,0,0,0,,Rolling, rolling
-Dialogue: 0,0:22:39.80,0:22:47.51,Lagu ED4,,0,0,0,,{\fad(0,300)}Start to run across the frozen ground as if we're rolling
-Dialogue: 0,0:20:13.40,0:20:19.61,Lagu ED4 - ROM,,0,0,0,,{\fad(175,175)}Dekireba sekai wo boku wa nurikaetai
-Dialogue: 0,0:20:19.82,0:20:25.83,Lagu ED4 - ROM,,0,0,0,,{\fad(175,175)}Sensou wo nakusu you na daisoreta koto janai
-Dialogue: 0,0:20:26.18,0:20:31.88,Lagu ED4 - ROM,,0,0,0,,{\fad(175,175)}Dakedo chotto sore mo aru yo na
-Dialogue: 0,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,,{\fad(175,175)}haiyuu ya eiga sutaa ni wa narenai
-Dialogue: 0,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,,{\fad(175,175)}Sore dokoro ka kimi no mae de sae mo jouzu ni waraenai
-Dialogue: 0,0:20:45.60,0:20:51.65,Lagu ED4 - ROM,,0,0,0,,{\fad(175,175)}Sonna boku ni sube wa nai yo na
-Dialogue: 0,0:20:54.94,0:20:56.74,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\fad(200,0)\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\3a&H60&\t(155,200,\1a&H00&)}Nani wo machigatta?
-Dialogue: 1,0:20:54.94,0:20:56.74,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\fad(200,0)\bord0\shad0\c&HFFFFFF&\4a&HFF&}Nani wo machigatta?
-Dialogue: 0,0:20:56.74,0:20:59.99,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\3a&H60&}Sore sae mo wakaranain da
-Dialogue: 1,0:20:56.74,0:20:59.99,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\bord0\shad0\c&HFFFFFF&\4a&HFF&}Sore sae mo wakaranain da
-Dialogue: 0,0:20:59.99,0:21:01.62,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\3a&H60&}Rooringu rooringu
-Dialogue: 1,0:20:59.99,0:21:01.62,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\bord0\shad0\c&HFFFFFF&\4a&HFF&}Rooringu rooringu
-Dialogue: 0,0:21:01.62,0:21:07.54,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\fad(0,200)\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\3a&H60&\t(5720,5765,\1a&HFF&)}Hajime kara mottenai no ni mune ga itanda
-Dialogue: 1,0:21:01.62,0:21:07.54,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\fad(0,200)\bord0\shad0\c&HFFFFFF&\4a&HFF&}Hajime kara mottenai no ni mune ga itanda
-Dialogue: 0,0:21:08.12,0:21:11.21,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\fad(200,0)\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\3a&H60&\t(155,200,\1a&H00&)}Bokura wa kitto kono saki mo
-Dialogue: 1,0:21:08.12,0:21:11.21,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\fad(200,0)\bord0\shad0\c&HFFFFFF&\4a&HFF&}Bokura wa kitto kono saki mo
-Dialogue: 0,0:21:11.21,0:21:12.92,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\3a&H60&}Kokoro karamatte
-Dialogue: 1,0:21:11.21,0:21:12.92,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\bord0\shad0\c&HFFFFFF&\4a&HFF&}Kokoro karamatte
-Dialogue: 0,0:21:12.92,0:21:14.42,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\3a&H60&}Rooringu rooringu
-Dialogue: 1,0:21:12.92,0:21:14.42,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\bord0\shad0\c&HFFFFFF&\4a&HFF&}Rooringu rooringu
-Dialogue: 0,0:21:14.42,0:21:22.01,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur5\fad(0,200)\bord2\shad0\3c&HFFFFFF&\c&HFFFFFF&\3a&H60&\t(7390,7435,\1a&HFF&)}Itetsuku jimen wo korogaru you ni hashiridashita
-Dialogue: 1,0:21:14.42,0:21:22.01,Lagu ED4 - Alt - ROM,,0,0,0,,{\blur0.5\fad(0,200)\bord0\shad0\c&HFFFFFF&\4a&HFF&}Itetsuku jimen wo korogaru you ni hashiridashita
-Dialogue: 0,0:21:51.33,0:21:57.71,Lagu ED4 - ROM,,0,0,0,,{\fad(200,0)}Akai akai chiisana kuruma wa
-Dialogue: 0,0:21:57.71,0:22:04.09,Lagu ED4 - ROM,,0,0,0,,{\fad(0,200)}Kimi wo nosete
-Dialogue: 0,0:22:04.39,0:22:07.60,Lagu ED4 - ROM,,0,0,0,,{\fad(200,0)}Tooku mukou no
-Dialogue: 0,0:22:07.60,0:22:10.52,Lagu ED4 - ROM,,0,0,0,,Kado wo magatte
-Dialogue: 0,0:22:10.52,0:22:13.73,Lagu ED4 - ROM,,0,0,0,,Koko kara wa
-Dialogue: 0,0:22:12.23,0:22:15.23,Lagu ED4 - ROM,,0,0,0,,{\fad(200,200)\an9}(Koko kara wa)
-Dialogue: 0,0:22:13.73,0:22:19.15,Lagu ED4 - ROM,,0,0,0,,{\fad(0,200)}Mienaku natta
-Dialogue: 0,0:22:15.48,0:22:19.15,Lagu ED4 - ROM,,0,0,0,,{\fad(200,200)\an9}(Mienaku natta)
-Dialogue: 0,0:22:20.44,0:22:22.11,Lagu ED4 - ROM,,0,0,0,,{\fad(200,0)}Nani wo nakushita?
-Dialogue: 0,0:22:22.11,0:22:25.28,Lagu ED4 - ROM,,0,0,0,,Sore sae mo wakaranain da
-Dialogue: 0,0:22:25.28,0:22:26.91,Lagu ED4 - ROM,,0,0,0,,Rooringu rooringu
-Dialogue: 0,0:22:26.91,0:22:32.91,Lagu ED4 - ROM,,0,0,0,,{\fad(0,200)}Hajime kara mottenai no ni mune ga itanda
-Dialogue: 0,0:22:33.54,0:22:36.54,Lagu ED4 - ROM,,0,0,0,,{\fad(200,0)}Bokura wa kitto kono saki mo
-Dialogue: 0,0:22:36.54,0:22:38.09,Lagu ED4 - ROM,,0,0,0,,Kokoro karamatte
-Dialogue: 0,0:22:38.09,0:22:39.80,Lagu ED4 - ROM,,0,0,0,,rooringu rooringu
-Dialogue: 0,0:22:39.80,0:22:47.51,Lagu ED4 - ROM,,0,0,0,,{\fad(0,300)}Itetsuku sekai wo korogaru you ni hashiridashita
+Comment: 0,0:21:01.24,0:21:04.24,Lagu ED4,,0,0,0,,{}Made for 0x KaraTemplater and logarrhytmic karaOK{}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4,,0,0,0,code once,ln = _G.require "ln.kara"; ln.init(tenv); function createAlphaTiming(lineDur) ; local fadeIn, fadeOut = tenv.orgline.raw:match("\\fad%((%d+),(%d+)%)"); fadeIn = tonumber(fadeIn or "0"); fadeOut = tonumber(fadeOut or "0"); local timingText = "\\1a&HFF&"; if fadeIn > 0 then timingText = timingText .. "\\t(0," .. fadeIn - 45 .. ",\\1a&H00&)"; end; if fadeOut > 0 then endStart = lineDur - fadeOut; endEnd = endStart + 45; timingText = timingText .. "\\t(" .. endStart .. "," .. endEnd .. ",\\1a&HFF&)"; end; return timingText; end
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4,,0,0,0,code once,blur_text = 0.6; blur_bord = 2.5;
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4,,0,0,0,code once,bluralt_text = 0.5; bluralt_bord = 6; alt_alpha = "50";
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4,,0,0,0,template line,!relayer(1)!{!ln.line.tag("fad")!\blur!blur_bord!!createAlphaTiming($ldur)!!ln.line.tag("an")!}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4,,0,0,0,template line,!relayer(2)!{!ln.line.tag("fad")!\4a&HFF&\bord0\blur!blur_text!!ln.line.tag("an")!}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4,,0,0,0,mixin line actor roll,{!ln.tag.pos(5)!\frx0\t(50,!$ldur/2-100!,\frx-360)\t(!$ldur/2+100!,!$ldur-50!,\frx-720)}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - ROM,,0,0,0,template line,!relayer(1)!{!ln.line.tag("fad")!\blur!blur_bord-0.1!!createAlphaTiming($ldur)!!ln.line.tag("an")!}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - ROM,,0,0,0,template line,!relayer(2)!{!ln.line.tag("fad")!\4a&HFF&\bord0\blur!blur_text-0.05!!ln.line.tag("an")!}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - ROM,,0,0,0,mixin line actor roll,{!ln.tag.pos(5)!\frx0\t(50,!$ldur/2-100!,\frx360)\t(!$ldur/2+100!,!$ldur-50!,\frx720)}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - Alt,,0,0,0,template line,!relayer(1)!{!ln.tag.pos(5)!!ln.line.tag("fad")!\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H!alt_alpha!&\blur!bluralt_bord!!createAlphaTiming($ldur)!!ln.line.tag("an")!\fsp-1}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - Alt,,0,0,0,template line,!relayer(2)!{!ln.tag.pos(5)!!ln.line.tag("fad")!\4a&HFF&\bord0\blur!bluralt_text!!ln.line.tag("an")!\fsp-1}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - Alt,,0,0,0,mixin line actor roll,{\frx0\t(50,!$ldur/2-100!,\frx360)\t(!$ldur/2+100!,!$ldur-50!,\frx720)}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - Alt - ROM,,0,0,0,template line,!relayer(1)!{!ln.tag.pos(5)!!ln.line.tag("fad")!\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H!alt_alpha!&\blur!bluralt_bord!!createAlphaTiming($ldur)!!ln.line.tag("an")!\fsp-1}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - Alt - ROM,,0,0,0,template line,!relayer(2)!{!ln.tag.pos(5)!!ln.line.tag("fad")!\4a&HFF&\bord0\blur!bluralt_text!!ln.line.tag("an")!\fsp-1}
+Comment: 0,0:22:53.02,0:22:56.02,Lagu ED4 - Alt - ROM,,0,0,0,mixin line actor roll,{\frx0\t(50,!$ldur/2-100!,\frx-360)\t(!$ldur/2+100!,!$ldur-50!,\frx-720)}
+Comment: 0,0:19:52.25,0:19:55.25,riasan ampas,,0,0,0,sync,{sync - nijika/after sky shot}
+Dialogue: 0,0:20:54.94,0:21:22.68,riasan ampas,,0,0,0,bg,{\an7\move(960,50,960,-1000,27091,27740)\p1\c&H000000&}m -960 -50 l 960 -50 960 90 -960 90
+Dialogue: 0,0:20:54.94,0:21:22.68,riasan ampas,,0,0,0,bg,{\an7\move(960,1000,960,1140,27091,27740)\p1\c&H000000&}m -960 -50 l 960 -50 960 90 -960 90
+Comment: 0,0:20:13.40,0:20:19.61,Lagu ED4,,0,0,0,karaoke,{\fad(175,175)}If I could, I'd repaint the world
+Comment: 0,0:20:19.82,0:20:25.83,Lagu ED4,,0,0,0,karaoke,{\fad(175,175)}Nothing as drastic like getting rid of wars
+Comment: 0,0:20:26.18,0:20:31.88,Lagu ED4,,0,0,0,karaoke,{\fad(175,175)}But maybe, there's a bit of that too
+Comment: 0,0:20:32.56,0:20:39.09,Lagu ED4,,0,0,0,karaoke,{\fad(175,175)}Can't be an actor or a movie star
+Comment: 0,0:20:39.09,0:20:45.14,Lagu ED4,,0,0,0,karaoke,{\fad(175,175)}I can't even laugh naturally in front of you for that matter
+Comment: 0,0:20:45.60,0:20:51.65,Lagu ED4,,0,0,0,karaoke,{\fad(175,175)}What's there for a guy like me to do?
+Comment: 0,0:20:54.94,0:20:56.74,Lagu ED4 - Alt,,0,0,0,karaoke,{\fad(200,0)}What did I do wrong?
+Comment: 0,0:20:56.74,0:20:59.99,Lagu ED4 - Alt,,0,0,0,karaoke,Can't even figure that out
+Comment: 0,0:20:59.99,0:21:01.62,Lagu ED4 - Alt,roll,0,0,0,karaoke,Rolling, rolling
+Comment: 0,0:21:01.62,0:21:07.54,Lagu ED4 - Alt,,0,0,0,karaoke,{\fad(0,200)}My heart lamenting over what was never mine
+Comment: 0,0:21:08.12,0:21:11.21,Lagu ED4 - Alt,,0,0,0,karaoke,{\fad(200,0)}We'll probably continue to
+Comment: 0,0:21:11.21,0:21:12.92,Lagu ED4 - Alt,,0,0,0,karaoke,Our hearts entangled
+Comment: 0,0:21:12.92,0:21:14.42,Lagu ED4 - Alt,roll,0,0,0,karaoke,Rolling, rolling
+Comment: 0,0:21:14.42,0:21:22.01,Lagu ED4 - Alt,,0,0,0,karaoke,{\fad(0,200)}Start to run across the frozen ground as if we're rolling
+Comment: 0,0:21:51.33,0:21:57.71,Lagu ED4,,0,0,0,karaoke,{\fad(200,0)}The small red car
+Comment: 0,0:21:57.71,0:22:04.09,Lagu ED4,,0,0,0,karaoke,{\fad(0,200)}Takes her away
+Comment: 0,0:22:04.39,0:22:07.60,Lagu ED4,,0,0,0,karaoke,{\fad(200,0)}Makes a turn at
+Comment: 0,0:22:07.60,0:22:10.52,Lagu ED4,,0,0,0,karaoke,The far off corner
+Comment: 0,0:22:10.52,0:22:13.73,Lagu ED4,,0,0,0,karaoke,Disappearing from
+Comment: 0,0:22:12.23,0:22:15.23,Lagu ED4,,0,0,0,karaoke,{\fad(200,200)\an9}(Disappearing from)
+Comment: 0,0:22:13.73,0:22:19.15,Lagu ED4,,0,0,0,karaoke,{\fad(0,200)}My vision
+Comment: 0,0:22:15.48,0:22:19.15,Lagu ED4,,0,0,0,karaoke,{\fad(200,200)\an9}(My vision)
+Comment: 0,0:22:20.44,0:22:22.11,Lagu ED4,,0,0,0,karaoke,{\fad(200,0)}What was it I lost?
+Comment: 0,0:22:22.11,0:22:25.28,Lagu ED4,,0,0,0,karaoke,Can't even figure that out
+Comment: 0,0:22:25.28,0:22:26.91,Lagu ED4,roll,0,0,0,karaoke,Rolling, rolling
+Comment: 0,0:22:26.91,0:22:32.91,Lagu ED4,,0,0,0,karaoke,{\fad(0,200)}My heart lamenting over what was never mine
+Comment: 0,0:22:33.54,0:22:36.54,Lagu ED4,,0,0,0,karaoke,{\fad(200,0)}We'll probably continue to
+Comment: 0,0:22:36.54,0:22:38.09,Lagu ED4,,0,0,0,karaoke,Our hearts entangled
+Comment: 0,0:22:38.09,0:22:39.80,Lagu ED4,roll,0,0,0,karaoke,Rolling, rolling
+Comment: 0,0:22:39.80,0:22:47.51,Lagu ED4,,0,0,0,karaoke,{\fad(0,300)}Start to run across the frozen ground as if we're rolling
+Comment: 0,0:20:13.40,0:20:19.61,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Dekireba sekai wo boku wa nurikaetai
+Comment: 0,0:20:19.82,0:20:25.83,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Sensou wo nakusu you na daisoreta koto janai
+Comment: 0,0:20:26.18,0:20:31.88,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Dakedo chotto sore mo aru yo na
+Comment: 0,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}haiyuu ya eiga sutaa ni wa narenai
+Comment: 0,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Sore dokoro ka kimi no mae de sae mo jouzu ni waraenai
+Comment: 0,0:20:45.60,0:20:51.65,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Sonna boku ni sube wa nai yo na
+Comment: 0,0:20:54.94,0:20:56.74,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(200,0)}Nani wo machigatta?
+Comment: 0,0:20:56.74,0:20:59.99,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,Sore sae mo wakaranain da
+Comment: 0,0:20:59.99,0:21:01.62,Lagu ED4 - Alt - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:21:01.62,0:21:07.54,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(0,200)}Hajime kara mottenai no ni mune ga itanda
+Comment: 0,0:21:08.12,0:21:11.21,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(200,0)}Bokura wa kitto kono saki mo
+Comment: 0,0:21:11.21,0:21:12.92,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,Kokoro karamatte
+Comment: 0,0:21:12.92,0:21:14.42,Lagu ED4 - Alt - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:21:14.42,0:21:22.01,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(0,200)}Itetsuku jimen wo korogaru you ni hashiridashita
+Comment: 0,0:21:51.33,0:21:57.71,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,0)}Akai akai chiisana kuruma wa
+Comment: 0,0:21:57.71,0:22:04.09,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,200)}Kimi wo nosete
+Comment: 0,0:22:04.39,0:22:07.60,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,0)}Tooku mukou no
+Comment: 0,0:22:07.60,0:22:10.52,Lagu ED4 - ROM,,0,0,0,karaoke,Kado wo magatte
+Comment: 0,0:22:10.52,0:22:13.73,Lagu ED4 - ROM,,0,0,0,karaoke,Koko kara wa
+Comment: 0,0:22:12.23,0:22:15.23,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,200)\an9}(Koko kara wa)
+Comment: 0,0:22:13.73,0:22:19.15,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,200)}Mienaku natta
+Comment: 0,0:22:15.48,0:22:19.15,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,200)\an9}(Mienaku natta)
+Comment: 0,0:22:20.44,0:22:22.11,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,0)}Nani wo nakushita?
+Comment: 0,0:22:22.11,0:22:25.28,Lagu ED4 - ROM,,0,0,0,karaoke,Sore sae mo wakaranain da
+Comment: 0,0:22:25.28,0:22:26.91,Lagu ED4 - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:22:26.91,0:22:32.91,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,200)}Hajime kara mottenai no ni mune ga itanda
+Comment: 0,0:22:33.54,0:22:36.54,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,0)}Bokura wa kitto kono saki mo
+Comment: 0,0:22:36.54,0:22:38.09,Lagu ED4 - ROM,,0,0,0,karaoke,Kokoro karamatte
+Comment: 0,0:22:38.09,0:22:39.80,Lagu ED4 - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:22:39.80,0:22:47.51,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,300)}Itetsuku sekai wo korogaru you ni hashiridashita
+Dialogue: 1,0:20:13.40,0:20:19.61,Lagu ED4,,0,0,0,fx,{\fad(175,175)\blur2.5\1a&HFF&\t(0,130,\1a&H00&)\t(6035,6080,\1a&HFF&)}If I could, I'd repaint the world
+Dialogue: 2,0:20:13.40,0:20:19.61,Lagu ED4,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.6}If I could, I'd repaint the world
+Dialogue: 1,0:20:19.82,0:20:25.83,Lagu ED4,,0,0,0,fx,{\fad(175,175)\blur2.5\1a&HFF&\t(0,130,\1a&H00&)\t(5835,5880,\1a&HFF&)}Nothing as drastic like getting rid of wars
+Dialogue: 2,0:20:19.82,0:20:25.83,Lagu ED4,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.6}Nothing as drastic like getting rid of wars
+Dialogue: 1,0:20:26.18,0:20:31.88,Lagu ED4,,0,0,0,fx,{\fad(175,175)\blur2.5\1a&HFF&\t(0,130,\1a&H00&)\t(5525,5570,\1a&HFF&)}But maybe, there's a bit of that too
+Dialogue: 2,0:20:26.18,0:20:31.88,Lagu ED4,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.6}But maybe, there's a bit of that too
+Dialogue: 1,0:20:32.56,0:20:39.09,Lagu ED4,,0,0,0,fx,{\fad(175,175)\blur2.5\1a&HFF&\t(0,130,\1a&H00&)\t(6355,6400,\1a&HFF&)}Can't be an actor or a movie star
+Dialogue: 2,0:20:32.56,0:20:39.09,Lagu ED4,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.6}Can't be an actor or a movie star
+Dialogue: 1,0:20:39.09,0:20:45.14,Lagu ED4,,0,0,0,fx,{\fad(175,175)\blur2.5\1a&HFF&\t(0,130,\1a&H00&)\t(5875,5920,\1a&HFF&)}I can't even laugh naturally in front of you for that matter
+Dialogue: 2,0:20:39.09,0:20:45.14,Lagu ED4,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.6}I can't even laugh naturally in front of you for that matter
+Dialogue: 1,0:20:45.60,0:20:51.65,Lagu ED4,,0,0,0,fx,{\fad(175,175)\blur2.5\1a&HFF&\t(0,130,\1a&H00&)\t(5875,5920,\1a&HFF&)}What's there for a guy like me to do?
+Dialogue: 2,0:20:45.60,0:20:51.65,Lagu ED4,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.6}What's there for a guy like me to do?
+Dialogue: 1,0:20:54.94,0:20:56.74,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(200,0)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(0,155,\1a&H00&)\fsp-1}What did I do wrong?
+Dialogue: 2,0:20:54.94,0:20:56.74,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(200,0)\4a&HFF&\bord0\blur0.5\fsp-1}What did I do wrong?
+Dialogue: 1,0:20:56.74,0:20:59.99,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1}Can't even figure that out
+Dialogue: 2,0:20:56.74,0:20:59.99,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\4a&HFF&\bord0\blur0.5\fsp-1}Can't even figure that out
+Dialogue: 1,0:20:59.99,0:21:01.62,Lagu ED4 - Alt,roll,0,0,0,fx,{\an5\pos(960.00,74.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1\frx0\t(50,715,\frx360)\t(915,1580,\frx720)}Rolling, rolling
+Dialogue: 2,0:20:59.99,0:21:01.62,Lagu ED4 - Alt,roll,0,0,0,fx,{\an5\pos(960.00,74.00)\4a&HFF&\bord0\blur0.5\fsp-1\frx0\t(50,715,\frx360)\t(915,1580,\frx720)}Rolling, rolling
+Dialogue: 1,0:21:01.62,0:21:07.54,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(0,200)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(5720,5765,\1a&HFF&)\fsp-1}My heart lamenting over what was never mine
+Dialogue: 2,0:21:01.62,0:21:07.54,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(0,200)\4a&HFF&\bord0\blur0.5\fsp-1}My heart lamenting over what was never mine
+Dialogue: 1,0:21:08.12,0:21:11.21,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(200,0)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(0,155,\1a&H00&)\fsp-1}We'll probably continue to
+Dialogue: 2,0:21:08.12,0:21:11.21,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(200,0)\4a&HFF&\bord0\blur0.5\fsp-1}We'll probably continue to
+Dialogue: 1,0:21:11.21,0:21:12.92,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1}Our hearts entangled
+Dialogue: 2,0:21:11.21,0:21:12.92,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\4a&HFF&\bord0\blur0.5\fsp-1}Our hearts entangled
+Dialogue: 1,0:21:12.92,0:21:14.42,Lagu ED4 - Alt,roll,0,0,0,fx,{\an5\pos(960.00,74.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1\frx0\t(50,650,\frx360)\t(850,1450,\frx720)}Rolling, rolling
+Dialogue: 2,0:21:12.92,0:21:14.42,Lagu ED4 - Alt,roll,0,0,0,fx,{\an5\pos(960.00,74.00)\4a&HFF&\bord0\blur0.5\fsp-1\frx0\t(50,650,\frx360)\t(850,1450,\frx720)}Rolling, rolling
+Dialogue: 1,0:21:14.42,0:21:22.01,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(0,200)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(7390,7435,\1a&HFF&)\fsp-1}Start to run across the frozen ground as if we're rolling
+Dialogue: 2,0:21:14.42,0:21:22.01,Lagu ED4 - Alt,,0,0,0,fx,{\an5\pos(960.00,74.00)\fad(0,200)\4a&HFF&\bord0\blur0.5\fsp-1}Start to run across the frozen ground as if we're rolling
+Dialogue: 1,0:21:51.33,0:21:57.71,Lagu ED4,,0,0,0,fx,{\fad(200,0)\blur2.5\1a&HFF&\t(0,155,\1a&H00&)}The small red car
+Dialogue: 2,0:21:51.33,0:21:57.71,Lagu ED4,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.6}The small red car
+Dialogue: 1,0:21:57.71,0:22:04.09,Lagu ED4,,0,0,0,fx,{\fad(0,200)\blur2.5\1a&HFF&\t(6180,6225,\1a&HFF&)}Takes her away
+Dialogue: 2,0:21:57.71,0:22:04.09,Lagu ED4,,0,0,0,fx,{\fad(0,200)\4a&HFF&\bord0\blur0.6}Takes her away
+Dialogue: 1,0:22:04.39,0:22:07.60,Lagu ED4,,0,0,0,fx,{\fad(200,0)\blur2.5\1a&HFF&\t(0,155,\1a&H00&)}Makes a turn at
+Dialogue: 2,0:22:04.39,0:22:07.60,Lagu ED4,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.6}Makes a turn at
+Dialogue: 1,0:22:07.60,0:22:10.52,Lagu ED4,,0,0,0,fx,{\blur2.5\1a&HFF&}The far off corner
+Dialogue: 2,0:22:07.60,0:22:10.52,Lagu ED4,,0,0,0,fx,{\4a&HFF&\bord0\blur0.6}The far off corner
+Dialogue: 1,0:22:10.52,0:22:13.73,Lagu ED4,,0,0,0,fx,{\blur2.5\1a&HFF&}Disappearing from
+Dialogue: 2,0:22:10.52,0:22:13.73,Lagu ED4,,0,0,0,fx,{\4a&HFF&\bord0\blur0.6}Disappearing from
+Dialogue: 1,0:22:12.23,0:22:15.23,Lagu ED4,,0,0,0,fx,{\fad(200,200)\blur2.5\1a&HFF&\t(0,155,\1a&H00&)\t(2800,2845,\1a&HFF&)\an9}(Disappearing from)
+Dialogue: 2,0:22:12.23,0:22:15.23,Lagu ED4,,0,0,0,fx,{\fad(200,200)\4a&HFF&\bord0\blur0.6\an9}(Disappearing from)
+Dialogue: 1,0:22:13.73,0:22:19.15,Lagu ED4,,0,0,0,fx,{\fad(0,200)\blur2.5\1a&HFF&\t(5220,5265,\1a&HFF&)}My vision
+Dialogue: 2,0:22:13.73,0:22:19.15,Lagu ED4,,0,0,0,fx,{\fad(0,200)\4a&HFF&\bord0\blur0.6}My vision
+Dialogue: 1,0:22:15.48,0:22:19.15,Lagu ED4,,0,0,0,fx,{\fad(200,200)\blur2.5\1a&HFF&\t(0,155,\1a&H00&)\t(3470,3515,\1a&HFF&)\an9}(My vision)
+Dialogue: 2,0:22:15.48,0:22:19.15,Lagu ED4,,0,0,0,fx,{\fad(200,200)\4a&HFF&\bord0\blur0.6\an9}(My vision)
+Dialogue: 1,0:22:20.44,0:22:22.11,Lagu ED4,,0,0,0,fx,{\fad(200,0)\blur2.5\1a&HFF&\t(0,155,\1a&H00&)}What was it I lost?
+Dialogue: 2,0:22:20.44,0:22:22.11,Lagu ED4,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.6}What was it I lost?
+Dialogue: 1,0:22:22.11,0:22:25.28,Lagu ED4,,0,0,0,fx,{\blur2.5\1a&HFF&}Can't even figure that out
+Dialogue: 2,0:22:22.11,0:22:25.28,Lagu ED4,,0,0,0,fx,{\4a&HFF&\bord0\blur0.6}Can't even figure that out
+Dialogue: 1,0:22:25.28,0:22:26.91,Lagu ED4,roll,0,0,0,fx,{\blur2.5\1a&HFF&\an5\pos(218.28,78.00)\frx0\t(50,715,\frx-360)\t(915,1580,\frx-720)}Rolling, rolling
+Dialogue: 2,0:22:25.28,0:22:26.91,Lagu ED4,roll,0,0,0,fx,{\4a&HFF&\bord0\blur0.6\an5\pos(218.28,78.00)\frx0\t(50,715,\frx-360)\t(915,1580,\frx-720)}Rolling, rolling
+Dialogue: 1,0:22:26.91,0:22:32.91,Lagu ED4,,0,0,0,fx,{\fad(0,200)\blur2.5\1a&HFF&\t(5800,5845,\1a&HFF&)}My heart lamenting over what was never mine
+Dialogue: 2,0:22:26.91,0:22:32.91,Lagu ED4,,0,0,0,fx,{\fad(0,200)\4a&HFF&\bord0\blur0.6}My heart lamenting over what was never mine
+Dialogue: 1,0:22:33.54,0:22:36.54,Lagu ED4,,0,0,0,fx,{\fad(200,0)\blur2.5\1a&HFF&\t(0,155,\1a&H00&)}We'll probably continue to
+Dialogue: 2,0:22:33.54,0:22:36.54,Lagu ED4,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.6}We'll probably continue to
+Dialogue: 1,0:22:36.54,0:22:38.09,Lagu ED4,,0,0,0,fx,{\blur2.5\1a&HFF&}Our hearts entangled
+Dialogue: 2,0:22:36.54,0:22:38.09,Lagu ED4,,0,0,0,fx,{\4a&HFF&\bord0\blur0.6}Our hearts entangled
+Dialogue: 1,0:22:38.09,0:22:39.80,Lagu ED4,roll,0,0,0,fx,{\blur2.5\1a&HFF&\an5\pos(218.28,78.00)\frx0\t(50,755,\frx-360)\t(955,1660,\frx-720)}Rolling, rolling
+Dialogue: 2,0:22:38.09,0:22:39.80,Lagu ED4,roll,0,0,0,fx,{\4a&HFF&\bord0\blur0.6\an5\pos(218.28,78.00)\frx0\t(50,755,\frx-360)\t(955,1660,\frx-720)}Rolling, rolling
+Dialogue: 1,0:22:39.80,0:22:47.51,Lagu ED4,,0,0,0,fx,{\fad(0,300)\blur2.5\1a&HFF&\t(7410,7455,\1a&HFF&)}Start to run across the frozen ground as if we're rolling
+Dialogue: 2,0:22:39.80,0:22:47.51,Lagu ED4,,0,0,0,fx,{\fad(0,300)\4a&HFF&\bord0\blur0.6}Start to run across the frozen ground as if we're rolling
+Dialogue: 1,0:20:13.40,0:20:19.61,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(6035,6080,\1a&HFF&)}Dekireba sekai wo boku wa nurikaetai
+Dialogue: 2,0:20:13.40,0:20:19.61,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Dekireba sekai wo boku wa nurikaetai
+Dialogue: 1,0:20:19.82,0:20:25.83,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5835,5880,\1a&HFF&)}Sensou wo nakusu you na daisoreta koto janai
+Dialogue: 2,0:20:19.82,0:20:25.83,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Sensou wo nakusu you na daisoreta koto janai
+Dialogue: 1,0:20:26.18,0:20:31.88,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5525,5570,\1a&HFF&)}Dakedo chotto sore mo aru yo na
+Dialogue: 2,0:20:26.18,0:20:31.88,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Dakedo chotto sore mo aru yo na
+Dialogue: 1,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(6355,6400,\1a&HFF&)}haiyuu ya eiga sutaa ni wa narenai
+Dialogue: 2,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}haiyuu ya eiga sutaa ni wa narenai
+Dialogue: 1,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5875,5920,\1a&HFF&)}Sore dokoro ka kimi no mae de sae mo jouzu ni waraenai
+Dialogue: 2,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Sore dokoro ka kimi no mae de sae mo jouzu ni waraenai
+Dialogue: 1,0:20:45.60,0:20:51.65,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5875,5920,\1a&HFF&)}Sonna boku ni sube wa nai yo na
+Dialogue: 2,0:20:45.60,0:20:51.65,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Sonna boku ni sube wa nai yo na
+Dialogue: 1,0:20:54.94,0:20:56.74,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(200,0)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(0,155,\1a&H00&)\fsp-1}Nani wo machigatta?
+Dialogue: 2,0:20:54.94,0:20:56.74,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(200,0)\4a&HFF&\bord0\blur0.5\fsp-1}Nani wo machigatta?
+Dialogue: 1,0:20:56.74,0:20:59.99,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1}Sore sae mo wakaranain da
+Dialogue: 2,0:20:56.74,0:20:59.99,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\4a&HFF&\bord0\blur0.5\fsp-1}Sore sae mo wakaranain da
+Dialogue: 1,0:20:59.99,0:21:01.62,Lagu ED4 - Alt - ROM,roll,0,0,0,fx,{\an5\pos(960.00,1016.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1\frx0\t(50,715,\frx-360)\t(915,1580,\frx-720)}Rooringu rooringu
+Dialogue: 2,0:20:59.99,0:21:01.62,Lagu ED4 - Alt - ROM,roll,0,0,0,fx,{\an5\pos(960.00,1016.00)\4a&HFF&\bord0\blur0.5\fsp-1\frx0\t(50,715,\frx-360)\t(915,1580,\frx-720)}Rooringu rooringu
+Dialogue: 1,0:21:01.62,0:21:07.54,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(0,200)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(5720,5765,\1a&HFF&)\fsp-1}Hajime kara mottenai no ni mune ga itanda
+Dialogue: 2,0:21:01.62,0:21:07.54,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(0,200)\4a&HFF&\bord0\blur0.5\fsp-1}Hajime kara mottenai no ni mune ga itanda
+Dialogue: 1,0:21:08.12,0:21:11.21,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(200,0)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(0,155,\1a&H00&)\fsp-1}Bokura wa kitto kono saki mo
+Dialogue: 2,0:21:08.12,0:21:11.21,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(200,0)\4a&HFF&\bord0\blur0.5\fsp-1}Bokura wa kitto kono saki mo
+Dialogue: 1,0:21:11.21,0:21:12.92,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1}Kokoro karamatte
+Dialogue: 2,0:21:11.21,0:21:12.92,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\4a&HFF&\bord0\blur0.5\fsp-1}Kokoro karamatte
+Dialogue: 1,0:21:12.92,0:21:14.42,Lagu ED4 - Alt - ROM,roll,0,0,0,fx,{\an5\pos(960.00,1016.00)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\fsp-1\frx0\t(50,650,\frx-360)\t(850,1450,\frx-720)}Rooringu rooringu
+Dialogue: 2,0:21:12.92,0:21:14.42,Lagu ED4 - Alt - ROM,roll,0,0,0,fx,{\an5\pos(960.00,1016.00)\4a&HFF&\bord0\blur0.5\fsp-1\frx0\t(50,650,\frx-360)\t(850,1450,\frx-720)}Rooringu rooringu
+Dialogue: 1,0:21:14.42,0:21:22.01,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(0,200)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(7390,7435,\1a&HFF&)\fsp-1}Itetsuku jimen wo korogaru you ni hashiridashita
+Dialogue: 2,0:21:14.42,0:21:22.01,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(0,200)\4a&HFF&\bord0\blur0.5\fsp-1}Itetsuku jimen wo korogaru you ni hashiridashita
+Dialogue: 1,0:21:51.33,0:21:57.71,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\blur2.4\1a&HFF&\t(0,155,\1a&H00&)}Akai akai chiisana kuruma wa
+Dialogue: 2,0:21:51.33,0:21:57.71,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.55}Akai akai chiisana kuruma wa
+Dialogue: 1,0:21:57.71,0:22:04.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,200)\blur2.4\1a&HFF&\t(6180,6225,\1a&HFF&)}Kimi wo nosete
+Dialogue: 2,0:21:57.71,0:22:04.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,200)\4a&HFF&\bord0\blur0.55}Kimi wo nosete
+Dialogue: 1,0:22:04.39,0:22:07.60,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\blur2.4\1a&HFF&\t(0,155,\1a&H00&)}Tooku mukou no
+Dialogue: 2,0:22:04.39,0:22:07.60,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.55}Tooku mukou no
+Dialogue: 1,0:22:07.60,0:22:10.52,Lagu ED4 - ROM,,0,0,0,fx,{\blur2.4\1a&HFF&}Kado wo magatte
+Dialogue: 2,0:22:07.60,0:22:10.52,Lagu ED4 - ROM,,0,0,0,fx,{\4a&HFF&\bord0\blur0.55}Kado wo magatte
+Dialogue: 1,0:22:10.52,0:22:13.73,Lagu ED4 - ROM,,0,0,0,fx,{\blur2.4\1a&HFF&}Koko kara wa
+Dialogue: 2,0:22:10.52,0:22:13.73,Lagu ED4 - ROM,,0,0,0,fx,{\4a&HFF&\bord0\blur0.55}Koko kara wa
+Dialogue: 1,0:22:12.23,0:22:15.23,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,200)\blur2.4\1a&HFF&\t(0,155,\1a&H00&)\t(2800,2845,\1a&HFF&)\an9}(Koko kara wa)
+Dialogue: 2,0:22:12.23,0:22:15.23,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,200)\4a&HFF&\bord0\blur0.55\an9}(Koko kara wa)
+Dialogue: 1,0:22:13.73,0:22:19.15,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,200)\blur2.4\1a&HFF&\t(5220,5265,\1a&HFF&)}Mienaku natta
+Dialogue: 2,0:22:13.73,0:22:19.15,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,200)\4a&HFF&\bord0\blur0.55}Mienaku natta
+Dialogue: 1,0:22:15.48,0:22:19.15,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,200)\blur2.4\1a&HFF&\t(0,155,\1a&H00&)\t(3470,3515,\1a&HFF&)\an9}(Mienaku natta)
+Dialogue: 2,0:22:15.48,0:22:19.15,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,200)\4a&HFF&\bord0\blur0.55\an9}(Mienaku natta)
+Dialogue: 1,0:22:20.44,0:22:22.11,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\blur2.4\1a&HFF&\t(0,155,\1a&H00&)}Nani wo nakushita?
+Dialogue: 2,0:22:20.44,0:22:22.11,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.55}Nani wo nakushita?
+Dialogue: 1,0:22:22.11,0:22:25.28,Lagu ED4 - ROM,,0,0,0,fx,{\blur2.4\1a&HFF&}Sore sae mo wakaranain da
+Dialogue: 2,0:22:22.11,0:22:25.28,Lagu ED4 - ROM,,0,0,0,fx,{\4a&HFF&\bord0\blur0.55}Sore sae mo wakaranain da
+Dialogue: 1,0:22:25.28,0:22:26.91,Lagu ED4 - ROM,roll,0,0,0,fx,{\blur2.4\1a&HFF&\an5\pos(241.61,141.00)\frx0\t(50,715,\frx360)\t(915,1580,\frx720)}Rooringu rooringu
+Dialogue: 2,0:22:25.28,0:22:26.91,Lagu ED4 - ROM,roll,0,0,0,fx,{\4a&HFF&\bord0\blur0.55\an5\pos(241.61,141.00)\frx0\t(50,715,\frx360)\t(915,1580,\frx720)}Rooringu rooringu
+Dialogue: 1,0:22:26.91,0:22:32.91,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,200)\blur2.4\1a&HFF&\t(5800,5845,\1a&HFF&)}Hajime kara mottenai no ni mune ga itanda
+Dialogue: 2,0:22:26.91,0:22:32.91,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,200)\4a&HFF&\bord0\blur0.55}Hajime kara mottenai no ni mune ga itanda
+Dialogue: 1,0:22:33.54,0:22:36.54,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\blur2.4\1a&HFF&\t(0,155,\1a&H00&)}Bokura wa kitto kono saki mo
+Dialogue: 2,0:22:33.54,0:22:36.54,Lagu ED4 - ROM,,0,0,0,fx,{\fad(200,0)\4a&HFF&\bord0\blur0.55}Bokura wa kitto kono saki mo
+Dialogue: 1,0:22:36.54,0:22:38.09,Lagu ED4 - ROM,,0,0,0,fx,{\blur2.4\1a&HFF&}Kokoro karamatte
+Dialogue: 2,0:22:36.54,0:22:38.09,Lagu ED4 - ROM,,0,0,0,fx,{\4a&HFF&\bord0\blur0.55}Kokoro karamatte
+Dialogue: 1,0:22:38.09,0:22:39.80,Lagu ED4 - ROM,roll,0,0,0,fx,{\blur2.4\1a&HFF&\an5\pos(241.61,141.00)\frx0\t(50,755,\frx360)\t(955,1660,\frx720)}Rooringu rooringu
+Dialogue: 2,0:22:38.09,0:22:39.80,Lagu ED4 - ROM,roll,0,0,0,fx,{\4a&HFF&\bord0\blur0.55\an5\pos(241.61,141.00)\frx0\t(50,755,\frx360)\t(955,1660,\frx720)}Rooringu rooringu
+Dialogue: 1,0:22:39.80,0:22:47.51,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,300)\blur2.4\1a&HFF&\t(7410,7455,\1a&HFF&)}Itetsuku sekai wo korogaru you ni hashiridashita
+Dialogue: 2,0:22:39.80,0:22:47.51,Lagu ED4 - ROM,,0,0,0,fx,{\fad(0,300)\4a&HFF&\bord0\blur0.55}Itetsuku sekai wo korogaru you ni hashiridashita
