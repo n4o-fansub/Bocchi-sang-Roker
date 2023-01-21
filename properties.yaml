@@ -4,6 +4,7 @@
 basename: bocchi
 subsfolder: 'subs{EPISODE}'
 basetitle: '[‽] Bocchi sang Roker!'
+yeettemplater: true
 subs:
   dialogues: '{subsfolder}/{basename}{EPISODE}.dialogue*.ass' # Dialogue!
   typesetting: '{subsfolder}/{basename}{EPISODE}.ts*.ass' # Typesetting!

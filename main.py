@@ -13,7 +13,7 @@ from subpy.properties import SyncPoint, read_and_parse_properties
 from subpy.utils import incr_layer
 from subpy.writer import write_ass
 
-subpy_version = "1.1.0"
+subpy_version = "1.1.1"
 CURRENT_DIR = Path(__file__).parent
 COMMON_DIR = CURRENT_DIR / "common"
 
