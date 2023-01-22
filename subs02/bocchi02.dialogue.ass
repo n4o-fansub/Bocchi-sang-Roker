@@ -23,9 +23,9 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 249
-Active Line: 408
-Video Position: 25308
+Scroll Position: 328
+Active Line: 347
+Video Position: 21866
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -381,7 +381,7 @@ Dialogue: 0,0:15:04.85,0:15:07.30,Main,Nijika,0,0,0,,{\an8}Hei, kamu dengar?
 Dialogue: 0,0:15:07.30,0:15:09.22,Main,Nijika,0,0,0,,{\an8}Kamu dengar enggak, sih?!
 Dialogue: 0,0:15:09.22,0:15:10.94,Main,PA,0,0,0,,Dia jago juga, ya.
 Dialogue: 0,0:15:09.22,0:15:12.88,Main,Nijika,0,0,0,,{\an8}Kamu beneran membuatku takut!
-Dialogue: 0,0:15:11.96,0:15:15.63,Main,Seika,0,0,0,,{\i1}Nijika berusahan menghentikannya,\Nmakanya enggak sadar ....
+Dialogue: 0,0:15:11.96,0:15:15.63,Main,Seika,0,0,0,,{\i1}Nijika berusaha menghentikannya,\Nmakanya enggak sadar ....
 Dialogue: 0,0:15:12.88,0:15:15.63,Main,Nijika,0,0,0,,{\an8}Ku-Kumohon! Kembalilah!
 Dialogue: 0,0:15:15.63,0:15:18.22,Main,Seika,0,0,0,,{\i1}Musik ini sepertinya pernah\Nkudengar di suatu tempat.
 Dialogue: 0,0:15:15.63,0:15:17.12,Main,Nijika,0,0,0,,{\an8}Hitori!
