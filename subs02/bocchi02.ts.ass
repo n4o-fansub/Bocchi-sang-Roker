@@ -16,10 +16,10 @@ Video File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E9
 Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 6018
-Active Line: 6026
-Video Position: 13677
+Video Zoom Percent: 0.500000
+Scroll Position: 2731
+Active Line: 2750
+Video Position: 23366
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2706,8 +2706,8 @@ Dialogue: 0,0:06:09.30,0:06:09.34,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c
 Dialogue: 0,0:06:09.34,0:06:09.39,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H6FBBC2&\blur1.3\fnHGPSoeiKakupoptai - EN\fax0.06\b0\fscx55.9\fscy83.62\frz359.7\pos(1098.96,132.93)\clip(m 960.32 76.66 b 977.3 112.87 996.28 180.31 1000.28 221.52 l 2172.11 222.51 2080.2 -83.18)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
 Dialogue: 0,0:06:09.39,0:06:09.43,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H6FBBC2&\blur1.3\fnHGPSoeiKakupoptai - EN\fax0.06\b0\fscx55.91\fscy83.62\frz359.7\pos(1100.11,132.94)\clip(m 961.46 76.66 b 978.45 112.87 997.43 180.31 1001.43 221.52 l 2173.28 222.52 2081.37 -83.18)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
 Dialogue: 0,0:06:09.43,0:06:09.47,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H6FBBC2&\blur1.3\fnHGPSoeiKakupoptai - EN\fax0.06\b0\fscx55.91\fscy83.62\frz359.7\pos(1101.27,132.93)\clip(m 962.63 76.66 b 979.61 112.87 998.59 180.31 1002.59 221.52 l 2174.44 222.51 2082.53 -83.19)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
-Dialogue: 0,0:06:31.41,0:06:33.66,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)\iclip(m 331.16 191.39 l 367.39 178.06 376.96 206.09 344.83 215.66)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
-Dialogue: 0,0:06:33.66,0:06:37.42,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
+Dialogue: 0,0:06:31.41,0:06:33.66,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2.6\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)\iclip(m 331.16 191.39 l 367.39 178.06 376.96 206.09 344.83 215.66)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
+Dialogue: 0,0:06:33.66,0:06:37.42,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2.6\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
 Dialogue: 0,0:07:21.34,0:07:22.09,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254\iclip(m 836.33 511.43 b 863.67 504.08 906.94 508.16 929.39 519.59)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
 Dialogue: 0,0:07:22.09,0:07:22.21,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254\iclip(m 841.22 512.24 b 865 505.71 905.61 509.39 923.27 515.51)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
 Dialogue: 0,0:07:22.21,0:07:22.34,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254\iclip(m 850.2 511.43 b 863.06 509.29 889.18 509.08 901.63 511.02)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
@@ -2773,6 +2773,11 @@ Dialogue: 1,0:09:33.55,0:09:38.93,riasan ampas,meatbun,0,0,0,,{\blur0.8\an4\fnAq
 Dialogue: 0,0:09:33.55,0:09:38.93,riasan ampas,meatbun,0,0,0,,{\fnJenkins v2.0\b0\blur0.6\c&HECEBF8&\fax-0.003586\fay0.0000\frz0.3547\frx-1.3046\fry0.2337\fscx33\fscy38\org(1288.75,369.7)\pos(1296.39,368.8)}Rp15 ribu
 Dialogue: 0,0:09:33.55,0:09:38.93,riasan ampas,meatbun,0,0,0,,{\fnOrion Chalk Scratch Demo Versio\blur0.6\fs24\c&H352E9B&\1a&H32&\frz359.9\fscx50\fscy50\pos(1355.84,385.37)}(PPN Rp1500)
 Dialogue: 0,0:09:54.66,0:10:01.08,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:10.91,0:16:14.16,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 521.89 385.67 l 521.69 373.34 528.97 348.68 529.57 349.08 b 529.62 363.18 527.1 389.76 525.73 403.05 l 531.39 399.82 b 536.7 387.19 546.3 361.92 550.19 349.29 l 557.46 352.12 b 557.36 359.65 555.75 374.71 555.04 382.23 560.35 376.02 567.52 358.94 571.01 350.9 l 669.68 352.11 660.93 409.76 552.32 425.72 499.82 424.18)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.16,0:16:14.29,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 516.36 387.15 l 515.56 366.89 517.76 362.67 519.97 355.05 527.39 354.45 527.39 362.88 523.78 383.34 525.19 383.14 528.8 381.53 540.03 359.87 540.83 356.26 548.86 353.65 547.85 366.69 548.66 366.89 550.26 365.28 554.07 361.07 556.68 352.24 652.57 356.46 640.53 395.97 564.51 399.38)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.29,0:16:14.41,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 509.54 361.27 l 509.54 388.35 624.49 387.95 615.26 350.24 527.59 360.67 522.78 371.9 520.57 364.88 521.17 361.27 522.78 355.85)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.41,0:16:14.54,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 504.32 356.26 l 505.93 400.59 625.49 391.76 622.08 339)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.54,0:16:14.83,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 499.51 389.96 l 498.91 356.05 505.73 357.46 b 517.01 372.25 524.33 386.8 530 398.18 l 539.63 396.98 b 536.62 385.74 528.6 363.88 521.98 352.85 l 670.83 357.06 663.81 395.17)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
 Dialogue: 0,0:04:47.43,0:04:47.47,riasan ampas,alonebocch,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur0.8\fnDJB Brit's Thick Pen\bord1.2\fs70\b1\pos(1401.34,34.67)\frz13.7\3c&H201D45&\c&H201D45&}Sendirian
 Dialogue: 0,0:04:47.47,0:04:47.51,riasan ampas,alonebocch,0,0,0,,{\fscx99.92\fscy99.92\alpha&H00&\blur0.8\fnDJB Brit's Thick Pen\bord1.2\fs70\b1\pos(1401.32,34.74)\frz13.7\3c&H201D45&\c&H201D45&}Sendirian
 Dialogue: 0,0:04:47.51,0:04:47.55,riasan ampas,alonebocch,0,0,0,,{\fscx99.84\fscy99.84\alpha&H00&\blur0.8\fnDJB Brit's Thick Pen\bord1.2\fs70\b1\pos(1401.31,34.82)\frz13.7\3c&H201D45&\c&H201D45&}Sendirian
@@ -8727,3 +8732,4 @@ Data: 17431,perspective_ambient_plane,e0.21403#2C0.16230#2C0.82276#2C0.35567
 Data: 17461,perspective_ambient_plane,e0.24947#2C0.22733#2C0.87244#2C0.46938
 Data: 17506,perspective_ambient_plane,e0.20459#2C0.17120#2C0.86779#2C0.35577
 Data: 17518,perspective_ambient_plane,e0.20088#2C0.13055#2C0.86086#2C0.37563
+Data: 17744,perspective_ambient_plane,e-1.52418#2C0.62709#2C0.68151#2C0.97221
