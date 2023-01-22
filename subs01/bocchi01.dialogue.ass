@@ -23,9 +23,9 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 465
-Active Line: 477
-Video Position: 30434
+Scroll Position: 24
+Active Line: 41
+Video Position: 1886
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -75,7 +75,7 @@ Dialogue: 0,0:01:06.87,0:01:08.29,Main,Musician,0,0,0,,{\i1}Saat aku masih sekol
 Dialogue: 0,0:01:08.29,0:01:11.71,Main,Musician,0,0,0,,{\i1}aku selalu duduk di pojokan kelas\Nsambil pura-pura membaca buku.
 Dialogue: 0,0:01:11.71,0:01:13.10,Main,Musician,0,0,0,,{\i1}Aku tidak punya teman.
 Dialogue: 0,0:01:13.54,0:01:18.22,Main,Interviewer,0,0,0,,{\i1}Tapi, sekarang kau sudah menjadi bagian dari\Nband yang sangat populer di kalangan anak muda!
-Dialogue: 0,0:01:18.66,0:01:21.56,Main,Musician,0,0,0,,{\i1}Yah, band adalah tempat di mana\Norang introver dapat bersniar.
+Dialogue: 0,0:01:18.66,0:01:21.56,Main,Musician,0,0,0,,{\i1}Yah, band adalah tempat di mana\Norang introver dapat bersinar.
 Dialogue: 0,0:01:21.84,0:01:24.31,Main,Interviewer,0,0,0,,{\i1}Begitu, toh!
 Dialogue: 0,0:01:24.31,0:01:28.77,Main,Interviewer,0,0,0,,{\i1}Kalau begitu, kita saksikan\Npenampilan dari Instorms, "Pemicu"!
 Dialogue: 0,0:01:35.13,0:01:36.03,Main,Naoki,0,0,0,,Kamu kenapa?
