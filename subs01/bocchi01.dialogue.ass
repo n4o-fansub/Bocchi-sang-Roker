@@ -23,9 +23,9 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 24
-Active Line: 41
-Video Position: 1886
+Scroll Position: 466
+Active Line: 475
+Video Position: 30486
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,7 +104,7 @@ Dialogue: 0,0:04:43.37,0:04:44.63,Main,Students,0,0,0,,Anggota band!
 Dialogue: 0,0:04:44.63,0:04:47.24,Main,Hitori,0,0,0,,{\i1}Habis itu, aku tak punya\Nsatupun teman ....
 Dialogue: 0,0:04:47.24,0:04:48.48,Main,Students,0,0,0,,Selama tiga tahun!
 Dialogue: 0,0:04:48.48,0:04:50.10,Main,Hitori,0,0,0,,{\i1}Sekarang, pas SMA ....
-Dialogue: 0,0:04:50.85,0:04:55.02,Main,Hitori,0,0,0,,{\fad(0,500)\t(2233,2400,\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&))\i1}Pokoknya, aku harus membentuk band!
+Dialogue: 0,0:04:50.85,0:04:55.02,Main,Hitori,0,0,0,,{\fad(0,500)\t(2233,2400,\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&)\i1}Pokoknya, aku harus membentuk band!
 Dialogue: 0,0:04:56.28,0:05:00.12,Main,Hitori,0,0,0,,{\i1}Sudah sebulan sejak awal masuk SMA,
 Dialogue: 0,0:05:00.12,0:05:02.73,Main,Hitori,0,0,0,,{\i1}tapi kalbuku hanya\Nditemani gitar belaka.
 Dialogue: 0,0:05:02.73,0:05:07.30,Main,Hitori,0,0,0,,{\i1}Selangkah maju daripada menyendiri ....
