@@ -154,7 +154,7 @@ Dialogue: 50,0:04:35.79,0:04:37.96,Main,Nijika,0,0,0,,dan mengunjungi toko baju 
 Dialogue: 50,0:04:37.96,0:04:39.04,Main,Hitori,0,0,0,,{\i1}Tidak, aku salah.
 Dialogue: 50,0:04:39.72,0:04:42.55,Main,Hitori,0,0,0,,{\i1}Ryo itu tipe penyendiri!
 Dialogue: 50,0:04:44.72,0:04:47.43,Main,Hitori,0,0,0,,{\i1}Kecemasan sosial sepertiku\Ntakkan sanggup ke toko baju sendirian!
-Dialogue: 50,0:04:47.86,0:04:55.15,Main,Hitori,0,0,0,,{\i1}Jarak antara sendiri dan penyendiri\Nterlalu jauh untuk ditempuh!
+Dialogue: 50,0:04:47.86,0:04:55.15,Main,Hitori,0,0,0,,{\i1\t(4182,5462,\3c&HFFFFFF&\4c&HFFFFFF&)}Jarak antara sendiri dan penyendiri\Nterlalu jauh untuk ditempuh!
 Dialogue: 50,0:04:55.47,0:04:58.03,Main,Hitori,0,0,0,,{\i1}Aku nyaris saja masuk perangkap.
 Dialogue: 50,0:04:58.03,0:05:00.07,Main,Nijika,0,0,0,,Bocchi, coba kita nikmati\Nobrolannya dulu, yuk!
 Dialogue: 50,0:05:02.74,0:05:02.78,Main,Nijika,0,0,0,,{\clip(m 1320.5 950.19 l 1312.81 984.03 1320.5 989.56 1327.57 997.56 1328.5 1004.33 1611.79 1044.32 1595.49 908.05 1398.63 893.9)}Selanjutnya, obrolan musik favorit!
@@ -192,6 +192,9 @@ Dialogue: 50,0:06:03.36,0:06:07.47,Main,Hitori,0,0,0,,... sesaat aku mendadak me
 Dialogue: 50,0:06:06.13,0:06:08.70,Overlap,Nijika,0,0,0,,{\an8}Oi, Bocchi ....
 Dialogue: 50,0:06:08.70,0:06:11.02,Overlap,Nijika,0,0,0,,{\an8}Jangan asyik di duniamu sendiri, dong!
 Dialogue: 50,0:06:10.45,0:06:13.83,Main,Hitori,0,0,0,,Rok sebagai musik begitu bergema\Ndi hati para kaum minoritas.
+Dialogue: 50,0:06:11.73,0:06:12.31,Overlap,Nijika,0,0,0,,{\an8}Oi!
+Dialogue: 50,0:06:12.77,0:06:13.48,Overlap,Nijika,0,0,0,,{\an8}Oi!
+Dialogue: 50,0:06:14.48,0:06:15.69,Overlap,Nijika,0,0,0,,{\an8}Oi ....
 Dialogue: 50,0:06:13.83,0:06:16.08,Main,Hitori,0,0,0,,Rok tak berarti bila dinyanyikan\Noleh para pemenang kehidupan.
 Dialogue: 50,0:06:16.08,0:06:18.18,Main,Nijika,0,0,0,,Kita kuatkan tali silaturahmi, dong!
 Dialogue: 50,0:06:18.18,0:06:19.90,Main,Ryo,0,0,0,,Talinya ada,\Nsilaturahminya enggak.
@@ -281,7 +284,7 @@ Dialogue: 50,0:09:39.43,0:09:42.19,Main,Prosecutor,0,0,0,,{\an8}Atas tuduhan tel
 Dialogue: 50,0:09:42.19,0:09:43.77,Main,Prosecutor,0,0,0,,{\an8}kami tuntut dia hukuman mati!
 Dialogue: 50,0:09:44.00,0:09:46.28,Main,Judge,0,0,0,,Baiklah, keputusannya ....
 Dialogue: 50,0:09:46.28,0:09:47.29,Main,Judge,0,0,0,,Hukuman mati!
-Dialogue: 50,0:09:47.69,0:09:50.19,Main,Hitori,0,0,0,,{\i1}Sudah pasti bakalan begini!
+Dialogue: 50,0:09:47.69,0:09:50.74,Main,Hitori,0,0,0,,{\i1\t(1607,3050,\4c&HFFFFFF&\3c&HFFFFFF&)}Sudah pasti bakalan begini!
 Dialogue: 50,0:09:50.72,0:09:51.53,Main,Nijika,0,0,0,,{\fad(175,175)}... cchi.
 Dialogue: 50,0:09:51.53,0:09:52.77,Main,Nijika,0,0,0,,{\fad(175,175)}Bocchi.
 Dialogue: 50,0:09:52.77,0:09:53.96,Main,Nijika,0,0,0,,{\fad(175,0)}Bocchi!
@@ -297,9 +300,26 @@ Dialogue: 50,0:10:13.70,0:10:15.30,Main,Nijika,0,0,0,,Kita bisa menyajikan minum
 Dialogue: 50,0:10:15.30,0:10:17.76,Main,Nijika,0,0,0,,bersih-bersih, dan melihat beragam band!
 Dialogue: 50,0:10:15.30,0:10:17.76,Main,Hitori,0,0,0,,{\an8\i1}Aku gak mau kerja ....\NAku gak mau kerja!
 Dialogue: 50,0:10:17.76,0:10:19.76,Main,Nijika,0,0,0,,Gimana? Apa kamu mau?
-Dialogue: 50,0:10:22.63,0:10:24.35,Main,Hitori,0,0,0,,{\i1}Tolaklah, wahai diriku!
-Dialogue: 50,0:10:24.35,0:10:25.10,Main,Hitori,0,0,0,,{\i1}Tolaklah!
-Dialogue: 50,0:10:25.32,0:10:27.98,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:22.63,0:10:23.19,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Tolaklah, wahai diriku!
+Dialogue: 50,0:10:23.19,0:10:24.35,Main,Hitori,0,0,0,,{\i1}Tolaklah, wahai diriku!
+Dialogue: 50,0:10:24.35,0:10:25.10,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Tolaklah!
+Dialogue: 50,0:10:25.32,0:10:25.73,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:25.73,0:10:26.15,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:26.15,0:10:26.44,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:26.44,0:10:26.69,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:26.69,0:10:26.86,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:26.86,0:10:26.98,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:26.98,0:10:27.06,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:27.06,0:10:27.15,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:27.15,0:10:27.19,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:27.19,0:10:27.23,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:27.23,0:10:27.27,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:27.27,0:10:27.31,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:27.31,0:10:27.36,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:27.36,0:10:27.40,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:27.40,0:10:27.44,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 50,0:10:27.44,0:10:27.48,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 50,0:10:27.48,0:10:27.98,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
 Dialogue: 50,0:10:29.09,0:10:30.27,Main,Hitori,0,0,0,,Aku akan berusaha.
 Dialogue: 50,0:10:30.27,0:10:31.81,Main,Nijika,0,0,0,,Bener, nih?\NMakasih, ya!
 Dialogue: 50,0:10:32.07,0:10:33.31,Main,Hitori,0,0,0,,{\i1}Maaf, diriku ....
@@ -327,7 +347,7 @@ Dialogue: 50,0:11:27.47,0:11:29.32,Main,Hitori,0,0,0,,{\i1}Maaf, maaf.
 Dialogue: 50,0:11:29.32,0:11:31.67,Main,Hitori,0,0,0,,{\i1}Aku siap berusaha keras\Nasal jangan bekerja.
 Dialogue: 50,0:11:32.73,0:11:36.09,Main,Futari,0,0,0,,Ibu! Mbak'e tenggelam!
 Dialogue: 50,0:11:40.20,0:11:43.36,Main,Hitori,0,0,0,,{\i1}Masuk angin! Masuk angin! \NMasuk angin! Masuk angin!
-Dialogue: 50,0:11:43.36,0:11:48.10,Main,Hitori,0,0,0,,{\i1}Masuk angin!
+Dialogue: 50,0:11:43.36,0:11:48.06,Main,Hitori,0,0,0,,{\i1\t(718,4700,\1c&H000000&)}Masuk angin!
 Dialogue: 50,0:11:54.42,0:11:56.61,Main,Hitori,0,0,0,,{\i1}Terkutuklah tubuhku yang sehat ini!
 Dialogue: 50,0:11:57.28,0:12:00.02,Main,Hitori,0,0,0,,{\i1}Kalau sudah begini,\Nterpaksa harus pura-pura—
 Dialogue: 50,0:12:04.27,0:12:05.49,Main,Hitori,0,0,0,,{\i1}Nijika?
@@ -3245,8 +3265,8 @@ Dialogue: 0,0:06:09.30,0:06:09.34,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c
 Dialogue: 0,0:06:09.34,0:06:09.39,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H6FBBC2&\blur1.3\fnHGPSoeiKakupoptai - EN\fax0.06\b0\fscx55.9\fscy83.62\frz359.7\pos(1098.96,132.93)\clip(m 960.32 76.66 b 977.3 112.87 996.28 180.31 1000.28 221.52 l 2172.11 222.51 2080.2 -83.18)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
 Dialogue: 0,0:06:09.39,0:06:09.43,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H6FBBC2&\blur1.3\fnHGPSoeiKakupoptai - EN\fax0.06\b0\fscx55.91\fscy83.62\frz359.7\pos(1100.11,132.94)\clip(m 961.46 76.66 b 978.45 112.87 997.43 180.31 1001.43 221.52 l 2173.28 222.52 2081.37 -83.18)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
 Dialogue: 0,0:06:09.43,0:06:09.47,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H6FBBC2&\blur1.3\fnHGPSoeiKakupoptai - EN\fax0.06\b0\fscx55.91\fscy83.62\frz359.7\pos(1101.27,132.93)\clip(m 962.63 76.66 b 979.61 112.87 998.59 180.31 1002.59 221.52 l 2174.44 222.51 2082.53 -83.19)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
-Dialogue: 0,0:06:31.41,0:06:33.66,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)\iclip(m 331.16 191.39 l 367.39 178.06 376.96 206.09 344.83 215.66)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
-Dialogue: 0,0:06:33.66,0:06:37.42,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
+Dialogue: 0,0:06:31.41,0:06:33.66,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2.6\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)\iclip(m 331.16 191.39 l 367.39 178.06 376.96 206.09 344.83 215.66)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
+Dialogue: 0,0:06:33.66,0:06:37.42,riasan ampas,minumkonter,0,0,0,,{\alpha&H00&\c&H8DDEE4&\blur2.6\fnHGPSoeiKakupoptai - EN\fax0.23\b0\fscx62.73\fscy93.82\frz355.1\pos(-220.58,123.62)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-4.5}.
 Dialogue: 0,0:07:21.34,0:07:22.09,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254\iclip(m 836.33 511.43 b 863.67 504.08 906.94 508.16 929.39 519.59)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
 Dialogue: 0,0:07:22.09,0:07:22.21,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254\iclip(m 841.22 512.24 b 865 505.71 905.61 509.39 923.27 515.51)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
 Dialogue: 0,0:07:22.21,0:07:22.34,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254\iclip(m 850.2 511.43 b 863.06 509.29 889.18 509.08 901.63 511.02)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
@@ -3312,6 +3332,11 @@ Dialogue: 1,0:09:33.55,0:09:38.93,riasan ampas,meatbun,0,0,0,,{\blur0.8\an4\fnAq
 Dialogue: 0,0:09:33.55,0:09:38.93,riasan ampas,meatbun,0,0,0,,{\fnJenkins v2.0\b0\blur0.6\c&HECEBF8&\fax-0.003586\fay0.0000\frz0.3547\frx-1.3046\fry0.2337\fscx33\fscy38\org(1288.75,369.7)\pos(1296.39,368.8)}Rp15 ribu
 Dialogue: 0,0:09:33.55,0:09:38.93,riasan ampas,meatbun,0,0,0,,{\fnOrion Chalk Scratch Demo Versio\blur0.6\fs24\c&H352E9B&\1a&H32&\frz359.9\fscx50\fscy50\pos(1355.84,385.37)}(PPN Rp1500)
 Dialogue: 0,0:09:54.66,0:10:01.08,riasan ampas,minumkonter,0,0,0,,{\c&H74EAEF&\blur0.95\fnHGPSoeiKakupoptai - EN\b0\fax-0.014\fay0\fscx30.7\fscy58.36\frx0.283\fry-1.098\pos(1081.6,489.6)\org(1070.77,490.2)\frz2.254}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:10.91,0:16:14.16,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 521.89 385.67 l 521.69 373.34 528.97 348.68 529.57 349.08 b 529.62 363.18 527.1 389.76 525.73 403.05 l 531.39 399.82 b 536.7 387.19 546.3 361.92 550.19 349.29 l 557.46 352.12 b 557.36 359.65 555.75 374.71 555.04 382.23 560.35 376.02 567.52 358.94 571.01 350.9 l 669.68 352.11 660.93 409.76 552.32 425.72 499.82 424.18)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.16,0:16:14.29,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 516.36 387.15 l 515.56 366.89 517.76 362.67 519.97 355.05 527.39 354.45 527.39 362.88 523.78 383.34 525.19 383.14 528.8 381.53 540.03 359.87 540.83 356.26 548.86 353.65 547.85 366.69 548.66 366.89 550.26 365.28 554.07 361.07 556.68 352.24 652.57 356.46 640.53 395.97 564.51 399.38)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.29,0:16:14.41,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 509.54 361.27 l 509.54 388.35 624.49 387.95 615.26 350.24 527.59 360.67 522.78 371.9 520.57 364.88 521.17 361.27 522.78 355.85)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.41,0:16:14.54,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 504.32 356.26 l 505.93 400.59 625.49 391.76 622.08 339)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
+Dialogue: 0,0:16:14.54,0:16:14.83,riasan ampas,minumkonter,0,0,0,,{=17744}{\c&H83E1EA&\blur0.9\fnHGPSoeiKakupoptai - EN\b0\fax-0.042018\fay0.0000\fscx26.39\fscy40.20\frx3.6182\fry1.9264\org(357.29,375.54)\frz1.476\pos(357.57,374.8)\clip(m 499.51 389.96 l 498.91 356.05 505.73 357.46 b 517.01 372.25 524.33 386.8 530 398.18 l 539.63 396.98 b 536.62 385.74 528.6 363.88 521.98 352.85 l 670.83 357.06 663.81 395.17)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz2.7}.
 Dialogue: 0,0:04:47.43,0:04:47.47,riasan ampas,alonebocch,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur0.8\fnDJB Brit's Thick Pen\bord1.2\fs70\b1\pos(1401.34,34.67)\frz13.7\3c&H201D45&\c&H201D45&}Sendirian
 Dialogue: 0,0:04:47.47,0:04:47.51,riasan ampas,alonebocch,0,0,0,,{\fscx99.92\fscy99.92\alpha&H00&\blur0.8\fnDJB Brit's Thick Pen\bord1.2\fs70\b1\pos(1401.32,34.74)\frz13.7\3c&H201D45&\c&H201D45&}Sendirian
 Dialogue: 0,0:04:47.51,0:04:47.55,riasan ampas,alonebocch,0,0,0,,{\fscx99.84\fscy99.84\alpha&H00&\blur0.8\fnDJB Brit's Thick Pen\bord1.2\fs70\b1\pos(1401.31,34.82)\frz13.7\3c&H201D45&\c&H201D45&}Sendirian
@@ -5614,7 +5639,7 @@ Dialogue: 0,0:02:12.82,0:02:18.32,riasan ampas,luine,0,0,0,,{\an7\pos(794.88,847
 Dialogue: 0,0:02:12.82,0:02:18.32,riasan ampas,luine,0,0,0,,{\an4\fs28\q2\fnEbrima\c&H4F4C50&\blur0.5\frx356\fry358\pos(794.86,898.97)\frz9.742}E{*\fax0.002}n{*\fax0.003}t{*\fax0.005}a{*\fax0.006}r {*\fax0.009}k{*\fax0.011}i{*\fax0.013}t{*\fax0.014}a {*\fax0.017}n{*\fax0.019}g{*\fax0.02}o{*\fax0.022}b{*\fax0.023}r{*\fax0.025}o{*\fax0.027}l{*\fax0.028}i{*\fax0.03}n {*\fax0.033}b{*\fax0.034}u{*\fax0.036}a{*\fax0.038}t {*\fax0.041}b{*\fax0.042}a{*\fax0.044}n{*\fax0.045}d {*\fax0.048}k{\fax0.05}e {*\fax0.017}\N{\fax0}d{*\fax0.002}e{*\fax0.004}p{*\fax0.006}a{*\fax0.007}n{*\fax0.009}n{*\fax0.011}y{*\fax0.013}a{*\fax0.015}, {*\fax0.019}y{*\fax0.02}u{*\fax0.022}k{*\fax0.024}! {*\fax0.028}B{*\fax0.03}e{*\fax0.031}s{*\fax0.033}o{*\fax0.035}k {*\fax0.039}b{*\fax0.041}i{*\fax0.043}s{*\fax0.044}a {*\fax0.048}k{\fax0.05}e {*\fax0.017}\N{\fax0}S{*\fax0.001}t{*\fax0.002}a{*\fax0.003}r{*\fax0.004}r{*\fax0.005}y, {*\fax0.007}k{*\fax0.008}a{*\fax0.009}n{\fax0.01}?{\fnNoto Emoji\c&H3386C7&\b0}🖖
 Dialogue: 0,0:21:37.90,0:21:38.94,riasan ampas,luine-notif,0,0,0,,{=117}{\fnEbrima\blur2\c&H000000&\t(0,272,\c&H6A6A6A&)\fs16\1a&H95&\fax-0.003250\fay0.0000\fscx100.83\fscy101.06\frz-0.0604\frx0.9554\fry0.9591\pos(873.02,505.71)\org(872.99,505.71)\b0}Nijika - 1 pesan belum dibaca
 Dialogue: 0,0:21:37.90,0:21:38.94,riasan ampas,luine-notif,0,0,0,,{=117}{\fnEbrima\blur0.6\c&H000000&\t(0,272,\c&H6A6A6A&)\fs16\1a&H4D&\fax-0.003250\fay0.0000\fscx100.83\fscy101.06\frz-0.0604\frx0.9554\fry0.9591\pos(873.02,505.71)\org(872.99,505.71)\b0}Nijika - 1 pesan belum dibaca
-Dialogue: 0,0:09:22.54,0:09:28.05,riasan ampas,minumkonter,0,0,0,,{=2706}{\fad(0,200)\fnHGPSoeiKakupoptai - EN\b0\c&H57D7DA&\alpha&H00&\blur1.2\t(4485,5510,0.5,\blur20,\alpha&H3C&)\fax-0.134\fay0\fscx48.46\fscy73.17\frx-0.131\fry-1.388\org(1646.68,705.98)\pos(1648.37,707.98)\frz7.328}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
+Dialogue: 0,0:09:22.54,0:09:28.05,riasan ampas,minumkonter,0,0,0,,{=2706}{\fad(0,200)\fnHGPSoeiKakupoptai - EN\b0\c&H57D7DA&\alpha&H00&\blur1.2\t(4485,5510,0.5,\blur20\alpha&H3C&)\fax-0.134\fay0\fscx48.46\fscy73.17\frx-0.131\fry-1.388\org(1646.68,705.98)\pos(1648.37,707.98)\frz7.328}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
 Dialogue: 0,0:10:44.58,0:10:44.87,riasan ampas,minumkonter,0,0,0,,{=2922}{\fnHGPSoeiKakupoptai - EN\b0\c&H7EC6CD&\alpha&H00&\blur1.7\fax0.011170\fay0.0000\fscx53.92\fscy68.26\frz-0.6046\frx-0.1870\fry1.6390\org(1162.58,132.38)\pos(1162.43,132.38)\clip(m 981.06 173.19 b 979.02 155.8 967.68 122.5 960.1 107.03 l 967.92 105.95 b 980.75 126.98 1010.25 169.03 1026.49 190.05 l 1028.13 188.91 b 1011.47 167.77 981.99 123.55 967.47 101.77 l 1792.65 114.32 1804.01 175.14)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-0.2}.
 Dialogue: 0,0:10:44.87,0:10:44.96,riasan ampas,minumkonter,0,0,0,,{=2922}{\fnHGPSoeiKakupoptai - EN\b0\c&H7EC6CD&\alpha&H00&\blur1.7\fax0.011170\fay0.0000\fscx53.92\fscy68.26\frz-0.6046\frx-0.1870\fry1.6390\org(1162.58,132.38)\pos(1162.43,132.38)\clip(m 985.8 171.8 b 982.78 153.92 973.56 121.11 966.13 106.1 l 970.7 104.56 b 981.9 126.08 1009.12 168.45 1029.27 188.66 l 1030.91 187.52 b 1012.95 166.87 984.44 124.12 970.25 100.38 l 1792.65 114.32 1804.01 175.14)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-0.2}.
 Dialogue: 0,0:10:44.96,0:10:45.04,riasan ampas,minumkonter,0,0,0,,{=2922}{\fnHGPSoeiKakupoptai - EN\b0\c&H7EC6CD&\alpha&H00&\blur1.7\fax0.011170\fay0.0000\fscx53.92\fscy68.26\frz-0.6046\frx-0.1870\fry1.6390\org(1162.58,132.38)\pos(1162.43,132.38)\clip(m 989.55 171.15 b 986.04 152.62 978.45 121.44 970.2 105.61 l 972 103.58 b 982.88 126.08 1010.91 164.87 1018.52 173.67 l 1019.34 171.88 b 1012.95 165.4 985.58 123.96 972.69 100.38 l 1792.65 114.32 1804.01 175.14)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-0.2}.
@@ -9130,8 +9155,14 @@ Dialogue: 0,0:03:37.98,0:03:38.03,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\
 Dialogue: 0,0:03:38.03,0:03:38.07,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.74\xbord0\ybord0\fax0.055\fay0\fscx178.47\fscy103.25\frz1.12\frx-37.144\fry2.723\org(965.04,811.11)\pos(964.47,811.01)}Obrolan Kuota
 Dialogue: 0,0:03:38.07,0:03:38.11,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.76\xbord0\ybord0\fax0.055\fay0\fscx182.53\fscy105.6\frz1.13\frx-37.144\fry2.723\org(965.27,817.2)\pos(964.64,817.1)}Obrolan Kuota
 Dialogue: 0,0:03:38.11,0:03:39.32,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.77\xbord0\ybord0\fax0.055\fay0\fscx184.45\fscy106.71\frz1.14\frx-37.144\fry2.723\org(965.44,820.01)\pos(964.78,819.92)}Obrolan Kuota
-Dialogue: 0,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0\c&H000000&}m -390 -178 l 396 -178 396 178 -390 178
-Dialogue: 1,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{=84}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80\fnKG Second Chances Solid}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang?!\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
+Dialogue: 0,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0\blur1\c&H000000&}m -390 -178 l 396 -178 396 178 -390 178
+Dialogue: 1,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{=117}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80\fnKG Second Chances Solid}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang?!\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18253}{\blur0.8\fnBebas Neue SemiRounded\b1\bord3\3c&HC4C5C9&\c&HC4C5C9&\fax-0.604379\fay0.0000\fscx84.59\fscy88.33\frz31.3396\frx-1.1141\fry7.0414\org(783.33,603.58)\pos(796.63,603.58)}\h\hUltra Milk\NRasa Apel 100
+Dialogue: 1,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18253}{\blur0.8\fnBebas Neue SemiRounded\b1\c&H7F7FBB&\bord0\fax-0.604379\fay0.0000\fscx84.59\fscy88.33\frz31.3396\frx-1.1141\fry7.0414\org(783.33,603.58)\pos(796.63,603.58)\4a&HFF&}\h\hUltra Milk\NRasa Apel 100
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18342}{\blur0.8\fnBebas Neue SemiRounded\b1\bord2.6\3c&HC4C5C9&\c&HC4C5C9&\fax-0.700072\fay0.0000\fscx68.31\fscy79.74\frz31.1047\frx-1.2364\fry7.8189\org(1067.23,417.62)\pos(1079.66,417.62)}\h\h\h\hUltra Milk\NRasa Apel 100
+Dialogue: 1,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18342}{\blur0.8\fnBebas Neue SemiRounded\b1\c&H7F7FBB&\bord0\fax-0.700072\fay0.0000\fscx68.31\fscy79.74\frz31.1047\frx-1.2364\fry7.8189\org(1067.23,417.62)\pos(1079.66,417.62)\4a&HFF&}\h\h\h\hUltra Milk\NRasa Apel 100
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18400}{\fnEager Naturalist\blur2.2\fax0.145094\fay0.0000\fscx53.38\fscy73.23\frz-14.8364\frx0.4136\fry-19.0646\org(1406.66,107.79)\pos(1404.65,107.79)\c&H262626&}Okaka
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18400}{\fnEager Naturalist\c&H262626&\blur0.8\fax0.385674\fay0.0000\fscx88.06\fscy94.04\frx15.6310\fry-14.8518\org(1457.46,993.75)\pos(1448.63,993.75)\frz226}Okaka
 Comment: 0,0:00:34.01,0:00:34.05,Lagu OP,chapter,0,0,0,sync,{Lagu Pembuka}
 Dialogue: 0,0:00:40.39,0:00:40.43,riasan ampas,bocchi ngerok,0,0,0,,{=77}{\alpha&H00&\an7\c&H9060EA&\1a&H00&\3c&H000000&\3a&HFF&\bord0\shad0\p1\fscx39.63\fscy32.1\blur0.58\pos(53.7,229.43)}m 32 131.5 l 32 234 l 56.5 234 l 81 234 l 81.2 157.2 l 81.5 80.5 l 86 80.5 l 90.5 80.5 l 90.8 157.2 l 91 234 l 113.4 234 b 128.5 234 136.1 233.6 136.6 232.9 b 139.3 228.6 140.2 220.1 140.7 197 b 141.3 168.4 140.4 159 136.3 151.2 b 132 142.7 129.8 141.6 117.2 141 l 106.5 140.5 l 106.5 137 l 106.5 133.5 l 117 133 b 129.5 132.4 132.5 130.9 136.4 122.7 b 140.3 114.9 141.3 104 140.8 77.6 b 140.3 52 139.2 46.4 132.8 37.2 b 127.1 28.9 127.8 29 76.8 29 l 32 29 l 32 131.5 {\p0}
 Dialogue: 0,0:00:40.43,0:00:40.47,riasan ampas,bocchi ngerok,0,0,0,,{=77}{\alpha&H00&\an7\c&H9060EA&\1a&H00&\3c&H000000&\3a&HFF&\bord0\shad0\p1\fscx34.93\fscy28.3\blur0.51\pos(160.95,268.68)}m 32 131.5 l 32 234 l 56.5 234 l 81 234 l 81.2 157.2 l 81.5 80.5 l 86 80.5 l 90.5 80.5 l 90.8 157.2 l 91 234 l 113.4 234 b 128.5 234 136.1 233.6 136.6 232.9 b 139.3 228.6 140.2 220.1 140.7 197 b 141.3 168.4 140.4 159 136.3 151.2 b 132 142.7 129.8 141.6 117.2 141 l 106.5 140.5 l 106.5 137 l 106.5 133.5 l 117 133 b 129.5 132.4 132.5 130.9 136.4 122.7 b 140.3 114.9 141.3 104 140.8 77.6 b 140.3 52 139.2 46.4 132.8 37.2 b 127.1 28.9 127.8 29 76.8 29 l 32 29 l 32 131.5 {\p0}
@@ -10144,7 +10175,10 @@ Dialogue: 5,0:23:25.34,0:23:29.39,Lagu ED,,0,0,0,beat,{\fad(0,1140)\fsp-1\c&H334
 Last Style Storage: Interrobang_Bocchi
 Audio File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2].mkv
 Video File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2].mkv
+Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 34045
+Scroll Position: 249
+Active Line: 408
+Video Position: 25308
