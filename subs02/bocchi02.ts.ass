@@ -16,10 +16,10 @@ Video File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E9
 Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 8597
-Active Line: 8610
-Video Position: 2951
+Video Zoom Percent: 0.625000
+Scroll Position: 6018
+Active Line: 6026
+Video Position: 13677
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5078,7 +5078,7 @@ Dialogue: 0,0:02:12.82,0:02:18.32,riasan ampas,luine,0,0,0,,{\an7\pos(794.88,847
 Dialogue: 0,0:02:12.82,0:02:18.32,riasan ampas,luine,0,0,0,,{\an4\fs28\q2\fnEbrima\c&H4F4C50&\blur0.5\frx356\fry358\pos(794.86,898.97)\frz9.742}E{*\fax0.002}n{*\fax0.003}t{*\fax0.005}a{*\fax0.006}r {*\fax0.009}k{*\fax0.011}i{*\fax0.013}t{*\fax0.014}a {*\fax0.017}n{*\fax0.019}g{*\fax0.02}o{*\fax0.022}b{*\fax0.023}r{*\fax0.025}o{*\fax0.027}l{*\fax0.028}i{*\fax0.03}n {*\fax0.033}b{*\fax0.034}u{*\fax0.036}a{*\fax0.038}t {*\fax0.041}b{*\fax0.042}a{*\fax0.044}n{*\fax0.045}d {*\fax0.048}k{\fax0.05}e {*\fax0.017}\N{\fax0}d{*\fax0.002}e{*\fax0.004}p{*\fax0.006}a{*\fax0.007}n{*\fax0.009}n{*\fax0.011}y{*\fax0.013}a{*\fax0.015}, {*\fax0.019}y{*\fax0.02}u{*\fax0.022}k{*\fax0.024}! {*\fax0.028}B{*\fax0.03}e{*\fax0.031}s{*\fax0.033}o{*\fax0.035}k {*\fax0.039}b{*\fax0.041}i{*\fax0.043}s{*\fax0.044}a {*\fax0.048}k{\fax0.05}e {*\fax0.017}\N{\fax0}S{*\fax0.001}t{*\fax0.002}a{*\fax0.003}r{*\fax0.004}r{*\fax0.005}y, {*\fax0.007}k{*\fax0.008}a{*\fax0.009}n{\fax0.01}?{\fnNoto Emoji\c&H3386C7&\b0}🖖
 Dialogue: 0,0:21:37.90,0:21:38.94,riasan ampas,luine-notif,0,0,0,,{=117}{\fnEbrima\blur2\c&H000000&\t(0,272,\c&H6A6A6A&)\fs16\1a&H95&\fax-0.003250\fay0.0000\fscx100.83\fscy101.06\frz-0.0604\frx0.9554\fry0.9591\pos(873.02,505.71)\org(872.99,505.71)\b0}Nijika - 1 pesan belum dibaca
 Dialogue: 0,0:21:37.90,0:21:38.94,riasan ampas,luine-notif,0,0,0,,{=117}{\fnEbrima\blur0.6\c&H000000&\t(0,272,\c&H6A6A6A&)\fs16\1a&H4D&\fax-0.003250\fay0.0000\fscx100.83\fscy101.06\frz-0.0604\frx0.9554\fry0.9591\pos(873.02,505.71)\org(872.99,505.71)\b0}Nijika - 1 pesan belum dibaca
-Dialogue: 0,0:09:22.54,0:09:28.05,riasan ampas,minumkonter,0,0,0,,{=2706}{\fad(0,200)\fnHGPSoeiKakupoptai - EN\b0\c&H57D7DA&\alpha&H00&\blur1.2\t(4485,5510,0.5,\blur20,\alpha&H3C&)\fax-0.134\fay0\fscx48.46\fscy73.17\frx-0.131\fry-1.388\org(1646.68,705.98)\pos(1648.37,707.98)\frz7.328}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
+Dialogue: 0,0:09:22.54,0:09:28.05,riasan ampas,minumkonter,0,0,0,,{=2706}{\fad(0,200)\fnHGPSoeiKakupoptai - EN\b0\c&H57D7DA&\alpha&H00&\blur1.2\t(4485,5510,0.5,\blur20\alpha&H3C&)\fax-0.134\fay0\fscx48.46\fscy73.17\frx-0.131\fry-1.388\org(1646.68,705.98)\pos(1648.37,707.98)\frz7.328}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak.
 Dialogue: 0,0:10:44.58,0:10:44.87,riasan ampas,minumkonter,0,0,0,,{=2922}{\fnHGPSoeiKakupoptai - EN\b0\c&H7EC6CD&\alpha&H00&\blur1.7\fax0.011170\fay0.0000\fscx53.92\fscy68.26\frz-0.6046\frx-0.1870\fry1.6390\org(1162.58,132.38)\pos(1162.43,132.38)\clip(m 981.06 173.19 b 979.02 155.8 967.68 122.5 960.1 107.03 l 967.92 105.95 b 980.75 126.98 1010.25 169.03 1026.49 190.05 l 1028.13 188.91 b 1011.47 167.77 981.99 123.55 967.47 101.77 l 1792.65 114.32 1804.01 175.14)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-0.2}.
 Dialogue: 0,0:10:44.87,0:10:44.96,riasan ampas,minumkonter,0,0,0,,{=2922}{\fnHGPSoeiKakupoptai - EN\b0\c&H7EC6CD&\alpha&H00&\blur1.7\fax0.011170\fay0.0000\fscx53.92\fscy68.26\frz-0.6046\frx-0.1870\fry1.6390\org(1162.58,132.38)\pos(1162.43,132.38)\clip(m 985.8 171.8 b 982.78 153.92 973.56 121.11 966.13 106.1 l 970.7 104.56 b 981.9 126.08 1009.12 168.45 1029.27 188.66 l 1030.91 187.52 b 1012.95 166.87 984.44 124.12 970.25 100.38 l 1792.65 114.32 1804.01 175.14)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-0.2}.
 Dialogue: 0,0:10:44.96,0:10:45.04,riasan ampas,minumkonter,0,0,0,,{=2922}{\fnHGPSoeiKakupoptai - EN\b0\c&H7EC6CD&\alpha&H00&\blur1.7\fax0.011170\fay0.0000\fscx53.92\fscy68.26\frz-0.6046\frx-0.1870\fry1.6390\org(1162.58,132.38)\pos(1162.43,132.38)\clip(m 989.55 171.15 b 986.04 152.62 978.45 121.44 970.2 105.61 l 972 103.58 b 982.88 126.08 1010.91 164.87 1018.52 173.67 l 1019.34 171.88 b 1012.95 165.4 985.58 123.96 972.69 100.38 l 1792.65 114.32 1804.01 175.14)}Dilarang minum di atas perlengkapan!! Tanggung jawab jika barang rusak{\frz-0.2}.
@@ -8636,8 +8636,8 @@ Dialogue: 0,0:03:37.98,0:03:38.03,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\
 Dialogue: 0,0:03:38.03,0:03:38.07,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.74\xbord0\ybord0\fax0.055\fay0\fscx178.47\fscy103.25\frz1.12\frx-37.144\fry2.723\org(965.04,811.11)\pos(964.47,811.01)}Obrolan Kuota
 Dialogue: 0,0:03:38.07,0:03:38.11,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.76\xbord0\ybord0\fax0.055\fay0\fscx182.53\fscy105.6\frz1.13\frx-37.144\fry2.723\org(965.27,817.2)\pos(964.64,817.1)}Obrolan Kuota
 Dialogue: 0,0:03:38.11,0:03:39.32,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.77\xbord0\ybord0\fax0.055\fay0\fscx184.45\fscy106.71\frz1.14\frx-37.144\fry2.723\org(965.44,820.01)\pos(964.78,819.92)}Obrolan Kuota
-Dialogue: 0,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0\c&H000000&}m -390 -178 l 396 -178 396 178 -390 178
-Dialogue: 1,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{=84}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80\fnKG Second Chances Solid}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang?!\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
+Dialogue: 0,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0\blur1\c&H000000&}m -390 -178 l 396 -178 396 178 -390 178
+Dialogue: 1,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{=117}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80\fnKG Second Chances Solid}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang?!\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
 Comment: 0,0:21:58.80,0:22:01.55,riasan ampas,karaOKkitan,0,0,0,abaikan,{Lirik: Aki Hamaji}{\N}{Lagu: Instant}{}{}{ignore}
 Comment: 0,0:23:35.02,0:23:41.82,riasan ampas,hardsubbed,0,0,0,abaikan,{Bocchi sang Roker! - 03 - Aku akan Segera ke Sana}{}{}{}{ignore}
 
