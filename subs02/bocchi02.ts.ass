@@ -17,9 +17,9 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2731
-Active Line: 2750
-Video Position: 23366
+Scroll Position: 8602
+Active Line: 8621
+Video Position: 20459
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -8643,6 +8643,12 @@ Dialogue: 0,0:03:38.07,0:03:38.11,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\
 Dialogue: 0,0:03:38.11,0:03:39.32,riasan ampas,bokscakap,0,0,0,,{=11677=17431}{\alpha&H00&\fnFOT-UDMarugo_Large Pr6N U\1c&H0A0D0B&\1a&H22&\blur0.77\xbord0\ybord0\fax0.055\fay0\fscx184.45\fscy106.71\frz1.14\frx-37.144\fry2.723\org(965.44,820.01)\pos(964.78,819.92)}Obrolan Kuota
 Dialogue: 0,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{\an7\pos(960,540)\p1\shad0\bord0\blur1\c&H000000&}m -390 -178 l 396 -178 396 178 -390 178
 Dialogue: 1,0:02:03.06,0:02:03.98,riasan ampas,,0,0,0,,{=117}{\shad0\bord0\blur0.6\an5\c&HFFFFFF&\fscx80\pos(960,540)\fscy80\fnKG Second Chances Solid}Hak Cipta{Copyright}\N\NAniplex\NHoubunsha{Manga Time KR}\N\N\NDipersembahkan oleh Interrobang?!\N\N\N{\fscx90\fscy90}{Aki Hamaji}© Hamaji Aki / Houbunsha{Manga Time KR} / Aniplex{}{}{}{n: mungkin hapus??}
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18253}{\blur0.8\fnBebas Neue SemiRounded\b1\bord3\3c&HC4C5C9&\c&HC4C5C9&\fax-0.604379\fay0.0000\fscx84.59\fscy88.33\frz31.3396\frx-1.1141\fry7.0414\org(783.33,603.58)\pos(796.63,603.58)}\h\hUltra Milk\NRasa Apel 100
+Dialogue: 1,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18253}{\blur0.8\fnBebas Neue SemiRounded\b1\c&H7F7FBB&\bord0\fax-0.604379\fay0.0000\fscx84.59\fscy88.33\frz31.3396\frx-1.1141\fry7.0414\org(783.33,603.58)\pos(796.63,603.58)\4a&HFF&}\h\hUltra Milk\NRasa Apel 100
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18342}{\blur0.8\fnBebas Neue SemiRounded\b1\bord2.6\3c&HC4C5C9&\c&HC4C5C9&\fax-0.700072\fay0.0000\fscx68.31\fscy79.74\frz31.1047\frx-1.2364\fry7.8189\org(1067.23,417.62)\pos(1079.66,417.62)}\h\h\h\hUltra Milk\NRasa Apel 100
+Dialogue: 1,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18342}{\blur0.8\fnBebas Neue SemiRounded\b1\c&H7F7FBB&\bord0\fax-0.700072\fay0.0000\fscx68.31\fscy79.74\frz31.1047\frx-1.2364\fry7.8189\org(1067.23,417.62)\pos(1079.66,417.62)\4a&HFF&}\h\h\h\hUltra Milk\NRasa Apel 100
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18400}{\fnEager Naturalist\blur2.2\fax0.145094\fay0.0000\fscx53.38\fscy73.23\frz-14.8364\frx0.4136\fry-19.0646\org(1406.66,107.79)\pos(1404.65,107.79)\c&H262626&}Okaka
+Dialogue: 0,0:14:13.29,0:14:15.88,riasan ampas,,0,0,0,,{=18400}{\fnEager Naturalist\c&H262626&\blur0.8\fax0.385674\fay0.0000\fscx88.06\fscy94.04\frx15.6310\fry-14.8518\org(1457.46,993.75)\pos(1448.63,993.75)\frz226}Okaka
 Comment: 0,0:21:58.80,0:22:01.55,riasan ampas,karaOKkitan,0,0,0,abaikan,{Lirik: Aki Hamaji}{\N}{Lagu: Instant}{}{}{ignore}
 Comment: 0,0:23:35.02,0:23:41.82,riasan ampas,hardsubbed,0,0,0,abaikan,{Bocchi sang Roker! - 03 - Aku akan Segera ke Sana}{}{}{}{ignore}
 
@@ -8733,3 +8739,6 @@ Data: 17461,perspective_ambient_plane,e0.24947#2C0.22733#2C0.87244#2C0.46938
 Data: 17506,perspective_ambient_plane,e0.20459#2C0.17120#2C0.86779#2C0.35577
 Data: 17518,perspective_ambient_plane,e0.20088#2C0.13055#2C0.86086#2C0.37563
 Data: 17744,perspective_ambient_plane,e-1.52418#2C0.62709#2C0.68151#2C0.97221
+Data: 18253,perspective_ambient_plane,e-0.18183#2C1.20148#2C0.72424#2C1.49955
+Data: 18342,perspective_ambient_plane,e0.68733#2C1.12705#2C1.59340#2C1.42512
+Data: 18400,perspective_ambient_plane,e0.14479#2C0.09014#2C0.86511#2C0.47931
