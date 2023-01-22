@@ -19,10 +19,13 @@ YCbCr Matrix: TV.709
 Last Style Storage: Interrobang_Bocchi
 Audio File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2].mkv
 Video File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2].mkv
+Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi02_bd_premux [22E928B2]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 34045
+Video Zoom Percent: 0.625000
+Scroll Position: 246
+Active Line: 265
+Video Position: 16881
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,7 +106,7 @@ Dialogue: 0,0:04:35.79,0:04:37.96,Main,Nijika,0,0,0,,dan mengunjungi toko baju b
 Dialogue: 0,0:04:37.96,0:04:39.04,Main,Hitori,0,0,0,,{\i1}Tidak, aku salah.
 Dialogue: 0,0:04:39.72,0:04:42.55,Main,Hitori,0,0,0,,{\i1}Ryo itu tipe penyendiri!
 Dialogue: 0,0:04:44.72,0:04:47.43,Main,Hitori,0,0,0,,{\i1}Kecemasan sosial sepertiku\Ntakkan sanggup ke toko baju sendirian!
-Dialogue: 0,0:04:47.86,0:04:55.15,Main,Hitori,0,0,0,,{\i1}Jarak antara sendiri dan penyendiri\Nterlalu jauh untuk ditempuh!
+Dialogue: 0,0:04:47.86,0:04:55.15,Main,Hitori,0,0,0,,{\i1\t(4182,5462,\3c&HFFFFFF&\4c&HFFFFFF&)}Jarak antara sendiri dan penyendiri\Nterlalu jauh untuk ditempuh!
 Dialogue: 0,0:04:55.47,0:04:58.03,Main,Hitori,0,0,0,,{\i1}Aku nyaris saja masuk perangkap.
 Dialogue: 0,0:04:58.03,0:05:00.07,Main,Nijika,0,0,0,,Bocchi, coba kita nikmati\Nobrolannya dulu, yuk!
 Dialogue: 0,0:05:02.74,0:05:02.78,Main,Nijika,0,0,0,,{\clip(m 1320.5 950.19 l 1312.81 984.03 1320.5 989.56 1327.57 997.56 1328.5 1004.33 1611.79 1044.32 1595.49 908.05 1398.63 893.9)}Selanjutnya, obrolan musik favorit!
@@ -141,6 +144,9 @@ Dialogue: 0,0:06:03.36,0:06:07.47,Main,Hitori,0,0,0,,... sesaat aku mendadak mer
 Dialogue: 0,0:06:06.13,0:06:08.70,Overlap,Nijika,0,0,0,,{\an8}Oi, Bocchi ....
 Dialogue: 0,0:06:08.70,0:06:11.02,Overlap,Nijika,0,0,0,,{\an8}Jangan asyik di duniamu sendiri, dong!
 Dialogue: 0,0:06:10.45,0:06:13.83,Main,Hitori,0,0,0,,Rok sebagai musik begitu bergema\Ndi hati para kaum minoritas.
+Dialogue: 0,0:06:11.73,0:06:12.31,Overlap,Nijika,0,0,0,,{\an8}Oi!
+Dialogue: 0,0:06:12.77,0:06:13.48,Overlap,Nijika,0,0,0,,{\an8}Oi!
+Dialogue: 0,0:06:14.48,0:06:15.69,Overlap,Nijika,0,0,0,,{\an8}Oi ....
 Dialogue: 0,0:06:13.83,0:06:16.08,Main,Hitori,0,0,0,,Rok tak berarti bila dinyanyikan\Noleh para pemenang kehidupan.
 Dialogue: 0,0:06:16.08,0:06:18.18,Main,Nijika,0,0,0,,Kita kuatkan tali silaturahmi, dong!
 Dialogue: 0,0:06:18.18,0:06:19.90,Main,Ryo,0,0,0,,Talinya ada,\Nsilaturahminya enggak.
@@ -230,7 +236,7 @@ Dialogue: 0,0:09:39.43,0:09:42.19,Main,Prosecutor,0,0,0,,{\an8}Atas tuduhan tela
 Dialogue: 0,0:09:42.19,0:09:43.77,Main,Prosecutor,0,0,0,,{\an8}kami tuntut dia hukuman mati!
 Dialogue: 0,0:09:44.00,0:09:46.28,Main,Judge,0,0,0,,Baiklah, keputusannya ....
 Dialogue: 0,0:09:46.28,0:09:47.29,Main,Judge,0,0,0,,Hukuman mati!
-Dialogue: 0,0:09:47.69,0:09:50.19,Main,Hitori,0,0,0,,{\i1}Sudah pasti bakalan begini!
+Dialogue: 0,0:09:47.69,0:09:50.74,Main,Hitori,0,0,0,,{\i1\t(1607,3050,\4c&HFFFFFF&\3c&HFFFFFF&)}Sudah pasti bakalan begini!
 Dialogue: 0,0:09:50.72,0:09:51.53,Main,Nijika,0,0,0,,{\fad(175,175)}... cchi.
 Dialogue: 0,0:09:51.53,0:09:52.77,Main,Nijika,0,0,0,,{\fad(175,175)}Bocchi.
 Dialogue: 0,0:09:52.77,0:09:53.96,Main,Nijika,0,0,0,,{\fad(175,0)}Bocchi!
@@ -246,9 +252,26 @@ Dialogue: 0,0:10:13.70,0:10:15.30,Main,Nijika,0,0,0,,Kita bisa menyajikan minuma
 Dialogue: 0,0:10:15.30,0:10:17.76,Main,Nijika,0,0,0,,bersih-bersih, dan melihat beragam band!
 Dialogue: 0,0:10:15.30,0:10:17.76,Main,Hitori,0,0,0,,{\an8\i1}Aku gak mau kerja ....\NAku gak mau kerja!
 Dialogue: 0,0:10:17.76,0:10:19.76,Main,Nijika,0,0,0,,Gimana? Apa kamu mau?
-Dialogue: 0,0:10:22.63,0:10:24.35,Main,Hitori,0,0,0,,{\i1}Tolaklah, wahai diriku!
-Dialogue: 0,0:10:24.35,0:10:25.10,Main,Hitori,0,0,0,,{\i1}Tolaklah!
-Dialogue: 0,0:10:25.32,0:10:27.98,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:22.63,0:10:23.19,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Tolaklah, wahai diriku!
+Dialogue: 0,0:10:23.19,0:10:24.35,Main,Hitori,0,0,0,,{\i1}Tolaklah, wahai diriku!
+Dialogue: 0,0:10:24.35,0:10:25.10,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Tolaklah!
+Dialogue: 0,0:10:25.32,0:10:25.73,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:25.73,0:10:26.15,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:26.15,0:10:26.44,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:26.44,0:10:26.69,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:26.69,0:10:26.86,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:26.86,0:10:26.98,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:26.98,0:10:27.06,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:27.06,0:10:27.15,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:27.15,0:10:27.19,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:27.19,0:10:27.23,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:27.23,0:10:27.27,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:27.27,0:10:27.31,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:27.31,0:10:27.36,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:27.36,0:10:27.40,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:27.40,0:10:27.44,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
+Dialogue: 0,0:10:27.44,0:10:27.48,Main,Hitori,0,0,0,,{\i1\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Harus kutolak!
+Dialogue: 0,0:10:27.48,0:10:27.98,Main,Hitori,0,0,0,,{\i1}Harus kutolak!
 Dialogue: 0,0:10:29.09,0:10:30.27,Main,Hitori,0,0,0,,Aku akan berusaha.
 Dialogue: 0,0:10:30.27,0:10:31.81,Main,Nijika,0,0,0,,Bener, nih?\NMakasih, ya!
 Dialogue: 0,0:10:32.07,0:10:33.31,Main,Hitori,0,0,0,,{\i1}Maaf, diriku ....
@@ -276,7 +299,7 @@ Dialogue: 0,0:11:27.47,0:11:29.32,Main,Hitori,0,0,0,,{\i1}Maaf, maaf.
 Dialogue: 0,0:11:29.32,0:11:31.67,Main,Hitori,0,0,0,,{\i1}Aku siap berusaha keras\Nasal jangan bekerja.
 Dialogue: 0,0:11:32.73,0:11:36.09,Main,Futari,0,0,0,,Ibu! Mbak'e tenggelam!
 Dialogue: 0,0:11:40.20,0:11:43.36,Main,Hitori,0,0,0,,{\i1}Masuk angin! Masuk angin! \NMasuk angin! Masuk angin!
-Dialogue: 0,0:11:43.36,0:11:48.10,Main,Hitori,0,0,0,,{\i1}Masuk angin!
+Dialogue: 0,0:11:43.36,0:11:48.06,Main,Hitori,0,0,0,,{\i1\t(718,4700,\1c&H000000&)}Masuk angin!
 Dialogue: 0,0:11:54.42,0:11:56.61,Main,Hitori,0,0,0,,{\i1}Terkutuklah tubuhku yang sehat ini!
 Dialogue: 0,0:11:57.28,0:12:00.02,Main,Hitori,0,0,0,,{\i1}Kalau sudah begini,\Nterpaksa harus pura-pura—
 Dialogue: 0,0:12:04.27,0:12:05.49,Main,Hitori,0,0,0,,{\i1}Nijika?

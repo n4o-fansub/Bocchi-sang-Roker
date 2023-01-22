@@ -23,9 +23,9 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi01_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 273
-Active Line: 276
-Video Position: 19052
+Scroll Position: 465
+Active Line: 477
+Video Position: 30434
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -134,46 +134,46 @@ Dialogue: 0,0:06:13.20,0:06:16.27,Main,Hitori,0,0,0,,{\i1}... lagu {\i0}Death Me
 Dialogue: 0,0:06:14.78,0:06:16.27,Main,Speaker Song,0,0,0,,{\i1\an8}Aku akan ....
 Dialogue: 0,0:06:16.27,0:06:19.98,Main,Speaker Song,0,0,0,,{\i1\an8}Aku akan menghancurkan\Ntengkorak kepalamu!
 Dialogue: 0,0:06:21.98,0:06:22.19,Main,Hitori,0,0,0,,{\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.19,0:06:22.24,Main,Hitori,0,0,0,shake,{\pos(964.72,1012.27)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.24,0:06:22.28,Main,Hitori,0,0,0,shake,{\pos(956,1015.09)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.28,0:06:22.32,Main,Hitori,0,0,0,shake,{\pos(958.12,1019.25)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.32,0:06:22.36,Main,Hitori,0,0,0,shake,{\pos(962.81,1016.25)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.19,0:06:22.24,Main,Hitori,0,0,0,shake,{\pos(964.72,1002.27)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.24,0:06:22.28,Main,Hitori,0,0,0,shake,{\pos(956,1005.09)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.28,0:06:22.32,Main,Hitori,0,0,0,shake,{\pos(958.12,1009.25)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.32,0:06:22.36,Main,Hitori,0,0,0,shake,{\pos(962.81,1006.25)\i1}Kilas balik, sialan!
 Dialogue: 0,0:06:22.36,0:06:22.69,Main,Hitori,0,0,0,,{\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.69,0:06:22.74,Main,Hitori,0,0,0,shake,{\pos(956.18,1011.57)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.74,0:06:22.78,Main,Hitori,0,0,0,shake,{\pos(963.73,1014.67)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.78,0:06:22.82,Main,Hitori,0,0,0,shake,{\pos(955.62,1014.48)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:22.82,0:06:22.86,Main,Hitori,0,0,0,shake,{\pos(959.06,1016.55)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.69,0:06:22.74,Main,Hitori,0,0,0,shake,{\pos(956.18,1001.57)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.74,0:06:22.78,Main,Hitori,0,0,0,shake,{\pos(963.73,1004.67)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.78,0:06:22.82,Main,Hitori,0,0,0,shake,{\pos(955.62,1004.48)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:22.82,0:06:22.86,Main,Hitori,0,0,0,shake,{\pos(959.06,1006.55)\i1}Kilas balik, sialan!
 Dialogue: 0,0:06:22.86,0:06:23.19,Main,Hitori,0,0,0,,{\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.19,0:06:23.24,Main,Hitori,0,0,0,shake,{\pos(953.86,1016.39)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.24,0:06:23.28,Main,Hitori,0,0,0,shake,{\pos(955.11,1017.15)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.28,0:06:23.32,Main,Hitori,0,0,0,shake,{\pos(957.66,1018.18)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.32,0:06:23.36,Main,Hitori,0,0,0,shake,{\pos(963.21,1012.24)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.19,0:06:23.24,Main,Hitori,0,0,0,shake,{\pos(953.86,1006.39)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.24,0:06:23.28,Main,Hitori,0,0,0,shake,{\pos(955.11,1007.15)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.28,0:06:23.32,Main,Hitori,0,0,0,shake,{\pos(957.66,1008.18)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.32,0:06:23.36,Main,Hitori,0,0,0,shake,{\pos(963.21,1002.24)\i1}Kilas balik, sialan!
 Dialogue: 0,0:06:23.36,0:06:23.70,Main,Hitori,0,0,0,,{\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.70,0:06:23.74,Main,Hitori,0,0,0,shake,{\pos(961.85,1011.45)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.74,0:06:23.78,Main,Hitori,0,0,0,shake,{\pos(960.27,1019.98)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.78,0:06:23.82,Main,Hitori,0,0,0,shake,{\pos(958.28,1012.94)\i1}Kilas balik, sialan!
-Dialogue: 0,0:06:23.82,0:06:23.86,Main,Hitori,0,0,0,shake,{\pos(962.12,1019.83)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.70,0:06:23.74,Main,Hitori,0,0,0,shake,{\pos(961.85,1001.45)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.74,0:06:23.78,Main,Hitori,0,0,0,shake,{\pos(960.27,1009.98)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.78,0:06:23.82,Main,Hitori,0,0,0,shake,{\pos(958.28,1002.94)\i1}Kilas balik, sialan!
+Dialogue: 0,0:06:23.82,0:06:23.86,Main,Hitori,0,0,0,shake,{\pos(962.12,1009.83)\i1}Kilas balik, sialan!
 Dialogue: 0,0:06:23.86,0:06:24.10,Main,Hitori,0,0,0,,{\i1}Kilas balik, sialan!
 Dialogue: 0,0:06:24.10,0:06:24.20,Main,Hitori,0,0,0,,{\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.20,0:06:24.24,Main,Hitori,0,0,0,shake,{\pos(959.02,1013.71)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.24,0:06:24.28,Main,Hitori,0,0,0,shake,{\pos(958.85,1013.08)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.28,0:06:24.32,Main,Hitori,0,0,0,shake,{\pos(959.17,1018.34)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.32,0:06:24.36,Main,Hitori,0,0,0,shake,{\pos(959.63,1015.71)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.20,0:06:24.24,Main,Hitori,0,0,0,shake,{\pos(959.02,1003.71)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.24,0:06:24.28,Main,Hitori,0,0,0,shake,{\pos(958.85,1003.08)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.28,0:06:24.32,Main,Hitori,0,0,0,shake,{\pos(959.17,1008.34)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.32,0:06:24.36,Main,Hitori,0,0,0,shake,{\pos(959.63,1005.71)\i1}Lupakan! Cepat lupakan!
 Dialogue: 0,0:06:24.36,0:06:24.70,Main,Hitori,0,0,0,,{\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.70,0:06:24.74,Main,Hitori,0,0,0,shake,{\pos(961.1,1016.05)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.74,0:06:24.78,Main,Hitori,0,0,0,shake,{\pos(963.14,1014.66)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.78,0:06:24.82,Main,Hitori,0,0,0,shake,{\pos(961.15,1015.93)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:24.82,0:06:24.86,Main,Hitori,0,0,0,shake,{\pos(958.71,1010.69)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.70,0:06:24.74,Main,Hitori,0,0,0,shake,{\pos(961.1,1006.05)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.74,0:06:24.78,Main,Hitori,0,0,0,shake,{\pos(963.14,1004.66)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.78,0:06:24.82,Main,Hitori,0,0,0,shake,{\pos(961.15,1005.93)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:24.82,0:06:24.86,Main,Hitori,0,0,0,shake,{\pos(958.71,1000.69)\i1}Lupakan! Cepat lupakan!
 Dialogue: 0,0:06:24.86,0:06:25.20,Main,Hitori,0,0,0,,{\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.20,0:06:25.24,Main,Hitori,0,0,0,shake,{\pos(963.5,1014.75)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.24,0:06:25.28,Main,Hitori,0,0,0,shake,{\pos(958.87,1012.52)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.28,0:06:25.32,Main,Hitori,0,0,0,shake,{\pos(959.66,1011.9)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.32,0:06:25.36,Main,Hitori,0,0,0,shake,{\pos(958.16,1014.47)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.20,0:06:25.24,Main,Hitori,0,0,0,shake,{\pos(963.5,1004.75)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.24,0:06:25.28,Main,Hitori,0,0,0,shake,{\pos(958.87,1002.52)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.28,0:06:25.32,Main,Hitori,0,0,0,shake,{\pos(959.66,1001.9)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.32,0:06:25.36,Main,Hitori,0,0,0,shake,{\pos(958.16,1004.47)\i1}Lupakan! Cepat lupakan!
 Dialogue: 0,0:06:25.36,0:06:25.70,Main,Hitori,0,0,0,,{\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.70,0:06:25.74,Main,Hitori,0,0,0,shake,{\pos(962.52,1016.58)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.74,0:06:25.78,Main,Hitori,0,0,0,shake,{\pos(960.46,1011.67)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.78,0:06:25.82,Main,Hitori,0,0,0,shake,{\pos(959.35,1013.33)\i1}Lupakan! Cepat lupakan!
-Dialogue: 0,0:06:25.82,0:06:25.86,Main,Hitori,0,0,0,shake,{\pos(959.27,1012.65)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.70,0:06:25.74,Main,Hitori,0,0,0,shake,{\pos(962.52,1006.58)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.74,0:06:25.78,Main,Hitori,0,0,0,shake,{\pos(960.46,1001.67)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.78,0:06:25.82,Main,Hitori,0,0,0,shake,{\pos(959.35,1003.33)\i1}Lupakan! Cepat lupakan!
+Dialogue: 0,0:06:25.82,0:06:25.86,Main,Hitori,0,0,0,shake,{\pos(959.27,1002.65)\i1}Lupakan! Cepat lupakan!
 Dialogue: 0,0:06:25.86,0:06:25.94,Main,Hitori,0,0,0,,{\i1}Lupakan! Cepat lupakan!
 Dialogue: 0,0:06:33.48,0:06:35.79,Main,Hitori,0,0,0,,{\i1}Kayaknya tampil konser enak, ya?
 Dialogue: 0,0:06:44.07,0:06:45.09,Main,Hitori,0,0,0,,{\i1}Ah ....
@@ -268,7 +268,7 @@ Dialogue: 0,0:10:55.38,0:10:56.98,Main,Nijika,0,0,0,,Apa aku jalannya terlalu ce
 Dialogue: 0,0:10:56.98,0:10:57.80,Main,Hitori,0,0,0,,E-Enggak, kok ....
 Dialogue: 0,0:10:58.17,0:11:02.04,Main,Nijika,0,0,0,,Hari ini, kita akan tampil\Ndi rumah konser Starry.
 Dialogue: 0,0:11:02.04,0:11:04.68,Main,Nijika,0,0,0,,Tetehku jadi manajer di sana.
-Dialogue: 0,0:11:02.04,0:11:04.68,Main,Hitori,0,0,0,,{\an8}Tampil di rumah konser ....
+Dialogue: 0,0:11:02.04,0:11:04.68,Main,Hitori,0,0,0,,{\an8\i1}Tampil di rumah konser ....
 Dialogue: 0,0:11:04.97,0:11:07.18,Main,Hitori,0,0,0,,{\i1}Kedengarannya resmi, gitu.
 Dialogue: 0,0:11:07.18,0:11:09.06,Main,Hitori,0,0,0,,{\i1}Bentar, kok jantungku\Nkayak mau meledak, ya?
 Dialogue: 0,0:11:09.35,0:11:10.24,Main,Nijika,0,0,0,,Terus ....
@@ -359,11 +359,11 @@ Dialogue: 0,0:14:31.79,0:14:33.50,Main,Nijika,0,0,0,,{\an8}Ah, yah ....
 Dialogue: 0,0:14:33.50,0:14:34.89,Main,Nijika,0,0,0,,{\an8}Maaf!
 Dialogue: 0,0:14:32.73,0:14:34.89,Main,Hitori,0,0,0,,{\i1}30 ribu {\i0}subscriber{\i1}, lo!
 Dialogue: 0,0:14:34.89,0:14:36.35,Main,Guitar Man,0,0,0,swipe,Biar kujelaskan!
-Dialogue: 0,0:14:36.35,0:14:36.40,Main,Guitar Man,0,0,0,swipe,{\pos(990,1015)}Biar kujelaskan!
-Dialogue: 0,0:14:36.40,0:14:36.44,Main,Guitar Man,0,0,0,swipe,{\pos(1040,1015)}Biar kujelaskan!
-Dialogue: 0,0:14:36.44,0:14:36.47,Main,Guitar Man,0,0,0,swipe,{\pos(1200,1015)}Biar kujelaskan!
-Dialogue: 0,0:14:36.48,0:14:36.52,Main,Guitar Man,0,0,0,swipe,{\pos(1545,1015)}Biar kujelaskan!
-Dialogue: 0,0:14:36.52,0:14:36.56,Main,Guitar Man,0,0,0,swipe,{\pos(2060,1015)}Biar kujelaskan!
+Dialogue: 0,0:14:36.35,0:14:36.40,Main,Guitar Man,0,0,0,swipe,{\pos(990,1005)}Biar kujelaskan!
+Dialogue: 0,0:14:36.40,0:14:36.44,Main,Guitar Man,0,0,0,swipe,{\pos(1040,1005)}Biar kujelaskan!
+Dialogue: 0,0:14:36.44,0:14:36.47,Main,Guitar Man,0,0,0,swipe,{\pos(1200,1005)}Biar kujelaskan!
+Dialogue: 0,0:14:36.48,0:14:36.52,Main,Guitar Man,0,0,0,swipe,{\pos(1545,1005)}Biar kujelaskan!
+Dialogue: 0,0:14:36.52,0:14:36.56,Main,Guitar Man,0,0,0,swipe,{\pos(2060,1005)}Biar kujelaskan!
 Dialogue: 0,0:14:36.96,0:14:41.13,Main,Guitar Man,0,0,0,,Dalam suatu band, sangat penting untuk\Nmenyelaraskan dengan personel lain!
 Dialogue: 0,0:14:41.13,0:14:43.94,Main,Guitar Man,0,0,0,,Tapi, Hitori yang memiliki kecemasan\Nsosial dan selalu menunduk,
 Dialogue: 0,0:14:43.94,0:14:45.67,Main,Guitar Man,0,0,0,,dia punya kecenderungan\Nuntuk menahan diri!
@@ -509,28 +509,28 @@ Dialogue: 0,0:20:53.73,0:20:57.03,Main,Hitori,0,0,0,,{\i1}Malahan ini titik tere
 Dialogue: 0,0:21:01.03,0:21:02.88,Main,Nijika,0,0,0,,Tadi agak kepeleset, euy!
 Dialogue: 0,0:21:02.88,0:21:04.80,Main,Ryo,0,0,0,,Perkenalannya juga payah.
 Dialogue: 0,0:21:04.80,0:21:05.82,Main,Hitori,0,0,0,,A-Anu!
-Dialogue: 0,0:21:06.54,0:21:06.70,Main,Hitori,0,0,0,,{\an8}Se-{\alpha&HFF&}Se-Se ....
-Dialogue: 0,0:21:06.70,0:21:07.08,Main,Hitori,0,0,0,,{\an8}Se-Se-{\alpha&HFF&}Se ....
-Dialogue: 0,0:21:07.08,0:21:07.53,Main,Hitori,0,0,0,,{\an8}Se-Se-Se ....
+Dialogue: 0,0:21:06.54,0:21:06.70,Main,Hitori,0,0,0,stutter,{\an8}Se-{\alpha&HFF&}Se-Se ....
+Dialogue: 0,0:21:06.70,0:21:07.08,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-{\alpha&HFF&}Se ....
+Dialogue: 0,0:21:07.08,0:21:07.53,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se ....
 Dialogue: 0,0:21:07.53,0:21:08.39,Main,Nijika,0,0,0,,Apa?!
-Dialogue: 0,0:21:08.39,0:21:08.79,Main,Hitori,0,0,0,,{\an8}Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:08.79,0:21:09.12,Main,Hitori,0,0,0,,{\an8}Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:09.12,0:21:09.41,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:09.41,0:21:09.66,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:09.66,0:21:09.91,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:09.91,0:21:10.08,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:10.08,0:21:10.21,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:10.21,0:21:10.33,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:10.33,0:21:10.46,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:10.46,0:21:10.58,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:10.58,0:21:10.79,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:10.79,0:21:10.96,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:10.96,0:21:11.12,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se ....
-Dialogue: 0,0:21:11.12,0:21:11.25,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se ....
-Dialogue: 0,0:21:11.25,0:21:11.37,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se ....
-Dialogue: 0,0:21:11.37,0:21:11.50,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se ....
-Dialogue: 0,0:21:11.50,0:21:11.58,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se ....
-Dialogue: 0,0:21:11.58,0:21:12.25,Main,Hitori,0,0,0,,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:08.39,0:21:08.79,Main,Hitori,0,0,0,stutter,{\an8}Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:08.79,0:21:09.12,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:09.12,0:21:09.41,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:09.41,0:21:09.66,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:09.66,0:21:09.91,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:09.91,0:21:10.08,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:10.08,0:21:10.21,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:10.21,0:21:10.33,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:10.33,0:21:10.46,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:10.46,0:21:10.58,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:10.58,0:21:10.79,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:10.79,0:21:10.96,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:10.96,0:21:11.12,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se-Se ....
+Dialogue: 0,0:21:11.12,0:21:11.25,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se-Se ....
+Dialogue: 0,0:21:11.25,0:21:11.37,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se-Se ....
+Dialogue: 0,0:21:11.37,0:21:11.50,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se-Se ....
+Dialogue: 0,0:21:11.50,0:21:11.58,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-{\alpha&HFF&}Se ....
+Dialogue: 0,0:21:11.58,0:21:12.25,Main,Hitori,0,0,0,stutter,{\an8}Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se-Se ....
 Dialogue: 0,0:21:10.11,0:21:11.73,Main,Nijika,0,0,0,,Apaan?!\NKamu nyeremin, tahu!
 Dialogue: 0,0:21:12.25,0:21:17.01,Main,Hitori,0,0,0,,Sebelum konser berikutnya, akan kuusahakan\Nsupaya bisa menyapa teman sekelasku!
 Dialogue: 0,0:21:17.01,0:21:18.17,Main,Nijika,0,0,0,,Kayak deklarasi perang aja.
@@ -539,24 +539,24 @@ Dialogue: 0,0:21:20.25,0:21:21.60,Main,Nijika,0,0,0,,Tapi, syukurlah ....
 Dialogue: 0,0:21:21.60,0:21:22.32,Main,Nijika,0,0,0,,Sip!
 Dialogue: 0,0:21:22.32,0:21:26.55,Main,Nijika,0,0,0,,Kalau begitu, kita adakan pesta penyambutan\NBocchi sekaligus pesta habis konser!
 Dialogue: 0,0:21:27.25,0:21:30.26,Main,Hitori,0,0,0,,Hari ini aku terlalu banyak berinteraksi,\Njadi aku duluan pulang, ya.
-Dialogue: 0,0:21:30.63,0:21:31.85,Main,Ryo,0,0,0,,Duh, ngantuk.
-Dialogue: 0,0:21:31.85,0:21:31.89,Main,Ryo,0,0,0,,{\pos(645,1020)}Duh, ngantuk.
-Dialogue: 0,0:21:31.89,0:21:31.94,Main,Ryo,0,0,0,,{\pos(150,1020)\c&HFFFFFF&\alpha&H14&}Duh, ngantuk.
-Dialogue: 0,0:21:31.94,0:21:31.98,Main,Ryo,0,0,0,,{\pos(-90,1020)\c&HFFFFFF&\alpha&H28&}Duh, ngantuk.
-Dialogue: 0,0:21:31.98,0:21:32.10,Main,Ryo,0,0,0,,{\fad(0,200)\pos(-150,1020)}Duh, ngantuk.
-Dialogue: 0,0:21:32.28,0:21:33.56,Main,Hitori,0,0,0,,Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.56,0:21:33.60,Main,Hitori,0,0,0,,{\pos(961,1020)}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.60,0:21:33.65,Main,Hitori,0,0,0,,{\pos(963,1020)}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.65,0:21:33.69,Main,Hitori,0,0,0,,{\pos(966,1020)}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.69,0:21:33.73,Main,Hitori,0,0,0,,{\pos(970,1020)}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.73,0:21:33.77,Main,Hitori,0,0,0,,{\pos(978,1020)}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.77,0:21:33.81,Main,Hitori,0,0,0,,{\pos(994,1020)}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.81,0:21:33.85,Main,Hitori,0,0,0,,{\pos(1067,1020)}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.85,0:21:33.90,Main,Hitori,0,0,0,,{\pos(1235,1020)\c&HFFFFFF&\alpha&H2A&}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.90,0:21:33.94,Main,Hitori,0,0,0,,{\pos(1493,1020)\c&HFFFFFF&\alpha&H55&}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.94,0:21:33.98,Main,Hitori,0,0,0,,{\pos(1825,1020)\c&HFFFFFF&\alpha&H80&}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:33.98,0:21:34.02,Main,Hitori,0,0,0,,{\pos(2076,1020)\c&HFFFFFF&\alpha&HAA&}Du-Du-Duluan, ya!
-Dialogue: 0,0:21:34.02,0:21:34.06,Main,Hitori,0,0,0,,{\pos(2076,1020)\c&HFFFFFF&\alpha&HD5&}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:30.63,0:21:31.85,Main,Ryo,0,0,0,swipe,Duh, ngantuk.
+Dialogue: 0,0:21:31.85,0:21:31.89,Main,Ryo,0,0,0,swipe,{\pos(645,1005)}Duh, ngantuk.
+Dialogue: 0,0:21:31.89,0:21:31.94,Main,Ryo,0,0,0,swipe,{\pos(150,1005)\c&HFFFFFF&\alpha&H14&}Duh, ngantuk.
+Dialogue: 0,0:21:31.94,0:21:31.98,Main,Ryo,0,0,0,swipe,{\pos(-90,1005)\c&HFFFFFF&\alpha&H28&}Duh, ngantuk.
+Dialogue: 0,0:21:31.98,0:21:32.10,Main,Ryo,0,0,0,swipe,{\fad(0,200)\pos(-150,1005)}Duh, ngantuk.
+Dialogue: 0,0:21:33.56,0:21:33.60,Main,Hitori,0,0,0,swipe,{\pos(960,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:32.28,0:21:33.56,Main,Hitori,0,0,0,swipe,{\pos(961,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.60,0:21:33.65,Main,Hitori,0,0,0,swipe,{\pos(963,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.65,0:21:33.69,Main,Hitori,0,0,0,swipe,{\pos(966,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.69,0:21:33.73,Main,Hitori,0,0,0,swipe,{\pos(970,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.73,0:21:33.77,Main,Hitori,0,0,0,swipe,{\pos(978,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.77,0:21:33.81,Main,Hitori,0,0,0,swipe,{\pos(994,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.81,0:21:33.85,Main,Hitori,0,0,0,swipe,{\pos(1067,1005)}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.85,0:21:33.90,Main,Hitori,0,0,0,swipe,{\pos(1235,1005)\c&HFFFFFF&\alpha&H2A&}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.90,0:21:33.94,Main,Hitori,0,0,0,swipe,{\pos(1493,1005)\c&HFFFFFF&\alpha&H55&}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.94,0:21:33.98,Main,Hitori,0,0,0,swipe,{\pos(1825,1005)\c&HFFFFFF&\alpha&H80&}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:33.98,0:21:34.02,Main,Hitori,0,0,0,swipe,{\pos(2076,1005)\c&HFFFFFF&\alpha&HAA&}Du-Du-Duluan, ya!
+Dialogue: 0,0:21:34.02,0:21:34.06,Main,Hitori,0,0,0,swipe,{\pos(2076,1005)\c&HFFFFFF&\alpha&HD5&}Du-Du-Duluan, ya!
 Dialogue: 0,0:21:38.90,0:21:41.22,Main,Nijika,0,0,0,,Kok ikatannya gak ada\Nsama sekali, sih?!
 Dialogue: 0,0:21:49.37,0:21:51.30,Main,Hitori,0,0,0,,{\i1}Aku pasti akan sembuh dari rasa cemas
 Dialogue: 0,0:21:51.30,0:21:54.73,Main,Hitori,0,0,0,,{\i1}dan mengerahkan seluruh\Nkekuatan {\i0}guitarhero{\i1} milikku!
