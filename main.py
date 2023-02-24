@@ -3,17 +3,18 @@ import sys
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile
 
-from ass_parser import AssFile, read_ass
 from pymkv import MKVFile, MKVTrack
 
+from subpy import __version__ as subpy_version
 from subpy.chapters import Chapter, generate_chapter_file, get_chapters_from_ass
+from subpy.extended_ass import ExtendedAssFile
 from subpy.fonts import find_fonts, validate_fonts
 from subpy.merger import merge_ass_and_sync, parse_sync_timestamp
 from subpy.properties import SyncPoint, read_and_parse_properties
+from subpy.reader import read_ass
 from subpy.utils import incr_layer
 from subpy.writer import write_ass
 
-subpy_version = "1.1.1"
 CURRENT_DIR = Path(__file__).parent
 COMMON_DIR = CURRENT_DIR / "common"
 
@@ -35,7 +36,7 @@ if episode_meta is None:
 print(f"[?] Processing episode {current_episode}...")
 print(f"[?] Using basename: {basename}")
 chapters_data: dict[str, Chapter] = {}
-base_ass: AssFile | None = None
+base_ass: ExtendedAssFile | None = None
 base_ass_path: Path | None = None
 fonts_folder: set[Path] = set()
 total_scripts = 0
@@ -73,7 +74,7 @@ for fmt, paths in episode_meta.scripts.items():
         if sync_act is None and chapter_point is not None:
             print(f'    [+] Syncing to chapter "{sync_time.chapter}" ({chapter_point.milisecond})')
             sync_act = chapter_point.milisecond
-        merge_ass_and_sync(base_ass, merge_ass, sync_act, bump_layer)
+        merge_ass_and_sync(base_ass, merge_ass, sync_act, bump_layer, total_scripts, config=raw_prop)
         total_scripts += 1
 
 if base_ass is None:
@@ -83,6 +84,7 @@ if base_ass_path is None:
     print("[!] Somehow we got an empty episode case?")
     sys.exit(1)
 
+# Set script information
 base_ass.script_info["Title"] = f"[‽] Bocchi sang Roker! - {current_episode}"
 base_ass.script_info["Original Translation"] = "Suaminya Kita Ikuyo"
 base_ass.script_info["Original Editing"] = "Suaminya Kita Ikuyo dan Suaminya Nijika-chan"
@@ -90,6 +92,12 @@ base_ass.script_info["Original Timing"] = "Suaminya Kita Ikuyo"
 base_ass.script_info["Synch Point"] = base_ass_path.stem  # type: ignore
 base_ass.script_info["Script Updated By"] = f"SubPy/v{subpy_version} Script Merger"
 base_ass.script_info["Update Details"] = f"Merged {total_scripts} scripts with SubPy/v{subpy_version} Script Merger"
+# Set Aegisub project garbage
+if base_ass.project_garbage.get("Video File"):
+    # Seek to 0
+    base_ass.project_garbage["Scroll Position"] = "0"
+    base_ass.project_garbage["Active Line"] = "0"
+    base_ass.project_garbage["Video Position"] = "0"
 
 print("[+] Writing merged files!")
 final_folder = CURRENT_DIR / "final"

@@ -1,9 +1,11 @@
 from copy import copy
 from datetime import timedelta
+from typing import Set
 
-from ass_parser import AssEvent, AssFile
+from ass_parser import AssEvent
 
 from .chapters import Chapter
+from .extended_ass import ExtendedAssFile
 
 
 def timedelta_to_miliseconds(timedelta: timedelta):
@@ -29,11 +31,16 @@ def find_sync_point_from_chapter(chapters: list[Chapter], sync_point: str):
     return None
 
 
+def fmt_style(style_name: str, number: int):
+    return f"{number}${style_name}"
+
+
 def merge_ass_and_sync(
-    target: AssFile,
-    source: AssFile,
+    target: ExtendedAssFile,
+    source: ExtendedAssFile,
     target_sync: int | str | None = None,
     bump_layer: int = 0,
+    number: int = 1,
     *,
     config: dict | None = None,
 ):
@@ -75,7 +82,7 @@ def merge_ass_and_sync(
             comment_found_at = i
     if comment_found_at != -1:
         comment_start_idx = comment_found_at
-    used_styles = set()
+    used_styles: Set[str] = set()
     conf_skip_templater = config.get("yeettemplater", False)
     comments_set: list[AssEvent] = []
     for line in source.events:  # iter the source events
@@ -97,7 +104,10 @@ def merge_ass_and_sync(
             lx.set_text("{template has been removed, please see the original file}")
             lx.effect = ""
             lx.actor = "kfx-templater"
+        if (sgs := source.styles.get_by_name(lx.style_name)) is None:
+            raise ValueError(f"Style {lx.style_name} not found in source file")
         used_styles.add(lx.style_name)
+        lx.style_name = fmt_style(lx.style_name, number)
         if line.is_comment and line.effect != "sync":
             comments_set.append(lx)
         else:
@@ -107,9 +117,7 @@ def merge_ass_and_sync(
         comment_start_idx += 1
     # copy style
     for style in used_styles:
-        tgs = target.styles.get_by_name(style)
         if (sgs := source.styles.get_by_name(style)) is not None:
-            if tgs is not None:
-                target.styles[tgs.index] = copy(sgs)
-            else:
-                target.styles.append(copy(sgs))
+            sgs_cp = copy(sgs)
+            sgs_cp.name = fmt_style(sgs_cp.name, number)
+            target.styles.append(sgs_cp)

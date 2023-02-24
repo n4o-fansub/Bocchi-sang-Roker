@@ -9,9 +9,10 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Generator
 
-from ass_parser import AssFile
 from fontTools.misc import encodingTools
 from fontTools.ttLib import ttFont
+
+from .extended_ass import ExtendedAssFile
 
 __all__ = (
     "deduplicates_fonts",
@@ -226,7 +227,9 @@ class FontCollection:
             return font
 
 
-def validate_fonts(doc: AssFile, fonts: FontCollection, ignore_drawings: bool = True, warn_on_exact: bool = False):
+def validate_fonts(
+    doc: ExtendedAssFile, fonts: FontCollection, ignore_drawings: bool = True, warn_on_exact: bool = False
+):
     report = {
         "missing_font": collections.defaultdict(set),
         "missing_glyphs": collections.defaultdict(set),

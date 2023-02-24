@@ -1,7 +1,7 @@
 import re
 from dataclasses import dataclass
 
-from ass_parser import AssFile
+from .extended_ass import ExtendedAssFile
 
 __all__ = (
     "Chapter",
@@ -17,7 +17,7 @@ class Chapter:
     milisecond: int
 
 
-def get_chapters_from_ass(ass_file: AssFile):
+def get_chapters_from_ass(ass_file: ExtendedAssFile):
     chapters: dict[str, Chapter] = {}
     for event in ass_file.events:
         if not event.is_comment:
