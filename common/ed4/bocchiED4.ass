@@ -23,9 +23,9 @@ Keyframes File: ../../_old/Bocchi the Rock! - 12 (Amazon Prime CBR 1080p)_keyfra
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 24
-Video Position: 29511
+Scroll Position: 63
+Active Line: 73
+Video Position: 32272
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,16 +89,16 @@ Comment: 0,0:22:39.80,0:22:47.51,Lagu ED4,,0,0,0,karaoke,{\fad(0,300)}Start to r
 Comment: 0,0:20:13.40,0:20:19.61,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Dekireba sekai wo boku wa nurikaetai
 Comment: 0,0:20:19.82,0:20:25.83,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Sensou wo nakusu you na daisoreta koto janai
 Comment: 0,0:20:26.18,0:20:31.88,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Dakedo chotto sore mo aru yo na
-Comment: 0,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}haiyuu ya eiga sutaa ni wa narenai
-Comment: 0,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Sore dokoro ka kimi no mae de sae mo jouzu ni waraenai
+Comment: 0,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Haiyuu ya eiga sutaa ni wa narenai sore dokoro ka
+Comment: 0,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Kimi no mae de sae mo jouzu ni waraenai
 Comment: 0,0:20:45.60,0:20:51.65,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(175,175)}Sonna boku ni sube wa nai yo na
 Comment: 0,0:20:54.94,0:20:56.74,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(200,0)}Nani wo machigatta?
 Comment: 0,0:20:56.74,0:20:59.99,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,Sore sae mo wakaranain da
-Comment: 0,0:20:59.99,0:21:01.62,Lagu ED4 - Alt - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:20:59.99,0:21:01.62,Lagu ED4 - Alt - ROM,roll,0,0,0,karaoke,Rooringu rooringu{}{}{}{Ganti ke Rolling, Rolling pas dah di TL Indo}
 Comment: 0,0:21:01.62,0:21:07.54,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(0,200)}Hajime kara mottenai no ni mune ga itanda
 Comment: 0,0:21:08.12,0:21:11.21,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(200,0)}Bokura wa kitto kono saki mo
 Comment: 0,0:21:11.21,0:21:12.92,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,Kokoro karamatte
-Comment: 0,0:21:12.92,0:21:14.42,Lagu ED4 - Alt - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:21:12.92,0:21:14.42,Lagu ED4 - Alt - ROM,roll,0,0,0,karaoke,Rooringu rooringu{}{}{}{Ganti ke Rolling, Rolling pas dah di TL Indo}
 Comment: 0,0:21:14.42,0:21:22.01,Lagu ED4 - Alt - ROM,,0,0,0,karaoke,{\fad(0,200)}Itetsuku jimen wo korogaru you ni hashiridashita
 Comment: 0,0:21:51.33,0:21:57.71,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,0)}Akai akai chiisana kuruma wa
 Comment: 0,0:21:57.71,0:22:04.09,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,200)}Kimi wo nosete
@@ -110,11 +110,11 @@ Comment: 0,0:22:13.73,0:22:19.15,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,200)}Mien
 Comment: 0,0:22:15.48,0:22:19.15,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,200)\an9}(Mienaku natta)
 Comment: 0,0:22:20.44,0:22:22.11,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,0)}Nani wo nakushita?
 Comment: 0,0:22:22.11,0:22:25.28,Lagu ED4 - ROM,,0,0,0,karaoke,Sore sae mo wakaranain da
-Comment: 0,0:22:25.28,0:22:26.91,Lagu ED4 - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:22:25.28,0:22:26.91,Lagu ED4 - ROM,roll,0,0,0,karaoke,Rooringu rooringu{}{}{}{Ganti ke Rolling, Rolling pas dah di TL Indo}
 Comment: 0,0:22:26.91,0:22:32.91,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,200)}Hajime kara mottenai no ni mune ga itanda
 Comment: 0,0:22:33.54,0:22:36.54,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(200,0)}Bokura wa kitto kono saki mo
 Comment: 0,0:22:36.54,0:22:38.09,Lagu ED4 - ROM,,0,0,0,karaoke,Kokoro karamatte
-Comment: 0,0:22:38.09,0:22:39.80,Lagu ED4 - ROM,roll,0,0,0,karaoke,Rooringu rooringu
+Comment: 0,0:22:38.09,0:22:39.80,Lagu ED4 - ROM,roll,0,0,0,karaoke,Rooringu rooringu{}{}{}{Ganti ke Rolling, Rolling pas dah di TL Indo}
 Comment: 0,0:22:39.80,0:22:47.51,Lagu ED4 - ROM,,0,0,0,karaoke,{\fad(0,300)}Itetsuku sekai wo korogaru you ni hashiridashita
 Dialogue: 1,0:20:13.40,0:20:19.61,Lagu ED4,,0,0,0,fx,{\fad(175,175)\blur2.5\1a&HFF&\t(0,130,\1a&H00&)\t(6035,6080,\1a&HFF&)}If I could, I'd repaint the world
 Dialogue: 2,0:20:13.40,0:20:19.61,Lagu ED4,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.6}If I could, I'd repaint the world
@@ -182,10 +182,10 @@ Dialogue: 1,0:20:19.82,0:20:25.83,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.
 Dialogue: 2,0:20:19.82,0:20:25.83,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Sensou wo nakusu you na daisoreta koto janai
 Dialogue: 1,0:20:26.18,0:20:31.88,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5525,5570,\1a&HFF&)}Dakedo chotto sore mo aru yo na
 Dialogue: 2,0:20:26.18,0:20:31.88,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Dakedo chotto sore mo aru yo na
-Dialogue: 1,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(6355,6400,\1a&HFF&)}haiyuu ya eiga sutaa ni wa narenai
-Dialogue: 2,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}haiyuu ya eiga sutaa ni wa narenai
-Dialogue: 1,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5875,5920,\1a&HFF&)}Sore dokoro ka kimi no mae de sae mo jouzu ni waraenai
-Dialogue: 2,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Sore dokoro ka kimi no mae de sae mo jouzu ni waraenai
+Dialogue: 1,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(6355,6400,\1a&HFF&)}Haiyuu ya eiga sutaa ni wa narenai sore dokoro ka
+Dialogue: 2,0:20:32.56,0:20:39.09,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Haiyuu ya eiga sutaa ni wa narenai sore dokoro ka
+Dialogue: 1,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5875,5920,\1a&HFF&)}Kimi no mae de sae mo jouzu ni waraenai
+Dialogue: 2,0:20:39.09,0:20:45.14,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Kimi no mae de sae mo jouzu ni waraenai
 Dialogue: 1,0:20:45.60,0:20:51.65,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\blur2.4\1a&HFF&\t(0,130,\1a&H00&)\t(5875,5920,\1a&HFF&)}Sonna boku ni sube wa nai yo na
 Dialogue: 2,0:20:45.60,0:20:51.65,Lagu ED4 - ROM,,0,0,0,fx,{\fad(175,175)\4a&HFF&\bord0\blur0.55}Sonna boku ni sube wa nai yo na
 Dialogue: 1,0:20:54.94,0:20:56.74,Lagu ED4 - Alt - ROM,,0,0,0,fx,{\an5\pos(960.00,1016.00)\fad(200,0)\shad0\3c&HFFFFFF&\c&HFFFFFF&\bord2.5\3a&H50&\blur6\1a&HFF&\t(0,155,\1a&H00&)\fsp-1}Nani wo machigatta?
