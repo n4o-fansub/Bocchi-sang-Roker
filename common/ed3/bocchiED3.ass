@@ -17,14 +17,12 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Interrobang_Bocchi
-Audio File: ../../_old/Bocchi the Rock! - 08 (Amazon Prime CBR 1080p).mkv
-Video File: ../../_old/Bocchi the Rock! - 08 (Amazon Prime CBR 1080p).mkv
+Audio File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi08_bd_premux [1D43FE69].mkv
+Video File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi08_bd_premux [1D43FE69].mkv
+Keyframes File: ../../../../../Encodes/Bocchi the Rock!/Premux/bocchi08_bd_premux [1D43FE69]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 12
-Active Line: 18
-Video Position: 33216
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
