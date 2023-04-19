@@ -23,8 +23,8 @@ Keyframes File: ../../../../Encodes/Bocchi the Rock!/Premux/bocchi04_bd_premux [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 332
-Active Line: 336
+Scroll Position: 219
+Active Line: 225
 Video Position: 27373
 
 [V4+ Styles]
@@ -129,7 +129,7 @@ Dialogue: 0,0:04:30.54,0:04:34.11,Main,Ryo,0,0,0,,dan pesta takoyaki setahun sek
 Dialogue: 0,0:04:34.11,0:04:35.61,Main,Ryo,0,0,0,,Penggemar yang nyiapin bahan-bahannya.
 Dialogue: 0,0:04:35.00,0:04:36.16,Main,Kita,0,0,0,,Murahnya! Aku bergabung!
 Dialogue: 0,0:04:36.16,0:04:38.00,Main,Nijika,0,0,0,,Kita-chan, kamu anggota band-nya.
-Dialogue: 0,0:04:38.68,0:04:40.19,Main,Kita,0,0,0,,Goto-san sendiri bagaimana?
+Dialogue: 0,0:04:38.68,0:04:40.19,Main,Kita,0,0,0,,Gotoh-san sendiri bagaimana?
 Dialogue: 0,0:04:40.19,0:04:41.78,Main,Kita,0,0,0,,Apa ada ide?
 Dialogue: 0,0:04:42.64,0:04:44.93,Main,Hitori,0,0,0,,{\i1}Bagaimana ini? Aku nggak memikirkan apa pun!
 Dialogue: 0,0:04:44.93,0:04:45.84,Main,Hitori,0,0,0,,Ya-Yah ....
@@ -154,11 +154,11 @@ Dialogue: 0,0:05:24.54,0:05:26.18,Main,Kita,0,0,0,,Wah, nggak sabar!
 Dialogue: 0,0:05:26.18,0:05:27.43,Main,Nijika,0,0,0,,Tolong ya, Ryo!
 Dialogue: 0,0:05:27.43,0:05:28.80,Main,Nijika,0,0,0,,Dan juga Duta Lirik!
 Dialogue: 0,0:05:29.08,0:05:30.34,Main,Hitori,0,0,0,,Ba-Baik.
-Dialogue: 0,0:05:30.84,0:05:33.75,Main,Kita,0,0,0,,Goto-san, kamu dipercayakan\N tugas sulit, keren sekali!
+Dialogue: 0,0:05:30.84,0:05:33.75,Main,Kita,0,0,0,,Gotoh-san, kamu dipercayakan\N tugas sulit, keren sekali!
 Dialogue: 0,0:05:33.75,0:05:35.18,Main,Hitori,0,0,0,,Ke-Keren?!
 Dialogue: 0,0:05:35.18,0:05:37.96,Main,Hitori,0,0,0,,Y-Yah, menulis lirik mah gampang!
 Dialogue: 0,0:05:37.96,0:05:39.57,Main,Hitori,0,0,0,,Gampang sekali, deh!
-Dialogue: 0,0:05:39.57,0:05:41.86,Main,Kita,0,0,0,,Kamu mudah sekali terbawa suasana ya, Goto-san.
+Dialogue: 0,0:05:39.57,0:05:41.86,Main,Kita,0,0,0,,Kamu mudah sekali terbawa suasana ya, Gotoh-san.
 Dialogue: 0,0:05:43.43,0:05:47.61,Main,Hitori,0,0,0,,Pasti akan kutulis lirik yang bakalan\N viral dan kayak band banget!
 Dialogue: 0,0:05:48.48,0:05:49.66,Main,Ryo,0,0,0,,"Band banget"?
 Dialogue: 0,0:05:56.48,0:05:58.65,Main,Hitori,0,0,0,,{\i1}Nggak terpikir ide apa pun!
@@ -210,7 +210,7 @@ Dialogue: 0,0:07:43.99,0:07:48.72,Main,Hitori,0,0,0,,{\i1}Meski aku menganggap l
 Dialogue: 0,0:08:11.51,0:08:13.04,Main,Hitori,0,0,0,,{\i1}Dangkal banget.
 Dialogue: 0,0:08:13.04,0:08:17.93,Main,Hitori,0,0,0,,{\i1}Orang depresi yang mendengar lagu ini\N bakalan semakin putus asa lagi!
 Dialogue: 0,0:08:23.41,0:08:25.15,Main,Hitori,0,0,0,,Ma-Maafkan aku!
-Dialogue: 0,0:08:25.15,0:08:26.32,Main,Kita,0,0,0,,Goto-san?
+Dialogue: 0,0:08:25.15,0:08:26.32,Main,Kita,0,0,0,,Gotoh-san?
 Dialogue: 0,0:08:26.32,0:08:27.98,Main,Nijika,0,0,0,,Kamu kenapa?
 Dialogue: 0,0:08:27.98,0:08:31.03,Main,Hitori,0,0,0,,Bu-Bukankah ini sesi untuk mencabik-cabik diriku
 Dialogue: 0,0:08:31.03,0:08:33.38,Main,Hitori,0,0,0,,karena gagal menulis lirik meski sudah songong?
@@ -287,7 +287,7 @@ Dialogue: 0,0:11:54.33,0:11:56.60,Main,Ryo,0,0,0,,Karena sosokku sudah mewakili 
 Dialogue: 0,0:11:56.60,0:11:58.74,Main,Ryo,0,0,0,,kamu cukup meniru ekspresiku saja.
 Dialogue: 0,0:11:58.74,0:12:01.07,Main,Nijika,0,0,0,,Dari mana munculnya kepercayaan diri itu?
 Dialogue: 0,0:12:01.07,0:12:04.72,Main,Kita,0,0,0,,Tapi, menuruti perkataan Senpai tidak mungkin salah, lo!
-Dialogue: 0,0:12:04.72,0:12:06.03,Main,Kita,0,0,0,,Iya 'kan, Goto-san?
+Dialogue: 0,0:12:04.72,0:12:06.03,Main,Kita,0,0,0,,Iya 'kan, Gotohh-san?
 Dialogue: 0,0:12:06.03,0:12:07.00,Main,Hitori,0,0,0,,Y-Ya.
 Dialogue: 0,0:12:07.00,0:12:08.70,Main,Nijika,0,0,0,,Tukang setujunya ada dua?
 Dialogue: 0,0:12:08.70,0:12:09.91,Main,Nijika,0,0,0,,Baiklah.
@@ -301,7 +301,7 @@ Dialogue: 0,0:12:24.76,0:12:28.18,Main,Kita,0,0,0,,Oh, mungkin karena aku sering
 Dialogue: 0,0:12:28.18,0:12:29.18,Main,Kita,0,0,0,,Lihat?
 Dialogue: 0,0:12:30.86,0:12:33.33,Main,Nijika,0,0,0,,Duta Media Sosial memang hebat, deh!
 Dialogue: 0,0:12:34.60,0:12:36.77,Main,Nijika,0,0,0,,Bocchi-chan dalam kondisi sekarat?!
-Dialogue: 0,0:12:36.77,0:12:39.65,Main,Kita,0,0,0,,Kamu kenapa, Goto-san? Jangan mati!
+Dialogue: 0,0:12:36.77,0:12:39.65,Main,Kita,0,0,0,,Kamu kenapa, Gotoh-san? Jangan mati!
 Dialogue: 0,0:12:39.65,0:12:41.39,Main,Kita,0,0,0,,{\an8}Waduh! Dia berguling seperti ikan!
 Dialogue: 0,0:12:40.38,0:12:44.07,Main,Hitori,0,0,0,,{\i1}Aku belum pernah berfoto dengan teman-teman sebelumnya.
 Dialogue: 0,0:12:41.39,0:12:44.07,Main,Kita,0,0,0,,{\an8}Kamu kenapa? Bangunlah!
@@ -313,7 +313,7 @@ Dialogue: 0,0:12:55.53,0:12:57.13,Main,Nijika,0,0,0,,Bocchi-chan wajahnya jadi a
 Dialogue: 0,0:12:57.45,0:13:01.55,Main,Hitori,0,0,0,,{\i1}Apa masih ada gadis SMA lain sepertiku, ya?
 Dialogue: 0,0:13:01.55,0:13:05.18,Main,Hitori,0,0,0,,{\i1}Mungkin aku sudah menjadi spesies langka\N yang setara dengan tsuchinoko?
 Dialogue: 0,0:13:05.18,0:13:08.53,Main,Hitori,0,0,0,,Aku ... Aku adalah tsuchinoko-nya Shimo-Kitazawa.
-Dialogue: 0,0:13:08.53,0:13:10.37,Main,Kita,0,0,0,,Goto-san ngomong hal aneh!
+Dialogue: 0,0:13:08.53,0:13:10.37,Main,Kita,0,0,0,,Gotoh-san ngomong hal aneh!
 Dialogue: 0,0:13:10.37,0:13:11.78,Main,Nijika,0,0,0,,Biasanya memang begini.
 Dialogue: 0,0:13:10.90,0:13:12.60,Main,Hitori,0,0,0,,{\an8}Noko-noko. Noko-noko.
 Dialogue: 0,0:13:12.60,0:13:15.28,Main,Nijika,0,0,0,,Bocchi-chan, mau coba memulai Isstagram juga?
@@ -322,7 +322,7 @@ Dialogue: 0,0:13:17.72,0:13:18.75,Main,Kita,0,0,0,,Dengan senang hati!
 Dialogue: 0,0:13:18.75,0:13:20.14,Main,Kita,0,0,0,,Ayo berteman!
 Dialogue: 0,0:13:20.14,0:13:21.58,Main,Kita,0,0,0,,Kalau menekuni kegiatan band,
 Dialogue: 0,0:13:21.58,0:13:24.07,Main,Kita,0,0,0,,kita masing-masing harus punya akun anggota!
-Dialogue: 0,0:13:25.91,0:13:27.20,Main,Kita,0,0,0,,Goto-san?!
+Dialogue: 0,0:13:25.91,0:13:27.20,Main,Kita,0,0,0,,Gotoh-san?!
 Dialogue: 0,0:13:27.20,0:13:29.91,Main,Hitori,0,0,0,,{\i1}Kalau aku sampai membuat akun ....
 Dialogue: 0,0:13:30.25,0:13:33.64,Main,Hitori,0,0,0,,{\i1}Padahal berharga diri rendah, tapi\N memulai band agar bisa populer
 Dialogue: 0,0:13:33.64,0:13:35.66,Main,Hitori,0,0,0,,{\i1}meski berstatus fobia sosial ....
@@ -332,7 +332,7 @@ Dialogue: 0,0:13:48.87,0:13:51.56,Main,Hitori,0,0,0,,{\i1}... monster pencari pe
 Dialogue: 0,0:13:51.56,0:13:53.95,Main,Hitori,0,0,0,,Sukai postinganku!
 Dialogue: 0,0:13:54.07,0:13:56.64,Main,Hitori,0,0,0,,Sukai postinganku!
 Dialogue: 0,0:13:59.52,0:14:02.34,Main,Hitori,0,0,0,,{\i1}Yang kubutuhkan cuma situs video-ku saja.
-Dialogue: 0,0:14:02.90,0:14:04.69,Main,Kita,0,0,0,,Goto-san!
+Dialogue: 0,0:14:02.90,0:14:04.69,Main,Kita,0,0,0,,Gotoh-san!
 Dialogue: 0,0:14:04.69,0:14:06.61,Main,Nijika,0,0,0,,Bocchi-chan!
 Dialogue: 0,0:14:06.61,0:14:10.57,Main,Kita,0,0,0,,Lupakan saja media sosialnya!\NKembalilah ke sini!
 Dialogue: 0,0:14:11.47,0:14:12.77,Main,Nijika,0,0,0,,Kamu baik-baik saja?
@@ -470,7 +470,7 @@ Dialogue: 0,0:20:25.86,0:20:28.66,Main,Ryo,0,0,0,,Yap. Kalau begitu, aku menanti
 Dialogue: 0,0:20:43.02,0:20:44.22,Main,Hitori,0,0,0,,A-Anu ....
 Dialogue: 0,0:20:46.42,0:20:48.93,Main,Hitori,0,0,0,,Liriknya sudah selesai ....
 Dialogue: 0,0:20:49.44,0:20:50.68,Main,Hitori,0,0,0,,Si-Silakan.
-Dialogue: 0,0:20:51.07,0:20:53.75,Main,Kita,0,0,0,,Goto-san, kamu baik-baik saja? Kamu bermata beruang.
+Dialogue: 0,0:20:51.07,0:20:53.75,Main,Kita,0,0,0,,Gotoh-san, kamu baik-baik saja? Kamu bermata beruang.
 Dialogue: 0,0:20:53.75,0:20:54.69,Main,Hitori,0,0,0,,Y-Ya.
 Dialogue: 0,0:20:54.69,0:20:58.31,Main,Hitori,0,0,0,,Aku cuma terlalu fokus menulis lirik,
 Dialogue: 0,0:20:58.31,0:20:59.94,Main,Hitori,0,0,0,,aku jadi kelupaan tidur ....
